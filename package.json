@@ -9,6 +9,8 @@
   "author": "",
   "license": "CC0-1.0",
   "dependencies": {
-    "jsdom": "^19.0.0"
+    "jsdom": "^19.0.0",
+    "objects-to-csv-file": "^1.0.1",
+    "xlsx": "^0.17.5"
   }
 }
