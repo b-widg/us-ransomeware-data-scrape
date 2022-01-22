@@ -4,7 +4,7 @@
   "description": "Script to dcrape data on US ransomeware attackes and download to CSV.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "",
   "license": "CC0-1.0",
