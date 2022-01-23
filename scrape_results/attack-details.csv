@@ -1,4 +1,4 @@
-attackYear,attackMonth,entity,city,state,entitType,ransomePaid,amountPaid,foiaReq,avBefore,avAfter,articleLink
+attackYear,attackMonth,entity,city,state,entitType,ransomPaid,amountPaid,foiaReq,avBefore,avAfter,articleLink
 2020,3,Mat-Su Surgical Associates,Palmer,AK,Medical,Unknown,,,,,https://www.healthcareinfosecurity.com/ransomware-attacks-hit-2-more-healthcare-organizations-a-14379
 2018,7,Borough of Matanuska-Susitna,Fairbanks,AK,Municipality,Unknown,,Yes,"Barracuda, McAfee",Sophos,https://www.telegraph.co.uk/news/2018/08/01/alaska-town-returns-typewriters-ransomware-attack-shuts-computer/
 2018,7,City of Valdez,Valdez,AK,Municipality,Unknown,,Yes,McAfee,McAfee,https://www.valdezstar.net/story/2018/11/14/main-news/cyberattack-that-held-citys-info-for-ransom-in-final-recovery-phase/2109.html

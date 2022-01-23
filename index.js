@@ -77,7 +77,7 @@ const getData = async () => {
         const entity = tableData[1].textContent;
         const city = tableData[2].textContent.split(',')[0]; // Pull city only from City, ST
         const entitType = tableData[3].textContent;
-        const ransomePaid = tableData[4].textContent;
+        const ransomPaid = tableData[4].textContent;
         const amountPaid = parseInt(tableData[5].textContent.slice(1)) || ''; // Remove $ from string and convert to Int
         const foiaReq = tableData[6].textContent;
         const avBefore = tableData[7].textContent;
@@ -93,7 +93,7 @@ const getData = async () => {
           city,
           state,
           entitType,
-          ransomePaid,
+          ransomPaid,
           amountPaid,
           foiaReq,
           avBefore,
@@ -104,6 +104,7 @@ const getData = async () => {
       });
     });
     await wait(1500);
+    // console.log(`${state} complete.`);
   }
   return attackDetails;
 };
