@@ -41,7 +41,7 @@ NaN,NaN,Arizona Complete Health,Tempe,AZ,Medical,Unknown,,,,,https://www.beckers
 2019,12,Pittsburg High School,Pittsburg,CA,Education,Unknown,,,,,https://www.sfchronicle.com/crime/article/Hackers-hit-Pittsburg-schools-with-ransomware-14956852.php
 2019,12,City of Seal Beach,Seal Beach,CA,Municipality,Unknown,,,,,https://www.sunnews.org/city-of-seal-beach-victim-of-ransomware-attack/
 2019,12,Town of Galt,Galt,CA,Municipality,Unknown,,,,,https://wdef.com/2019/12/17/ransomware-attacks-hit-4-u-s-cities-month/
-2019,10,San Bernardino City Unified School District,San Bernardino,CA,Education,Unknown,,,Sophos,Sophos,https://ktla.com/2019/10/20/ransomware-attack-locks-san-bernardino-city-unified-school-district-computer-system/
+2019,10,San Bernardino City Unified School District,San Bernardino,CA,Education,,,,Sophos,Sophos,https://ktla.com/2019/10/20/ransomware-attack-locks-san-bernardino-city-unified-school-district-computer-system/
 2019,9,Wood Ranch Medical,Simi Valley,CA,Medical,No,,,,,https://healthitsecurity.com/news/california-provider-to-close-after-ransomware-attack-damages-system
 2019,6,Marin Community Clinics,Novato,CA,Medical,Yes,,N/A,,,https://www.marinij.com/2019/06/21/marin-community-clinics-hit-by-ransomware-attack/
 2019,4,City of Lodi City,Lodi City,CA,Municipality,No,,,"Kaspersky, Symantec",,https://www.newsbtc.com/2019/08/01/california-city-confirms-it-was-hit-by-bitcoin-ransomware-attack/
@@ -184,7 +184,7 @@ NaN,NaN,Applus Technologies,Tucker,GA,Business,Unknown,,,,,https://1stcybersecur
 2017,2,Bingham County,Blackfoot,ID,Municipality,Yes,3500,Yes,,Vipre,http://www.ksl.com/?nid=157&sid=43220149
 2021,4,Illinois Attorney General,Springfield,IL,Government,Unknown,,,,,https://www.wcia.com/illinois-capitol-news/attorney-generals-office-still-locked-out-of-computer-systems-nearly-month-after-ransomware-hack/
 2020,6,Columbia College,Chicago,IL,Education,Unknown,,,,,https://www.infosecurity-magazine.com/news/ransomware-strikes-third-us/
-2020,3,Champaign-Urbana Public Health District,Champaign,IL,Medical,Unknown,,,,,https://www.news-gazette.com/news/local/health-care/c-u-public-health-district-s-website-held-hostage-by/article_2dadedcd-aadb-5cb1-8740-8bd9e8800e27.html
+2020,3,Champaign-Urbana Public Health District,Champaign,IL,Medical,,,,,,https://www.news-gazette.com/news/local/health-care/c-u-public-health-district-s-website-held-hostage-by/article_2dadedcd-aadb-5cb1-8740-8bd9e8800e27.html
 2019,12,Sycamore School District 427,Sycamore,IL,Education,Unknown,,,VMWare,VMWare,https://www.daily-chronicle.com/2019/12/03/ransomware-attack-hits-sycamore-school-district-427/apeslaw/
 2019,11,Bartlett Public Library,Bartlett,IL,Municipality,Unknown,,,Sophos,Sophos,https://patch.com/illinois/elgin/bartlett-library-recovers-ransomware-virus
 2018,10,Crawford County,Robinson,IL,Municipality,Unknown,,Yes,,"Trend Micro, SonicWall",https://www.wthitv.com/content/news/Clerks-office-suffers-cyber-attack-498057601.html
@@ -228,7 +228,7 @@ NaN,NaN,LogicGate,Chicago,IL,Business,Unknown,,,,,https://techcrunch.com/2021/04
 2019,7,Sabine Parish School District,Sabine,LA,Education,Unknown,,,Symantec,Symantec,http://gov.louisiana.gov/index.cfm/page/76
 2019,7,Morehouse Parish School District,Bastrop,LA,Education,Unknown,,,,,http://gov.louisiana.gov/index.cfm/page/76
 2019,7,Ouachita Parish School District,Monroe,LA,Education,Unknown,,,,,http://gov.louisiana.gov/index.cfm/page/76
-2019,5,Imperial Health,Lake Charles,LA,Medical,Unknown,,,,,https://www.beckershospitalreview.com/cybersecurity/louisiana-physician-network-alerts-116-000-patients-of-ransomware-attack.html
+2019,5,Imperial Health,Lake Charles,LA,Medical,,,,,,https://www.beckershospitalreview.com/cybersecurity/louisiana-physician-network-alerts-116-000-patients-of-ransomware-attack.html
 2020,7,Somerset Berkley Regional High Schools,Somerset,MA,Education,Unknown,,,,,https://www.heraldnews.com/news/20200902/somerset-berkley-regional-high-school-victim-of-ransomware-attack
 2019,11,Chicopee School District,Chicopee,MA,Education,Unknown,,,"Malwarebytes, Symantec","Malwarebytes, Symantec",https://www.masslive.com/news/2019/11/chicopee-school-computers-being-restored-after-ransomware-attack-leaves-many-files-useless.html
 2019,10,Foxborough Regional Charter School,Foxborough,MA,Education,Unknown,,,McAfee,,https://www.bostonglobe.com/metro/2019/11/04/ransomware-attackers-demand-almost-from-foxborough-school-amid-weekslong-network-shutdown/RekQZXXFn6L1sRx5lvMmLL/story.html
@@ -260,7 +260,7 @@ NaN,NaN,University of Maryland,College Park,MD,Education,Unknown,,,,,https://www
 2017,4,"Airway Oxygen, Inc.",Grand Rapids,MI,Medical,Unknown,,N/A,,,http://fox17online.com/2017/06/14/local-medical-supply-company-releases-ransomware-warning/
 2016,4,Board of Water and Light,Lansing,MI,Municipality,Yes,25000,Yes,,,http://www.scmagazine.com/cyberattack-knocks-lansing-utility-offline/article/492887/
 NaN,NaN,Flagstar Bank,Jackson,MI,Business,Unknown,,,,,https://www.clickondetroit.com/consumer/help-me-hank/2021/03/23/flagstar-bank-customers-personal-information-stolen-in-ransomware-attack-officials-say/
-2020,12,Lake Region Healthcare,Fergus Falls,MN,,Unknown,,,,,https://healthitsecurity.com/news/minnesotas-lake-region-healthcare-recovering-from-ransomware-attack
+2020,12,Lake Region Healthcare,Fergus Falls,MN,,,,,,,https://healthitsecurity.com/news/minnesotas-lake-region-healthcare-recovering-from-ransomware-attack
 2019,9,Southeastern Minnesota Oral & Maxillofacial Surgery,Rochester,MN,Medical,Unknown,,,,,https://www.infosecurity-magazine.com/news/ransomware-attack-on-minnesota/
 2019,2,Park Rapids Public Schools,Park Rapids,MN,Education,No,,Yes,,,https://www.parkrapidsenterprise.com/news/education/4579363-park-rapids-schools-hit-ransomware-attack
 2018,3,Associates in Psychiatry and Psychology,Rochester,MN,Medical,Yes,3674,N/A,,,http://www.healthcareitnews.com/news/minnesota-ransomware-attack-shows-right-way-handle-breach-response
