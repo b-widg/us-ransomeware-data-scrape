@@ -1,5 +1,5 @@
 {
-  "name": "us-ransomeware-attackes-scrape",
+  "name": "us-ransomware-attackes-scrape",
   "version": "1.0.0",
   "description": "Script to dcrape data on US ransomeware attackes and download to CSV.",
   "main": "index.js",
