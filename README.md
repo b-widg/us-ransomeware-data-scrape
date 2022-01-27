@@ -23,6 +23,6 @@ The files are saved as both JSON and CSV in the folder named scrape_results.  Th
 The process will probably take a little under two minutes as a 1.5 second delay is included for each of the 50 URLs that are visited.
 
 
-##  [Data Visualization From Scrape on Tableau Public](https://public.tableau.com/app/profile/brian.widgeon/viz/US_Ransomware_Attacks/USRansomwareDashboard)  <img src="https://public.tableau.com/app/favicon.ico" alt="nodemon logo" width="23px">
+##  [Data Visualization From Scrape on Tableau Public](https://public.tableau.com/app/profile/brian.widgeon/viz/US_Ransomware_Attacks/USRansomwareDashboard)  <img src="https://public.tableau.com/app/favicon.ico" alt="nodemon logo" width="20px">
 ![Tableau Data Visulization From Scraped Data](./DataViz.png "US Ransomware Attacks Q1 2016 - Q3 2021
 ")
