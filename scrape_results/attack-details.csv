@@ -1,487 +1,487 @@
-attackYear,attackMonth,entity,city,state,entitType,ransomPaid,amountPaid,foiaReq,avBefore,avAfter,articleLink
-2020,3,Mat-Su Surgical Associates,Palmer,AK,Medical,Unknown,,,,,https://www.healthcareinfosecurity.com/ransomware-attacks-hit-2-more-healthcare-organizations-a-14379
-2018,7,Borough of Matanuska-Susitna,Fairbanks,AK,Municipality,Unknown,,Yes,"Barracuda, McAfee",Sophos,https://www.telegraph.co.uk/news/2018/08/01/alaska-town-returns-typewriters-ransomware-attack-shuts-computer/
-2018,7,City of Valdez,Valdez,AK,Municipality,Unknown,,Yes,McAfee,McAfee,https://www.valdezstar.net/story/2018/11/14/main-news/cyberattack-that-held-citys-info-for-ransom-in-final-recovery-phase/2109.html
-2018,4,Golden Heart Administrative Professionals,Fairbanks,AK,Medical,Unknown,,N/A,,,https://www.scmagazine.com/ransomware-based-breach-of-alaskan-medical-billing-vendor-impacts-fairbanks-municipality/article/782886/
-2020,11,Huntsville Public Schools,Huntsville,AL,Education,Unknown,,,,,https://www.waaytv.com/content/news/Huntsville-City-Schools-cancels-classes-Tuesday-due-to-ransomware-threat--573241121.html
-2020,7,Chilton County,Clanton,AL,Municipality,Unknown,,,,,https://www.cbs42.com/news/local/chilton-county-records-system-affected-by-ransomware-attack/
-2020,6,Tallapoosa County,Dadeville,AL,Municipality,Unknown,,,,,https://www.alexcityoutlook.com/news/tallapoosa-county-recovers-from-ransomware-attack/article_11c1983e-b23a-11ea-a31f-c353b4adbb67.html
-2020,6,City of Florence,Florence,AL,Municipality,Yes,300000,,,,https://securityboulevard.com/2020/06/florence-ala-hit-by-ransomware-12-days-after-being-alerted-by-krebsonsecurity/
-2019,9,DCH Regional Medical Center,Tuscaloosa,AL,Medical,Yes,,,,,https://arstechnica.com/information-technology/2019/10/hamstrung-by-ransomware-10-hospitals-are-turning-away-some-patients/
-2019,9,Northport Medical Center,Northport,AL,Medical,Yes,,,,,https://arstechnica.com/information-technology/2019/10/hamstrung-by-ransomware-10-hospitals-are-turning-away-some-patients/
-2019,9,Fayette Medical Center,Fayette,AL,Medical,Yes,,,,,https://arstechnica.com/information-technology/2019/10/hamstrung-by-ransomware-10-hospitals-are-turning-away-some-patients/
-2019,7,Springville Medical Center,Mobile,AL,Medical,Unknown,,,,,https://mynbc15.com/news/local/mobile-police-springhill-medical-center-was-victim-of-cyber-attack
-2019,7,Houston County Schools,Mobile,AL,Education,No,,,,,https://www.wtvy.com/content/news/Houston-County-Schools-Announces-Additional-Delay-513399671.html
-2018,2,City of Leeds,Leeds,AL,Municipality,Yes,8000,Yes,McAfee,,http://www.wbrc.com/story/37635768/city-of-leeds-falls-victim-to-ransomware-attack
-2017,9,Montgomery County,Montgomery,AL,Municipality,Unknown,,Yes,,,http://statescoop.com/they-said-they-wanted-bitcoins-ransomware-hits-montgomery-county-alabama
-2017,4,Cove Family and Sports Medicine,Huntsville,AL,Medical,No,,N/A,,,http://covemedicine.com/files/Krichev_-_Press_Release_Website_Announcement.pdf
-2020,8,Gosnell Schools,Gosnell,AR,Education,Unknown,,,,,https://www.kait8.com/2020/08/25/gosnell-schools-hit-with-ransomeware-attack/
-2019,10,Ozarks Orthopedics ,Fayetteville,AR,Medical,Unknown,,,,,https://www.beckershospitalreview.com/cybersecurity/arkansas-provider-alerts-15-000-patients-of-ransomware-attack.html
-2017,7,Arkansas Oral Facial Surgery Center,Fayetteville,AR,Medical,Unknown,,N/A,,,https://www.hipaajournal.com/ransomware-attack-128000-arkansas-patients/
-2021,1,Cochise Eye and Laser,Sierra Vista,AZ,Medical,Unknown,,,,,https://invisionmag.com/arizona-eyecare-practice-hit-by-ransomware-attack/
-2020,4,Magellan Health,Phoenix,AZ,Medical,Unknown,,,,,https://healthitsecurity.com/news/ransomware-attack-on-magellan-health-results-in-data-exfiltration
-2019,9,Flagstaff School District,Flagstaff,AZ,Education,Unknown,,,,,https://www.bleepingcomputer.com/news/security/students-rejoice-school-district-closed-by-ransomware-attack/
-2019,8,Camp Verde Unified School District,Campe Verde,AZ,Education,Unknown,,,"WatchGuard, VMWare",WatchGuard ,http://www.journalaz.com/news/education/49717-hackers-hit-cvusd-hit-with-ransomware-attack-as-school-year-starts.html
-2018,9,Maffi Clinics,Paradise Valley,AZ,Medical,No,,N/A,,,https://securityboulevard.com/2019/03/clinic-hit-by-ransomware-recovers-in-hours-thanks-to-solid-incident-response-plan/
-2016,5,Pinal County Attorney’s Office,Florence,AZ,Municipality,No,,Yes,Microsoft,Microsoft,http://www.12news.com/news/local/arizona/ransomware-virus-infects-pcao-case-files/225540620
-2016,2,"Arizona Superior Court, Pima County ",Tucson,AZ,Municipality,Unknown,,Yes,,,http://www.tucsonlocalmedia.com/local_business_news/article_e7c774b4-db73-11e5-8ea9-1f51be31323b.html
-NaN,NaN,Arizona Complete Health,Tempe,AZ,Medical,Unknown,,,,,https://www.beckershospitalreview.com/cybersecurity/ransomware-attack-exposes-27-000-arizona-health-plan-members-data-for-2-5-weeks.html
-2021,5,Scripps Health Care,San Diego,CA,Medical,Unknown,,,,,https://www.infosecurity-magazine.com/news/scripps-health-knocked-offline-by/
-2021,1,Granite Wellness Centers,Grass Valley,CA,Medical,Unknown,,,,,
-2020,10,City of Shafter,Shafter,CA,Municipality,Unknown,,,,,https://www.turnto23.com/news/local-news/city-of-shafter-hit-with-ransomware-attack
-2020,9,Newhall School District,Santa Clarita,CA,Education,Unknown,,,,,https://www.latimes.com/california/story/2020-09-15/newhall-elementary-schools-ransomware-attack
-2020,8,Selma School District,Selma,CA,Education,Unknown,,,,,https://abc30.com/selma-hack-classes-canceled-ransomware-school-district/6394182/
-2020,8,Imperial Valley College,Imperial Valley,CA,Education,Unknown,,,,,https://www.thedesertreview.com/news/ransomware-attack-on-ivc-leads-to-possible-delays-for-fall-semester/article_870f8082-de64-11ea-ab9d-c3949cde329b.html
-2020,6,"University of California, San Francisco ",San Francisco,CA,Education,Unknown,,,,,"https://www.bloomberg.com/news/articles/2020-06-04/hackers-target-california-university-leading-covid-19-research#:~:text=A%20group%20of%20hackers%20with,network%20may%20have%20been%20compromised."
-2020,5,Francis Parker Schools,San Diego,CA,Education,Unknown,,,,,https://www.10news.com/news/local-news/francis-parker-school-warns-parents-of-ransomware-attack
-2020,3,City of Torrance,Torrance,CA,Municipality,Unknown,,,Symantec,,https://www.bleepingcomputer.com/news/security/doppelpaymer-ransomware-hits-los-angeles-county-city-leaks-files/
-2020,1,Mountain View Los Altos Union High School,Mountain View,CA,Education,Unknown,,,,,https://www.losaltosonline.com/news/sections/schools/209-school-news/61785-mvla-suffers-ransomware-attack
-2020,1,Contra Costa County Library,Clayton,CA,Municipality,Unknown,,,SentinelOne,SentinelOne,https://www.eastbaytimes.com/2020/01/03/ransomware-attack-hits-contra-costa-library-system/
-2019,12,Enloe Medical Center,Chico,CA,Medical,Unknown,,,,,https://krcrtv.com/news/butte-county/enloe-targeted-by-ransomware-attack-and-elective-procedures-delayed
-2019,12,Pittsburg High School,Pittsburg,CA,Education,Unknown,,,,,https://www.sfchronicle.com/crime/article/Hackers-hit-Pittsburg-schools-with-ransomware-14956852.php
-2019,12,City of Seal Beach,Seal Beach,CA,Municipality,Unknown,,,,,https://www.sunnews.org/city-of-seal-beach-victim-of-ransomware-attack/
-2019,12,Town of Galt,Galt,CA,Municipality,Unknown,,,,,https://wdef.com/2019/12/17/ransomware-attacks-hit-4-u-s-cities-month/
-2019,10,San Bernardino City Unified School District,San Bernardino,CA,Education,,,,Sophos,Sophos,https://ktla.com/2019/10/20/ransomware-attack-locks-san-bernardino-city-unified-school-district-computer-system/
-2019,9,Wood Ranch Medical,Simi Valley,CA,Medical,No,,,,,https://healthitsecurity.com/news/california-provider-to-close-after-ransomware-attack-damages-system
-2019,6,Marin Community Clinics,Novato,CA,Medical,Yes,,N/A,,,https://www.marinij.com/2019/06/21/marin-community-clinics-hit-by-ransomware-attack/
-2019,4,City of Lodi City,Lodi City,CA,Municipality,No,,,"Kaspersky, Symantec",,https://www.newsbtc.com/2019/08/01/california-city-confirms-it-was-hit-by-bitcoin-ransomware-attack/
-2019,4,Imperial County,El Centro,CA,Municipality,Unknown,,Yes,Sophos,Sophos,https://www.ivpressonline.com/quicknews/county-targeted-by-ransomware/article_517bf2b0-62ba-11e9-8278-f724b9cee5c7.html
-2019,4,Shingle Springs Health and Wellness Center,Placerville,CA,Medical,Unknown,,N/A,,,https://healthitsecurity.com/news/5-more-healthcare-providers-fall-victim-to-ransomware-attacks
-2018,12,Podiatric Offices of Bobby Yee,Salinas,CA,Medical,Unknown,,N/A,,,https://healthitsecurity.com/news/ransomware-corrupts-24000-patient-records-of-california-specialist
-2018,9,Port of San Diego,San Diego,CA,Municipality,Unknown,,Yes,Comodo ,Palo Alto,https://www.theregister.co.uk/2018/09/27/san_diego_shipping_port_ransomware/
-2018,9,Redwood Eye Care,Vallejo,CA,Medical,Unknown,,N/A,,,https://www.scmagazine.com/home/security-news/redwood-eye-care-hit-with-ransomware-16000-records-encrypted/
-2018,7,Port of Long Beach,Long Beach,CA,Other,Unknown,,N/A,Palo Alto,Palo Alto,https://www.presstelegram.com/2018/07/24/long-beach-port-terminal-hit-by-ransomware-attack/
-2018,2,Center for Orthopedic Specialists,West Hills,CA,Medical,Unknown,,N/A,,,http://www.healthcareitnews.com/news/ransomware-attack-against-california-provider-breaches-data-85000-patients
-2018,1,Sacramento Bee,Sacramento,CA,Other,No,,N/A,,,https://www.scmagazine.com/ransomware-attack-on-sacramento-bee-database-exposes-voter-records-of-195m-californians/article/743302/
-2017,12,Stanislaus County,Modesto,CA,Municipality,Unknown,,Yes,,,http://www.kcra.com/article/fbi-investigates-cyberterrorist-attack-on-stanislaus-county-network/14446599
-2017,11,Sacramento Regional Transit,Sacramento,CA,Municipality,No,,Yes,Symantec,Carbon Black,http://www.foxnews.com/tech/2017/11/21/hacker-targets-sacramento-regional-transit-deletes-30-million-files-in-ransomware-attack.html
-2017,11,Golden Optometrics ,West Covina,CA,Medical,No,,N/A,,,https://oag.ca.gov/system/files/Golden%20Optometric%20-%20Individual%20Notice%20%28Privileged%20%26%20Confidential%29_1.pdf
-2017,9,San Ysidro School District,San Ysidro,CA,Education,No,,Yes,,,http://inewsource.org/2017/09/28/malware-san-ysidro-ransom/
-2017,6,Pacific Alliance Medical Center,Los Angeles,CA,Medical,Unknown,,N/A,,,http://www.healthcareitnews.com/news/los-angeles-provider-potentially-breached-ransomware-attack
-2017,6,KQED San Francisco,San Francisco,CA,Other,Unknown,,N/A,,,https://www.allaccess.com/net-news/archive/story/166840/kqed-san-francisco-hit-by-ransomware-attack
-2017,1,Los Angeles Community College District,Los Angeles,CA,Education,Yes,28000,N/A,McAfee,,http://www.washingtontimes.com/news/2017/jan/7/hackers-extort-28k-ransom-los-angeles-college/
-2016,11,Gurnick Academy,San Mateo,CA,Education,No,,N/A,,,http://www.csoonline.com/article/3161469/security/ransomware-makes-california-nursing-school-feel-ill.html
-2016,11,San Francisco Transportation Municipality Agency,San Francisco,CA,Municipality,No,,Yes,ESET,ESET,http://www.bankinfosecurity.com/ransomware-result-free-ticket-to-ride-in-san-francisco-a-9562
-2016,10,East Valley Community Health Center,West Covina,CA,Medical,No,,N/A,,,http://www.healthdatamanagement.com/news/california-health-center-ransomware-attack-affects-65-000
-2016,9,City of Yuba City,Yuba City,CA,Municipality,No,,Yes,Symantec,Symantec,http://www.appeal-democrat.com/news/yuba-city-battles-ransomware-attack/article_2ce285aa-876f-11e6-84cb-5f7e76beb13a.html
-2016,8,Marin Medical Practice Concepts,Novato,CA,Medical,Yes,,N/A,,,http://www.marinij.com/article/NO/20160813/NEWS/160819914
-2016,8,Yuba-Sutter Medical Clinic,Yuba City,CA,Medical,No,,N/A,,,http://www.appeal-democrat.com/news/ransomware-attack-hits-yuba-city-clinic/article_23755354-7954-11e6-8506-5f7d1b5d1d53.html
-2016,8,Keck Medical Center,Los Angeles,CA,Medical,No,,N/A,,,http://www.keckmedicine.org/wp-content/uploads/2016/09/doc11167320160920094345.pdf
-2016,7,Marin Healthcare District,Greenbrae,CA,Medical,Yes,,N/A,,,http://www.healthcareitnews.com/news/two-more-ransomware-attacks-both-organizations-pay
-2016,3,Chino Valley Medical Center ,Chino,CA,Medical,No,,N/A,,,http://techtalk.pcpitstop.com/2016/03/23/52934-methodist-hospital-hit-with-ransomware/
-2016,3,Desert Valley Hospital ,Victorville,CA,Medical,No,,N/A,,,http://techtalk.pcpitstop.com/2016/03/23/52934-methodist-hospital-hit-with-ransomware/
-2016,3,Alvarado Hospital Medical Center ,San Diego,CA,Medical,No,,N/A,,,http://www.sandiegouniontribune.com/news/2016/mar/31/alvarado-malware-attack/
-2016,2,Hollywood Presbyterian Medical Center,Los Angeles,CA,Medical,Yes,17000,N/A,,,http://www.digitaltrends.com/computing/hollywood-hospital-ransomware-attack/
-NaN,NaN,Yuba County,Yuba City,CA,Government,No,,,,,https://www.techwire.net/news/county-recovers-after-ransomware-attack.html
-NaN,NaN,KHS Bicycles,Rancho Dominguez,CA,Business,Unknown,,,,,https://www.bicycleretailer.com/industry-news/2020/02/25/khs-bicycles-systems-hacked-distributor-halts-shipments#.YGYsPi1h2fQ
-NaN,NaN,University of California Berkeley,Berkeley,CA,Education,Unknown,,,,,https://portswigger.net/daily-swig/uc-berkeley-confirms-data-breach-becomes-latest-victim-of-accellion-cyber-attack
-NaN,NaN,Kia Motors America,Irvine,CA,Business,Unknown,,,,,https://www.bleepingcomputer.com/news/security/kia-motors-america-suffers-ransomware-attack-20-million-ransom/
-NaN,NaN,Hyundai Motor America,El Monte,CA,Business,Unknown,,,,,https://www.freightwaves.com/news/hackers-expose-hyundai-logistics-data-after-apparent-ransomware-attack
-NaN,NaN,Stanford University,Stanford,CA,Education,Unknown,,,,,https://www.mercurynews.com/2021/04/01/investigation-underway-into-stanford-personal-data-breach/
-NaN,NaN,University of California Online,Berkeley,CA,Education,Unknown,,,,,https://www.zdnet.com/article/ransomware-group-targets-universities-of-maryland-california-in-new-data-leaks/
-NaN,NaN,Accellion,Palo Alto,CA,Business,Unknown,,,,,https://www.wired.com/story/accellion-breach-victims-extortion/
-NaN,NaN,Codecov,San Francisco,CA,Business,Unknown,,,,,https://therecord.media/codecov-discloses-2-5-month-long-supply-chain-attack/
-2020,7,City of Lafayette,Lafayette,CO,Municipality,Yes,45000,,,,https://www.bleepingcomputer.com/news/security/colorado-city-forced-to-pay-45-000-ransom-to-decrypt-files/
-2020,4,Parkview Medical Center,Pueblo,CO,Medical,Unknown,,,,,https://www.databreachtoday.com/colorado-hospital-latest-cyberattack-victim-amid-covid-19-a-14189
-2020,4,Rangely District Hospital,Rangely,CO,Medical,Unknown,,,,,https://www.theheraldtimes.com/rdh-suffers-ransomware-attack/rangely/
-2019,11,Archuleta County,Pagosa Springs,CO,Municipality,Unknown,,,Webroot,Webroot,http://www.pagosasun.com/county-ransomware-virus-eradicated-hackers-ask-for-300000/
-2019,11,Denver Public Library,Denver,CO,Municipality,Unknown,,,,,https://denverite.com/2019/11/14/denver-public-library-shuts-down-its-computer-network-after-detecting-ransomware/
-2019,8,Regis University,Denver,CO,Education,Unknown,,,,,https://www.thedenverchannel.com/news/local-news/college-in-denver-shuts-down-its-network-after-cyberattack
-2019,6,Estes Park Health,Estes Park,CO,Medical,Yes,,N/A,,,https://healthitsecurity.com/news/5-more-healthcare-providers-fall-victim-to-ransomware-attacks
-2018,2,Colorado Department of Transportation,Denver,CO,Municipality,No,,Yes,,,https://www.denverpost.com/2018/02/21/samsam-virus-ransomware-cdot/
-2017,11,Longs Peak Family Practice,Longmont,CO,Medical,No,,N/A,,,https://longspeakfamilypractice.com/wp-content/uploads/Notice12272017.pdf
-2017,9,City of Englewood,Englewood,CO,Municipality,Unknown,,Yes,Avast,Trend Micro,http://kdvr.com/2017/10/05/city-of-englewood-hit-by-ransomware-attack/
-2016,5,"Allergy, Asthma & Immunology of the Rockies ",Fort Collins,CO,Medical,No,,N/A,,,http://healthitsecurity.com/news/co-clinic-healthcare-ransomware-case-affects-6800-patients
-NaN,NaN,University of Colorado,Denver,CO,Education,Uknown,,,,,https://www.msspalert.com/cybersecurity-breaches-and-attacks/ransomware/university-ransomware-attacks-hackers-hit-colorado-miami-schools/
-NaN,NaN,JBS,Greeley,CO,Business,Yes,11000000,,,,https://www.cpr.org/2021/06/02/jbs-ransomware-attack-greeley-plant/
-2020,9,Hartford Public Schools,Hartford,CT,Education,Unknown,,,,,https://www.foxnews.com/us/hartford-connecticut-public-schools-delays-first-day-ransomware-virus
-2019,11,Manchester Ophthalmology ,Manchester,CT,Medical,Unknown,,,,,https://www.beckershospitalreview.com/cybersecurity/hacker-attempts-to-encrypt-connecticut-provider-with-ransomware.html
-2019,8,Middleton School District,Middleton,CT,Education,Unknown,,,,,https://arstechnica.com/information-technology/2019/08/rash-of-ransomware-continues-with-13-new-victims-most-of-them-schools/
-2019,8,Wolcott Public Schools,Wolcott,CT,Education,Unknown,,,,,https://arstechnica.com/information-technology/2019/08/rash-of-ransomware-continues-with-13-new-victims-most-of-them-schools/
-2019,8,Wallingford School District,Wallingford,CT,Education,Unknown,,,,,https://arstechnica.com/information-technology/2019/08/rash-of-ransomware-continues-with-13-new-victims-most-of-them-schools/
-2019,7,New Haven Public Schools,New Haven,CT,Education,Unknown,,,,,https://www.nhregister.com/news/article/New-Haven-Public-Schools-hit-by-ransomware-attack-14119810.php
-2019,2,Town of Colchester,Colchester,CT,Municipality,Unknown,,Yes,Microsoft,Microsoft,https://www.nbcconnecticut.com/news/local/Colchester-Town-Computers-Infected-with-Ransomware-506517691.html
-2019,1,Bridgeport Public Schools,Bridgeport,CT,Education,Unknown,,Yes,,,https://www.scmagazine.com/home/security-news/bridgeport-conn-schools-hit-with-ransomware/
-2018,11,"Dr. Thomas DeLuca, Dr. Anthony Marciano & Associates",Prospect,CT,Medical,No,,N/A,,,https://healthitsecurity.com/news/ransomware-attack-on-connecticut-provider-impacts-24000-patients
-2018,10,City of West Haven,West Haven,CT,Municipality,Yes,2000,Yes,,,https://www.nhregister.com/news/article/West-Haven-falls-victim-to-ransomware-13318508.php
-2018,7,Derby Police Department,Derby,CT,Municipality,Unknown,,Yes,Trend Micro,Trend Micro,http://www.wfsb.com/story/38614562/derby-police-dept-hit-by-hackers
-2018,6,Middleton School District,Middleton,CT,Education,No,,Yes,,,http://www.courant.com/community/middletown/hc-news-middletown-school-ransomware-20180629-story.html
-2018,3,Connecticut Court Systems,Hartford,CT,Municipality,No,,Yes,,,http://wtnh.com/2018/03/10/malicious-software-hits-connecticut-court-systems-computers/
-2017,10,National Capital Poison Center,Washington D.C.,DC,Municipality,Unknown,,Yes,,,https://oag.ca.gov/system/files/NCPC%20Exhibit%201%20to%20CA%20Regulator%20Notice_0.pdf
-2017,1,Metropolitan Police Department,District of Columbia,DC,Law Enforcement,No,,Yes,,,http://www.washingtontimes.com/news/2017/jan/28/police-surveillance-system-hacked-dc-days-prior-tr/
-2016,4,House Information Security Office ,Washington D.C.,DC,Federal Government,Unknown,,,,,https://theintercept.com/2016/05/10/hackers-attempt-to-hold-capitol-hill-data-for-ransom/
-2016,3,MedStar Health ,Washington D.C.,DC,Medical,No,,N/A,,,http://www.esecurityplanet.com/network-security/medstar-health-infected-with-ransomware.html
-NaN,NaN,Washington DC Metro Police,Washington,DC,Government,Unknown,,,,,https://www.cnn.com/2021/04/27/politics/dc-police-department-ransomware-attack/index.html
-NaN,NaN,iConstituent,Washington,DC,Business,Unknown,,,,,https://www.nbcnews.com/politics/congress/house-communications-vendor-compromised-ransomware-attack-n1269934
-2020,1,Brandywine Urology,Wilmington,DE,Medical,Unknown,,,,,https://healthitsecurity.com/news/ransomware-attack-on-brandywine-urology-impacts-131k-patients
-2018,12,Delaware Guidance Services for Children and Youth,Dover,DE,Medical,Yes,,N/A,,,https://healthitsecurity.com/news/delaware-guidance-services-ransomware-attack-impacts-50000
-2017,6,Medical Oncology Hematology Consultants,Newark,DE,Medical,No,,N/A,,,https://www.healthdatamanagement.com/news/ransomware-attack-in-delaware-affects-more-than-19-000
-2021,4,J&B Importers,Miami,FL,Business,Unknown,,,,,https://www.bicycleretailer.com/industry-news/2021/04/01/j-b-importers-victimized-ransomware-attack
-2021,3,Broward County Public Schools,Fort Lauderdale,FL,Education,Unknown,,,,,https://wsvn.com/news/local/broward/hackers-hit-broward-county-public-schools-with-40-million-ransom-for-student-teacher-information/
-2020,4,Florida Orthopaedic Institute ,Tampa Bay,FL,Medical,Unknown,,,,,https://ryortho.com/breaking/florida-orthopaedic-institute-victim-of-ransomware-attack/
-2020,3,Town of Jupiter,Jupiter,FL,Municipality,Unknown,,,,,https://www.msspalert.com/cybersecurity-breaches-and-attacks/ransomware/sodinokibi-attacks-florida-towns-digital-services/
-2020,2,Miami Beach Police Department,Miami,FL,Municipality,Unknown,,,,,https://www.cisomag.com/miami-beach-police-department-suffers-ransomware-attack/
-2020,1,Tampa Bay Times,Tampa Bay,FL,Other,No,,,,,https://www.tampabay.com/news/business/2020/01/23/tampa-bay-times-hit-by-ransomware-attack/
-2019,12,St. Lucie Sheriff's Department,St. Lucie,FL,Municipality,Unknown,,,Barracuda ,Barracuda ,https://wdef.com/2019/12/17/ransomware-attacks-hit-4-u-s-cities-month/
-2019,12,City of Pensacola,Pensacola,FL,Municipality,Unknown,,,FireEye,,https://www.infosecurity-magazine.com/news/pensacola-attack-suspected/
-2019,11,Center for Facial Restoration,Miramar,FL,Medical,Unknown,,,,,https://www.hipaajournal.com/ransomware-attacks-reported-by-florida-and-texas-healthcare-providers/
-2019,9,Wakulla County School District,Wakulla,FL,Education,Yes,,,Bitdefender,,https://www.wtxl.com/news/local-news/wakulla-county-school-board-votes-to-negotiate-with-hackers-after-ransomware-attack
-2019,8,Ohev Shalom Synagogue,Maitland,FL,Other,No,,,,,http://www.fox35orlando.com/home/synagogue-in-maitland-hacked-by-ransomware
-2019,7,Bilancione Dentistry,Maitland,FL,Medical,No,,,,,https://www.clickorlando.com/news/maitland-dentist-office-threatened-with-20000-ransomware
-2019,6,City of Lake City,Lake City,FL,Municipality,Yes,460000,Yes,Sophos,,https://securityboulevard.com/2019/06/ransomware-attack-paralyses-lake-city-email-landlines-and-credit-card-services/
-2019,6,City of Rivieria Beach,Rivieria Beach,FL,Municipality,Yes ,600000,Yes,Sophos,,https://www.cbsnews.com/news/riviera-beach-florida-ransomware-attack-city-council-pays-600000-to-hackers-who-seized-its-computer-system/
-2019,6,Village of Key Biscayne,Key Biscayne,FL,Municipality,Unknown,,Yes,McAfee,,https://arstechnica.com/information-technology/2019/06/is-there-something-in-the-water-third-florida-city-hit-by-ransomware/
-2019,6,WMNF Radio ,Tampa,FL,Municipality,No,,N/A,,,https://www.tampabay.com/breaking-news/radio-station-wmnf-victim-of-ransomware-cyberattack-20190717/
-2019,4,City of Stuart,Stuart,FL,Municipality,No,,Yes,McAfee,,https://www.tcpalm.com/story/news/local/martin-county/2019/04/17/stuart-officials-confirm-city-victim-computer-ransomware-attack/3502211002/
-2018,12,Town of Jupiter,Jupiter,FL,Municipality,No,,Yes,Beyond Trust,Trend Micro,https://cbs12.com/news/local/town-of-jupiter-hit-by-malware-attack
-2018,11,FABEN Obstetrics and Gynecology,Jacksonville,FL,Medical,No,,N/A,,,https://healthitsecurity.com/news/ransomware-attack-on-floridas-faben-ob-gyn-results-in-data-loss
-2018,9,Monroe County School District,Key West,FL,Education,Unknown,,N/A,Symantec,Symantec,https://www.miamiherald.com/latest-news/article218289740.html
-2017,4,St. Mark's Surgical Center,Fort Myers,FL,Medical,Unknown,,N/A,,,https://www.healthdatamanagement.com/news/ransomware-hits-a-florida-surgery-center
-2016,8,City of Sarasota,Sarasota,FL,Municipality,No,,Yes,Sophos,Sophos,http://www.mysuncoast.com/news/local/city-of-sarasota-s-system-hacked-by-ransomware-data-held/article_706019e2-6635-11e6-94cc-af3af2bb01f1.html
-2016,6,Palm Beach 911 Systems ,Palm Beach,FL,Law Enforcement,No,,Yes,Symantec,Symantec,http://cbs12.com/news/local/town-of-palm-beach-fights-ransomware-attack-on-911-system
-NaN,NaN,University of Miami,Miami,FL,Education,Unknown,,,,,https://www.msspalert.com/cybersecurity-breaches-and-attacks/ransomware/university-ransomware-attacks-hackers-hit-colorado-miami-schools/
-2021,5,Colonial Pipeline,Alpharetta,GA,Business,Yes,4400000,,,,https://www.cnbc.com/2021/05/08/colonial-pipeline-shuts-pipeline-operations-after-cyberattack.html
-2020,10,Hall County,Gainesville,GA,Municipality,Unknown,,,,,https://www.nbcnews.com/tech/security/ransomware-hit-georgia-county-didn-t-stop-its-ballot-counting-n1244601
-2020,9,Jekyll Island Authority,Jekyll Island,GA,Municipality,Unknown,,,,,https://www.govtech.com/security/Jekyll-Island-Authority-Targeted-by-Ransomware-Attack.html
-2020,5,City of Columbus,Columbus,GA,Municipality,Unknown,,,,,https://www.wrbl.com/news/local-news/columbus-mayor-confirms-ransomware-attack-on-city-government-yesterday/
-2020,5,City of Columbus,Columbus,GA,Municipality,Unknown,,,,,https://www.wrbl.com/news/local-news/columbus-mayor-confirms-ransomware-attack-on-city-government-yesterday/
-2020,2,Rockdale County,Conyers,GA,Municipality,Unknown,,,AVG,,https://www.11alive.com/article/news/local/rockdale-county-ransomware-attack/85-d4d56adf-ea16-4ca9-aba0-e668f37548ac
-2019,12,City of Dunwoody,Dunwoody,GA,Municipality,Unknown,,,,,https://www.reporternewspapers.net/2020/01/26/cyber-attack-is-estimated-cost-to-dunwoody-at-least-80k/
-2019,10,City of Cornelia ,Cornelia,GA,Municipality,No,,,,,https://securityintelligence.com/news/georgia-city-avoids-data-loss-after-third-ransomware-attack-of-2019/
-2019,9,Houston County Schools,Perry,GA,Education,Unknown,,,,,https://www.13wmaz.com/article/news/local/houston-county-board-of-education-website-hit-with-ransomware-attack/93-dece14ea-9fef-4c3b-a913-ea972c5b46fc
-2019,7,Georgia Court Agency,Atlanta,GA,Municipality,Unknown,,,,,https://www.ajc.com/news/state--regional-govt--politics/georgia-court-agency-hacked-ransom-attack/P3UaTuigNhT6JfREQaiKZK/
-2019,7,Lawrenceville Police Department,Lawrenceville,GA,Municipality,Unknown,,Yes,Check Point,Check Point,https://www.11alive.com/article/news/local/mynews/lawrenceville/ransomeware-hits-lawrenceville-pd-computer-systems/85-5b4cd2dc-4b30-482c-85f7-44d84bebf7a2
-2019,7,Henry County,McDonough,GA,Municipality,Unknown,,,,,https://www.ajc.com/news/local/henry-county-networks-still-offline-five-days-after-malware-attack/jRM5Qpf9EcXeNlKzoYRRPP/
-2019,7,Department of Public Safety,Atlanta,GA,Municipality,No,,,"Malwarebytes, Webroot","Malwarebytes, Webroot, Endgame",https://www.wbay.com/content/news/Georgia-State-Patrol-hit-by-ransomware-attack-513307421.html
-2019,6,Floyd County Courts,Rome,GA,Municipality,No,,,SonicWall,,http://www.northwestgeorgianews.com/rome/news/local/floyd-county-courts-are-recovering-after-malware-attack/article_e0b139a4-fbf3-11e9-9609-bf8a038a9f3e.html
-2019,5,City of Cartersville,Cartersville,GA,Municipality,Yes,380000,,,,"http://www.daily-tribune.com/stories/records-reveal-city-of-cartersville-paid-ransomware-attackers-380k,24425"
-2019,4,Stone Mountain Park Association,Stone Mountain,GA,Municipality,Unknown,,Yes,Symantec,Cisco,https://www.11alive.com/article/news/local/stone-mountain/stone-mountain-memorial-association-hit-by-ransomware-attack/85-f5431fe8-5ec4-45ab-9f86-c164af52b053
-2019,3,Jackson County,Jefferson,GA,Municipality,Unknown,,Yes,,Crowdstrike,https://www.11alive.com/article/tech/ransomware-attack-targets-rural-georgia-county/85-2d6459e7-bd16-4cf9-b9fb-b03108a25144
-2018,9,Mind and Motion Developmental Centers,Suwanee,GA,Medical,Unknown,,N/A,,,https://healthitsecurity.com/news/ransomware-attack-impacts-16000-patients-in-georgia
-2018,8,Coweta County,Newnan,GA,Municipality,Unknown,,Yes,,,http://times-herald.com/news/2018/08/county-computers-hit-by-ransomware
-2018,4,Dawson County,Dawsonville,GA,Municipality,Unknown,,Yes,SonicWall, Continuum,https://www.dawsonnews.com/local/county-computers-downed-by-ransomware/
-2018,3,City of Atlanta,Atlanta,GA,Municipality,Unknown,,Yes,McAfee,McAfee,https://www.scmagazine.com/atlanta-computer-systems-under-siege-in-possible-ransomware-attack/article/753123/
-2018,2,City of Hinesville,Hinesville,GA,Municipality,Unknown,,Yes,Microsoft,"Microsoft, Palo Alto",http://coastalcourier.com/section/2/article/91246/
-2017,12,Georgia Department of Agriculture,Atlanta,GA,Municipality,No,,Yes,Trend Micro,Trend Micro,http://www.myajc.com/news/state--regional-govt--politics/georgia-agriculture-website-finally-restored-after-malware-attack/PqV5X1QMaIFoPFx6zM5O2K/
-2017,7,Peachtree Neurological Clinic,Atlanta,GA,Medical,No,,N/A,,,http://www.beckershospitalreview.com/healthcare-information-technology/atlanta-clinic-discovers-15-month-breach-while-investigating-separate-ransomware-attack.html
-2017,4,Greenway Health,Carrollton,GA,Medical,Unknown,,N/A,,,https://www.healthdatamanagement.com/news/greenway-health-still-struggling-with-ransomware-attack
-NaN,NaN,ParkMobile,Atlanta,GA,Business,Unknown,,,,,https://heimdalsecurity.com/blog/parkmobile-breach-data-exposed/
-NaN,NaN,Applus Technologies,Tucker,GA,Business,Unknown,,,,,https://1stcybersecurity.com/index.php/2021/04/05/malware-attack-on-applus-impacts-vehicle-inspections-in-multiple-us-states/
-2018,6,Fetal Diagnostic Institute of the Pacific,Honolulu,HI,Medical,Unknown,,N/A,,,https://www.beckershospitalreview.com/cybersecurity/40k-notified-of-ransomware-attack-at-hawaii-fetal-diagnostic-center.html
-2016,9,Honolulu Fire Department ,Honolulu,HI,Municipality,No,,Yes,,,http://khon2.com/2016/09/26/malicious-software-may-have-infected-hfd-computer-system/
-2019,3,Grinnell College in Iowa,Grinnell,IA,Education,Unknown,,N/A,,,https://www.scmagazine.com/home/security-news/threat-actors-launched-ransomware-attacks-against-three-u-s-colleges-seizing-the-data-on-students-applying-for-admission/
-2019,1,Southern Hills Eye Care,Sioux City,IA,Medical,Unknown,,N/A,,,http://www.spamfighter.com/News-22150-Southern-Hills-Eye-Care-impacted-by-a-Ransomware-Attack.htm
-2018,10,City of Muscatine,Muscatine,IA,Municipality,Unknown,,Yes,Malwarebytes,Malwarebytes,https://www.kwqc.com/content/news/City-of-Muscatine-reports-ransomware-attack-497981371.html
-2018,8,Jones Eye Clinic,Sioux City,IA,Medical,Unknown,,N/A,,,https://siouxcityjournal.com/news/local/cyber-attack-exposed-information-for-patients-of-sioux-city-vision/article_04bac729-e3ba-585f-8e9d-373d54601186.html
-2017,6,Waverly Medical Center,Waverly,IA,Medical,No,,N/A,,,http://www.radioiowa.com/2017/06/16/waverly-hospitals-computers-hacked-by-ransomware/
-2016,8,Spencer Chamber of Commerce,Spencer,IA,Municipality,No,,Yes,Webroot,Webroot,http://www.spencerdailyreporter.com/story/2330132.html
-2016,7,Woodbury County ,Sioux City,IA,Municipality,No,,,Sophos,Sophos, http://siouxcityjournal.com/news/supervisors-approve-investigation-into-cyber-attack-that-compromised-county-files/article_6273cb18-7704-5803-bd66-c88a9931a4d0.html
-2016,2,St. Paul’s Lutheran Church ,Sioux City,IA,Other,No,,N/A,,,http://wqad.com/2016/02/26/churchs-computer-files-held-for-ransom-in-sioux-city-iowa/
-2019,8,Nampa Idaho School District,Nampa,ID,Education,Unknown,,,,,https://arstechnica.com/information-technology/2019/08/rash-of-ransomware-continues-with-13-new-victims-most-of-them-schools/
-2019,4,Sugar-Salem School District,Sugar City,ID,Education,Unknown,,Yes,,,https://www.eastidahonews.com/2019/04/ransomware-takes-down-servers-at-local-school-district/
-2018,10,Madison County ,Rexburg,ID,Municipality,No,,Yes,ESET,ESET,https://www.ktvb.com/article/news/local/idaho/ransomware-attack-knocks-out-e-idaho-countys-system/277-603300893
-2017,12,Jerome School District,Jerome,ID,Education,No,,Yes,Lightspeed,Sophos,http://www.kmvt.com/mycapture/submit/
-2017,2,Bingham County,Blackfoot,ID,Municipality,Yes,3500,Yes,,Vipre,http://www.ksl.com/?nid=157&sid=43220149
-2021,4,Illinois Attorney General,Springfield,IL,Government,Unknown,,,,,https://www.wcia.com/illinois-capitol-news/attorney-generals-office-still-locked-out-of-computer-systems-nearly-month-after-ransomware-hack/
-2020,6,Columbia College,Chicago,IL,Education,Unknown,,,,,https://www.infosecurity-magazine.com/news/ransomware-strikes-third-us/
-2020,3,Champaign-Urbana Public Health District,Champaign,IL,Medical,,,,,,https://www.news-gazette.com/news/local/health-care/c-u-public-health-district-s-website-held-hostage-by/article_2dadedcd-aadb-5cb1-8740-8bd9e8800e27.html
-2019,12,Sycamore School District 427,Sycamore,IL,Education,Unknown,,,VMWare,VMWare,https://www.daily-chronicle.com/2019/12/03/ransomware-attack-hits-sycamore-school-district-427/apeslaw/
-2019,11,Bartlett Public Library,Bartlett,IL,Municipality,Unknown,,,Sophos,Sophos,https://patch.com/illinois/elgin/bartlett-library-recovers-ransomware-virus
-2018,10,Crawford County,Robinson,IL,Municipality,Unknown,,Yes,,"Trend Micro, SonicWall",https://www.wthitv.com/content/news/Clerks-office-suffers-cyber-attack-498057601.html
-2018,10,Moultrie County,Sullivan,IL,Municipality,Unknown,,Yes,Symantec,,http://www.wandtv.com/story/39367288/ransomware-may-have-hit-moultrie-computer-system
-2017,11,J. Sterling Morton High School,Cicero,IL,Education,No,,Yes,Trend Micro,Microsoft,https://www.bleepingcomputer.com/news/security/ransomware-targets-j-sterling-morton-high-school-students-with-fake-survey/
-2017,3,Wood River Police Department,Wood River,IL,Law Enforcement,No,,Yes,McAfee,McAfee,http://thetelegraph.com/news/97981/wood-river-police-department-thwarts-attempt-at-ransomware-attack
-2017,2,Roxana Police Department,Roxana,IL,Law Enforcement,Unknown,,Yes,ESET,Webroot,https://thetelegraph.com/news/96543/roxana-police-department-computer-systems-infected-by-ransomware
-NaN,NaN,LogicGate,Chicago,IL,Business,Unknown,,,,,https://techcrunch.com/2021/04/13/logicgate-risk-cloud-data-breach/
-2019,8,Lake County ,Lake County,IN,Municipality,Unknown,,,Symantec,Symantec,https://arstechnica.com/information-technology/2019/08/rash-of-ransomware-continues-with-13-new-victims-most-of-them-schools/
-2019,7,City of La Porte,La Porte,IN,Municipality,Yes,130000,,,,https://www.heraldargus.com/news/malware-attack-on-county-computers/article_cc551381-59d1-5478-a73d-5158a5b67648.html
-2019,7,Vigo County,Terre Haute,IN,Municipality,Unknown,,,,,https://www.wibc.com/news/local-news/vigo-co-computers-hit-ransomware-attack
-2019,6,Pike Township,Pike Township,IN,Municipality,Unknown,,,,,https://www.wibc.com/news/local-news/pike-township-hit-computer-hackers
-2019,4,Howard County ,Kokomo,IN,Municipality,Unknown,,Yes,Sophos,Sophos,https://www.wthr.com/article/malware-attack-impacts-howard-county-government-offices
-2018,10,Indiana National Guard,Indianapolis,IN,Municipality,Unknown,,Yes,,,https://www.theindychannel.com/news/state-news/indiana-national-guard-server-attacked-by-ransomware
-2018,1,Hancock Regional Hospital,Greenfield,IN,Medical,Yes,55000,N/A,,,https://bitcoinist.com/pay-up-or-else-indiana-hospital-latest-victim-of-ransomware-attack/
-2018,1,Adam's Memorial Hospital,Decatur,IN,Medical,Unknown,,N/A,,,http://wane.com/2018/01/18/ransomware-attack-targets-adams-memorial-hospital/
-2017,7,Marion County Fairgrounds,Indianapolis,IN,Other,No,,N/A,,,http://cbs4indy.com/2017/07/07/brownsburg-public-library-and-marion-county-fairgrounds-hit-by-ransomware-attacks/
-2017,7,Brownsburg Public Library,Indianapolis,IN,Other,Yes,,N/A,,,http://cbs4indy.com/2017/07/07/brownsburg-public-library-and-marion-county-fairgrounds-hit-by-ransomware-attacks/
-2017,2,Richmond Housing Agency,Richmond,IN,Municipality,No,,Yes,,,http://www.miamiherald.com/news/business/technology/article138861748.html
-2017,1,Indiana Cancer Services ,Muncie,IN,Medical,No,,N/A,,,http://www.networkworld.com/article/3158832/security/cyber-scum-suckers-hit-cancer-agency-with-ransomware-threaten-to-contact-families.html
-2016,11,Madison County,Anderson,IN,Municipality,Yes,21000,Yes,Trend Micro,,http://www.wthr.com/article/madison-county-computer-servers-compromised-by-ransomware
-2016,11,Howard County ,Kokomo,IN,Municipality,No,,Yes, Sophos, Sophos,http://kokomoperspective.com/kp/news/ransomware-targets-howard-county-government/article_9a6d8640-b5bb-11e6-854b-ff832671083f.html
-2016,5,DeKalb Health ,Auburn,IN,Medical,Unknown,,N/A,,,http://www.21alive.com/nbc33/DeKalb-Health-computer-systems-down-due-to-ransomware--379711851.html
-2016,4,Talley Medical Surgical Eyecare Associates,Evansville,IN,Medical,Unknown,,N/A,,,https://www.beckershospitalreview.com/cybersecurity/indiana-medical-center-alerts-106k-patients-of-ransomware-attack.html
-2016,3,King’s Daughters’ Health ,Madison,IN,Medical,No,,N/A,,,http://www.cmio.net/topics/privacy-security/two-more-hospitals-halted-malware
-2017,9,East Central Kansas Area Agency on Aging,Ottawa,KS,Medical,No,,N/A,,,http://www.ottawaherald.com/news/20171102/agencys-data-remains-uncompromised-after-computer-breach
-2017,9,Butler County Government,El Dorado,KS,Municipality,Unknown,,Yes,Trend Micro,,http://www.kfdi.com/news/ransomware-hits-butler-co-government-computers
-2017,6,Salina Family Healthcare Center,Salina,KS,Medical,No,,N/A,,,http://www.salina.com/news/20170825/ransomware-attack-launched-on-salina-family-healthcare-center
-2016,9,Hutchinson Community Foundation,Hutchinson,KS,Other,No,,N/A,,,http://www.hutchnews.com/news/local_state_news/hutchinson-community-foundation-suffers-data-breach/article_db6fd8c7-c7c0-5422-aa19-f60b9c25f6c0.html
-2016,5,Kansas Heart Hospital,Wichita,KS,Medical,Yes,,N/A,,,http://www.kfdi.com/news/kansas-heart-hospital-hit-with-ransomware
-2019,7,Park DuValle Community Health Center,Louisville,KY,Medical,Yes,70000,,,,https://wfpl.org/park-duvalle-clinic-faces-blowback-after-ransomware-attack/
-2019,5,Louisville Airport,Louisville,KY,Municipality,Unknown,,N/A,,,https://www.wave3.com/2019/05/20/louisville-airport-authority-hit-by-ransomware-attack/
-2019,4,Daviess County Library,Owensboro,KY,Municipality,No,,,,,https://www.owensborotimes.com/features/community/2019/07/ransomware-attack-hinders-library-for-second-time/
-2019,4,Daviess County Library,Owensboro,KY,Municipality,No,,Yes,,,http://www.14news.com/2019/04/29/malware-attack-daviess-co-library/
-2016,3,Kentucky Methodist Hospital ,Henderson,KY,Medical,No,,N/A,,,http://www.bbc.com/news/technology-35880610
-2020,4,Orleans Parish Assessor's Office,New Orleans,LA,Municipality,Unknown,,,,,https://www.wwltv.com/article/news/local/orleans/assessors-office-ransomware/289-2681faa3-5d40-4b86-9c74-4f8a4e7a76bc
-2020,1,ITI Technical College,Baton Rouge,LA,Education,No,,,,,https://www.wafb.com/2020/02/03/iti-technical-college-latest-victim-ransomware-attacks/
-2020,1,Ernest N. Morial Convention Center,New Orleans,LA,Municipality,Unknown,,,,,https://www.nola.com/news/business/article_e48dfd8a-3a57-11ea-aa33-1396ee83e1e3.html
-2019,12,City of New Orleans,New Orleans,LA,Municipality,Unknown,,,,,https://techcrunch.com/2019/12/14/new-orleans-declares-state-of-emergency-following-ransomware-attack/
-2019,11,State of Louisiana,Baton Rouge,LA,Municipality,No,,,,,https://www.reuters.com/article/us-usa-louisiana-cyberattack/louisiana-government-computers-knocked-out-after-ransomware-attack-idUSKBN1XS2LA
-2019,7,Sabine Parish School District,Sabine,LA,Education,Unknown,,,Symantec,Symantec,http://gov.louisiana.gov/index.cfm/page/76
-2019,7,Morehouse Parish School District,Bastrop,LA,Education,Unknown,,,,,http://gov.louisiana.gov/index.cfm/page/76
-2019,7,Ouachita Parish School District,Monroe,LA,Education,Unknown,,,,,http://gov.louisiana.gov/index.cfm/page/76
-2019,5,Imperial Health,Lake Charles,LA,Medical,,,,,,https://www.beckershospitalreview.com/cybersecurity/louisiana-physician-network-alerts-116-000-patients-of-ransomware-attack.html
-2020,7,Somerset Berkley Regional High Schools,Somerset,MA,Education,Unknown,,,,,https://www.heraldnews.com/news/20200902/somerset-berkley-regional-high-school-victim-of-ransomware-attack
-2019,11,Chicopee School District,Chicopee,MA,Education,Unknown,,,"Malwarebytes, Symantec","Malwarebytes, Symantec",https://www.masslive.com/news/2019/11/chicopee-school-computers-being-restored-after-ransomware-attack-leaves-many-files-useless.html
-2019,10,Foxborough Regional Charter School,Foxborough,MA,Education,Unknown,,,McAfee,,https://www.bostonglobe.com/metro/2019/11/04/ransomware-attackers-demand-almost-from-foxborough-school-amid-weekslong-network-shutdown/RekQZXXFn6L1sRx5lvMmLL/story.html
-2019,9,City of New Bedford,New Bedford,MA,Municipality,No,,,,,https://www.southcoasttoday.com/news/20190904/update-ransomware-attacker-demanded-53-million-from-city-of-new-bedford
-2019,4,ResiDex Software,Boston,MA,Medical,Unknown,,N/A,,,https://healthitsecurity.com/news/5-more-healthcare-providers-fall-victim-to-ransomware-attacks
-2018,4,Rockport Town Office,Rockport,MA,Municipality,No,,Yes,,,https://www.pressherald.com/2018/04/19/rockport-town-office-computers-hit-with-ransomware-virus/
-2018,4,Leominster Schools,Leominster,MA,Education,Yes,10000,Yes,,,http://www.sentinelandenterprise.com/breakingnews/ci_31834250/leominster-pays-10k-unlock-school-districts-computer-systems
-2017,6,Nuance Communications ,Burlington,MA,Other,Unknown,,N/A,,,http://www.marketwatch.com/story/nuance-communications-was-affected-by-petya-global-malware-incident-2017-06-28
-2017,3,Boylston Public Television,Boylston,MA,Municipality,No,,Yes,,,http://www.telegram.com/news/20170902/boylston-station-reboots-after-ransomware-attack
-2016,4,Massachusetts Police Department,Tewksbury,MA,Law Enforcement,Yes,500,Yes,,,http://www.wctechblog.com/security/police-among-victims-of-recent-ransomware-attacks/
-NaN,NaN,Rockland Public School District,Rockland,MA,Education,Unknown,,,,,https://www.msn.com/en-us/news/us/feds-investigate-ransomware-attack-against-rockland-schools/ar-AAKcLEb
-NaN,NaN,Haverhill Public Schools,Haverhill,MA,Education,Unknown,,,,,https://www.wcvb.com/article/ransomware-attack-cancels-classes-at-haverhill-public-schools/36058457#
-NaN,NaN,Steamship Authority,Cape Cod,MA,Business,Unknown,,,,,https://www.kmjnow.com/news/marthas-vineyard-ferry-disrupted-by-ransomware-attack/
-NaN,NaN,Exagrid,Marlborough,MA,Business,Yes,25000000,,,,https://www.computerweekly.com/news/252501665/Exagrid-pays-26m-to-Conti-ransomware-attackers
-NaN,NaN,City of Lawrence,Lawrence,MA,Government,Yes,,,,,https://www.boston25news.com/news/25-investigates/25-investigates-city-lawrence-hit-with-significant-ransomware-attack/GLIH7WZ4Q5GY5IFH4RANDP564M/
-NaN,NaN,Bose,Framingham,MA,Business,Unknown,,,,,https://www.securitymagazine.com/articles/95291-bose-victim-of-ransomware-attack
-2019,5,City of Baltimore,Baltimore,MD,Municipality,No,,Yes,ESET,ESET,https://arstechnica.com/information-technology/2019/05/eternally-blue-baltimore-city-leaders-blame-nsa-for-ransomware-attack/
-2019,1,Salisbury Police Department,Salisbury,MD,Municipality,Unknown,,Yes,,,https://www.delmarvanow.com/story/news/local/maryland/2019/01/23/salisbury-police-hit-ransomware-cyber-attack/2550120002/
-2018,3,Baltimore Emergency Services,Baltimore,MD,Municipality,No,,Yes,ESET,ESET,http://www.wboy.com/news/baltimore-ransomware-attack-hobbled-citys-dispatch-system/1086195865
-NaN,NaN,University of Maryland,College Park,MD,Education,Unknown,,,,,https://www.zdnet.com/article/ransomware-group-targets-universities-of-maryland-california-in-new-data-leaks/
-2016,4,Maine Police Department ,Wiscasset,ME,Law Enforcement,Yes,318,Yes,,,http://www.wctechblog.com/security/police-among-victims-of-recent-ransomware-attacks/
-2020,10,City of Mount Pleasant,Mount Pleasant,MI,Municipality,Unknown,,,,,https://nbc25news.com/news/local/city-of-mt-pleasant-falls-victim-to-remote-ransomware-attack
-2020,5,Michigan State University,Lansing,MI,Education,Unknown,,,Barracuda ,,https://www.zdnet.com/article/michigan-state-university-hit-by-ransomware-gang/
-2019,12,Richmond Community Schools,Richmond,MI,Education,Unknown,,,,,https://www.clickondetroit.com/news/local/2020/01/02/ransomware-attack-forces-richmond-schools-to-extend-holiday-break/
-2019,4,Genesee County,Flint,MI,Municipality,No,,Yes,SonicWall,SonicWall,https://wwmt.com/news/state/countys-computer-networks-attacked-by-ransomware-type-virus
-2019,3,Brookside Medical Center,Battle Creek,MI,Medical,No,,N/A,,,https://securityboulevard.com/2019/04/ransomware-forces-michigan-medical-practice-to-close-shop/
-2018,5,Allied Physicians,Michiana,MI,Medical,Unknown,,N/A,,,https://www.scmagazine.com/allied-physicians-hit-with-samsam-ransomware/article/767654/
-2017,7,Caro Community Hospital,Caro,MI,Medical,Unknown,,N/A,,,http://www.wnem.com/story/35903543/caro-hospital-falls-victim-to-ransomware-attack
-2017,4,"Airway Oxygen, Inc.",Grand Rapids,MI,Medical,Unknown,,N/A,,,http://fox17online.com/2017/06/14/local-medical-supply-company-releases-ransomware-warning/
-2016,4,Board of Water and Light,Lansing,MI,Municipality,Yes,25000,Yes,,,http://www.scmagazine.com/cyberattack-knocks-lansing-utility-offline/article/492887/
-NaN,NaN,Flagstar Bank,Jackson,MI,Business,Unknown,,,,,https://www.clickondetroit.com/consumer/help-me-hank/2021/03/23/flagstar-bank-customers-personal-information-stolen-in-ransomware-attack-officials-say/
-2020,12,Lake Region Healthcare,Fergus Falls,MN,,,,,,,https://healthitsecurity.com/news/minnesotas-lake-region-healthcare-recovering-from-ransomware-attack
-2019,9,Southeastern Minnesota Oral & Maxillofacial Surgery,Rochester,MN,Medical,Unknown,,,,,https://www.infosecurity-magazine.com/news/ransomware-attack-on-minnesota/
-2019,2,Park Rapids Public Schools,Park Rapids,MN,Education,No,,Yes,,,https://www.parkrapidsenterprise.com/news/education/4579363-park-rapids-schools-hit-ransomware-attack
-2018,3,Associates in Psychiatry and Psychology,Rochester,MN,Medical,Yes,3674,N/A,,,http://www.healthcareitnews.com/news/minnesota-ransomware-attack-shows-right-way-handle-breach-response
-2017,12,Proctor School District ,Duluth,MN,Education,No,,Yes,,,http://www.duluthnewstribune.com/news/4374457-proctor-schools-hit-ransomware-attack
-2017,10,Colorado Center For Reproductive Medicine,Minneapolis,MN,Medical,No,,N/A,,,http://www.startribune.com/ransomware-attack-exposes-thousands-of-patients-data-at-edina-fertility-clinic/462070673/
-2016,9,Crow Wing County,Brainerd,MN,Municipality,No,,Yes,,,http://www.brainerddispatch.com/news/4125343-crow-wing-county-board-back-or-pay-county-fights-against-ransomware
-2016,6,Wadena City Hall ,Wadena,MN,Municipality,Unknown,,Yes,,,http://www.wadenapj.com/news/local/4082194-city-computers-infected-virus
-2019,9,Betty Jean People's Health Centers,St. Louis,MO,Medical,No,,N/A,,,https://healthitsecurity.com/news/152k-patients-impacted-in-betty-jean-peoples-health-ransomware-attack
-2019,9,Ava School District,Ava,MO,Education,No,,,,,https://www.spamfighter.com/News-22438-Ava-R-I-School-District-struck-by-a-ransomware-attack.htm
-2019,8,Truman Medical Centers,Kansas City,MO,Medical,Yes,,,,,https://www.kshb.com/news/local-news/truman-medical-centers-hit-with-ransomware-patient-information-not-impacted
-2018,7,Cass Regional Medical Center,Kansas City,MO,Medical,Unknown,,N/A,,,https://www.kshb.com/news/local-news/cass-regional-medical-center-hit-by-ransomware-attack
-2018,5,Blue Springs Family Healthcare,Blue Springs,MO,Medical,Unknown,,N/A,,,https://www.healthcareitnews.com/news/ransomware-malware-attack-breaches-45000-patient-records
-2017,1,St. Louis City Public Library,St. Louis,MO,Municipality,No,,Yes,Microsoft,Microsoft,http://www.kmov.com/story/34298858/st-louis-city-public-library-victim-of-ransomware-attack
-2016,7,Local 655,Ballwin,MO,Other,No,,N/A,,,http://www.bna.com/ransomware-attack-hits-n57982082675/
-NaN,NaN,Park Hill School District,Kansas City,MO,Education,No,,,,,https://www.kmbc.com/article/park-hill-school-district-says-it-was-target-of-ransomware-attack/35985231
-2019,11,Lincoln School District,Brookhaven,MS,Education,Unknown,,,,,clarionledger.com/story/news/local/2019/11/05/cyber-attack-ransomware-lincoln-county-school-district-mississippi-internet-safety/4164970002/
-2016,2,Oxford School District ,Oxford,MS,Education,No,,Yes,,Cisco,http://www.localmemphis.com/news/local-news/oxford-school-computers-hacked-with-ransomware
-NaN,NaN,Toyota,Guntown,MS,Business,Unknown,,,,,https://www.theregister.com/2021/05/21/toyota_cyber_attacks/?&web_view=true
-2020,9,Great Falls Public Schools ,Great Falls,MT,Education,Unknown,,,Malwarebytes,,https://www.greatfallstribune.com/story/news/education/2020/09/15/great-falls-public-schools-work-recover-network-ransomware-attack/5805453002/
-2020,2,Havre Public Schools,Havre,MT,Education,Unknown,,,,,https://www.missoulacurrent.com/business/2020/02/ransomware-havre-schools/
-2017,4,Forsyth Public Schools,Forsyth,MT,Education,No,,Yes,,,http://lastbestnews.com/site/2017/03/hackers-hit-forsyth-schools-server-cause-disruptions/
-2016,11,Bigfork School District,Bigfork,MT,Education,No,,Yes,SonicWall,SonicWall,http://billingsgazette.com/news/state-and-regional/montana/ransomware-attack-on-bigfork-schools-fix-in-works/article_7ff38855-e5a1-59d8-84de-18869e1c0df6.html
-2021,2,Allergy Partners of North Carolina,Ashville,NC,Medical,Unknown,,,,,https://duckduckgo.com/?q=Allergy+Partners+north+carolina&atb=v229-1&ia=web
-2020,11,Columbus County ,Whiteville,NC,Municipality,Unknown,,,,,https://www.wect.com/2020/11/18/ransomware-attack-brings-columbus-countys-website-down/
-2020,8,Haywood County Schools,Waynesville,NC,Education,Unknown,,,Barracuda ,,https://wlos.com/news/local/haywood-county-schools-closed-after-ransomware-attack
-2020,3,County of Durham,Durham,NC,Municipality,Unknown,,,Cisco,,https://www.wral.com/durham-city-county-governments-hit-by-malware-attack/19000191/
-2020,3,City of Durham,Durham,NC,Municipality,Unknown,,,"Palo Alto, Barracuda",,https://www.wral.com/durham-city-county-governments-hit-by-malware-attack/19000191/
-2019,10,North Carolina State Bar,Raleigh,NC,Municipality,Unknown,,,,,https://www.wsoctv.com/news/local/nc-state-bar-hit-by-ransomware-attack/993403714
-2019,8,Lincoln County Communications Center,Lincolnton,NC,Municipality,Unknown,,,,,https://www.lincolntimesnews.com/news/another-county-agency-hit-by-ransomware/article_ebfc27ac-bc64-11e9-84d4-8b355f1b7d08.html
-2019,7,Lincoln County Sheriff,Lincolnton,NC,Municipality,Unknown,,,,,https://www.charlotteobserver.com/news/local/crime/article233175816.html
-2019,4,City of Greenville,Greenville,NC,Municipality,Unknown,,Yes,Check Point,,https://wcti12.com/news/local/city-of-greenville-says-it-was-hit-by-ransomware-virus
-2019,3,Orange County ,Hillsborough,NC,Municipality,No,,Yes,ProofPoint,,https://securityboulevard.com/2019/03/north-carolinas-orange-county-hit-by-third-ransomware-attack-in-six-years/
-2018,10,Onslow Water and Sewer Authority,Jacksonville,NC,Municipality,No,,Yes,Malwarebytes,Trend Micro,https://www.wnct.com/news/local-news/hackers-hit-onslow-county-utility-with-ransomware-attack/1525255352
-2018,7,LabCorp,Burlington,NC,Medical,Unknown,,N/A,,,https://www.bankinfosecurity.com/labcorp-cyberattack-impacts-testing-processes-a-11215
-2018,2,Davidson County ,Lexington,NC,Municipality,Unknown,,Yes,,,http://www.wral.com/north-carolina-county-government-computers-hit-by-ransomware/17347255/
-2017,12,Mecklenburg County Government,Charloette,NC,Municipality,No,,Yes,,,http://www.charlotteobserver.com/news/local/article188302469.html
-2016,7,Potters Hill Missionary Baptist Church ,Pink Hill,NC,Other,No,,N/A,,,http://www.wcti12.com/news/pink-hill-pastor-says-computer-hacked-churchgoer-information-almost-compromised/40408454
-2016,9,Department of Mineral Resources,Bismarck,ND,Municipality,No,,Yes,Symantec,Symantec,http://www.grandforksherald.com/news/4113494-nd-department-attacked-ransomware
-2020,2,City of Wayne,Wayne,NE,Municipality,Unknown,,,McAfee,,https://www.wowt.com/content/news/City-of-Wayne-falls-victim-to-ransomware-cyber-attack-568086991.html
-2019,8,CHI Health,Omaha,NE,Medical,Unknown,,,,,https://www.omaha.com/livewellnebraska/health/chi-health-says-ransomware-incident-may-have-exposed-info-of/article_f59a56f7-f789-55bb-a6ae-9003e54d4533.html
-2017,10,"Eye Physicians, P.C.",Columbus,NE,Medical,No,,N/A,,,https://healthitsecurity.com/news/ransomware-attack-raises-health-data-security-worry-for-2.6k
-2018,7,Health Management Concepts,Concord,NH,Medical,Yes,,N/A,,,https://healthitsecurity.com/news/hmc-says-ransomware-attack-turned-into-healthcare-data-breach
-2017,12,Dartmouth College,Hanover,NH,Education,No,,N/A,,,http://www.mychamplainvalley.com/news/ransomware-detected-at-dartmouth-college/903776261
-2020,5,Bernards Township,Bernards,NJ,Municipality,Unknown,,,Cisco,,https://www.newjerseyhills.com/bernardsville_news/news/bernards-township-still-recovering-from-ransomware-attack/article_60e5a769-9b84-57f8-8b4a-07ca651dead4.html
-2020,1,Temple Har Shalom,Warren,NJ,Other,No,,,,,https://www.bleepingcomputer.com/news/security/new-jersey-synagogue-suffers-sodinokibi-ransomware-attack/
-2019,12,Hackensack Meridian Health,Edison,NJ,Medical,Yes,,,,,https://www.wsj.com/articles/new-jersey-hospital-system-hit-by-cyberattack-11576267625
-2019,11,Livingston Public Schools,Livingston,NJ,Education,Unknown,,,,,https://www.nbcnewyork.com/news/local/NJ-School-District-Hit-By-Ransomware-Attack-Officials-565407192.html
-2019,10,Cherry Hill School District,Cherry Hill,NJ,Education,Unknown,,,,,https://www.phillyvoice.com/ransomware-cherry-hill-school-district-computer-attack-ryuk-russia-based/
-2019,1,ActivYouth Orthopedics,Paramus,NJ,Medical,No,,N/A,,,http://www.spamfighter.com/News-22201-Ransomware-Attack-on-NJ-based-Orthopedic-Surgeon.htm
-2017,9,Hackensack Sleep and Pulmonary Center,Hackensack,NJ,Medical,No,,N/A,,,http://www.healthcareitnews.com/news/ransomware-attack-nj-provider-locks-16000-patient-records
-2017,6,Merck ,Kelinworth,NJ,Other,Unknown,,N/A,,,https://www.washingtonpost.com/news/the-switch/wp/2017/06/27/pharmaceutical-giant-rocked-by-ransomware-attack/?utm_term=.6bae20a1870b
-2017,4,Newark City Hall,Newark,NJ,Municipality,Unknown,,Yes,,,https://blog.knowbe4.com/newark-city-hall-computers-infected-with-ransomware
-2016,8,Susan M. Hughes Center,Cherry Hill,NJ,Medical,No,,N/A,,,https://www.databreaches.net/cosmetic-surgery-center-discloses-ransomware-attack/
-2016,7,New Jersey Spine Center,Chatham,NJ,Medical,Yes,,N/A,,,http://www.healthcareitnews.com/news/two-more-ransomware-attacks-both-organizations-pay
-2021,2,Rehoboth McKinley Christian Health Care Services,Gallup,NM,Medical,Unknown,,,,,https://healthitsecurity.com/news/hospital-recovers-from-ransomware-vendor-incidents-hit-kroeger-provider
-2020,8,University of New Mexico School of Law,Albuquerque,NM,Education,Unknown,,,,,https://www.abqjournal.com/1481268/suspected-ransomware-attack-hits-unm-law-school.html
-2020,5,Rio Arriba County,Tierra Amarilla,NM,Municipality,Unknown,,,Kaspersky,,https://www.govtech.com/security/New-Mexico-County-Government-Falls-Victim-to-Ransomware.html
-2020,2,Gadsden School District,Santa Teresa,NM,Education,No,,,"ESET, Malwarebytes",,https://www.lcsun-news.com/story/news/local/2020/02/25/gadsden-independent-school-district-hit-ransomware-second-time-year-ryuk-virus/4870455002/
-2020,1,Public Relations Commission,Santa Fe,NM,Municipality,Unknown,,,,,https://www.krwg.org/post/new-mexico-prc-website-hit-ransomware-attack
-2019,10,Las Cruces Public Schools,Las Cruces,NM,Education,Unknown,,,,,https://www.lcsun-news.com/story/news/education/lcps/2019/10/29/ransomware-hits-las-cruces-school-servers-prompts-shutdown/2498837001/
-2019,7,Gadsden School District,Santa Teresa,NM,Education,No,,,"ESET, Malwarebytes","ESET, Malwarebytes",https://www.lcsun-news.com/story/news/education/2019/07/31/ransomware-takes-down-new-mexico-school-district-email-system/1879318001/
-2019,2,Taos Municipal Schools District,Taos,NM,Education,No,,Yes,Vipre,Vipre,"https://taosnews.com/stories/taos-schools-resolving-ransomware-attack,55866"
-2018,1,City of Farmington,Farmington,NM,Municipality,No,,Yes,"McAfee, Symantec ,Malwarebytes",Cylance,http://www.daily-times.com/story/news/local/farmington/2018/01/18/farmington-recovering-after-ransomware-attack/1044845001/
-2020,9,Clark County School District,Las Vegas,NV,Education,Unknown,,,,,https://www.zdnet.com/article/nevada-school-district-refuses-to-submit-to-ransomware-blackmail-hacker-responds-by-publishing-student-data/
-2019,7,Lyon County School District,Yerington,NV,Education,Yes,,,Bitdefender,,https://www.ktvn.com/story/40868291/lyon-county-school-districts-network-crippled-by-ransomware
-2020,10,St Lawrence Medical,Potsdam,NY,Medical,Unknown,,,,,https://www.healthcareitnews.com/news/hospitals-new-york-and-oregon-hit-ransomware-new-attacks-mount
-2020,7,Samaritan Medical Center,Watertown,NY,Medical,Unknown,,,,,https://www.wwnytv.com/2020/07/28/western-ny-hospital-recounts-ransomware-experience-smc-deals-with-malware-attack/
-2020,7,Erie Community College,Buffalo,NY,Education,Unknown,,,,,https://www.wgrz.com/article/news/local/erie-community-college-target-of-ransomeware-cyber-attack/71-e752a600-5192-46c1-8709-9668917dfe57
-2020,5,North Babylon School District,North Babylon,NY,Education,No,,,Barracuda ,,https://patch.com/new-york/deerpark-northbabylon/north-babylon-sd-investigating-ransomware-type-computer-virus
-2020,2,Jordan Health,Rochester,NY,Medical,Unknown,,,,,https://www.democratandchronicle.com/story/news/2020/02/27/jordan-health-hit-ransomware-attack-shuts-down-computer-network-rochester-canandaigua-ny/4891715002/
-2020,2,Niagara University,Lewiston,NY,Education,Unknown,,,,,https://www.wkbw.com/news/local-news/niagara-university-email-servers-attacked-by-ransomware
-2020,1,Town of Colonie,Colonie,NY,Municipality,Unknown,,,,,https://www.news10.com/news/local-news/cyber-attack-takes-down-town-of-colonie-computer-system/
-2019,12,Albany International Airport,Albany,NY,Municipality,Yes,,,Vipre,,https://www.nbcnewyork.com/news/local/christmas-ransomware-attack-hit-new-york-airport-servers/2257843/
-2019,8,Mineola Public Schools,Mineola,NY,Education,Unknown,,,,,https://arstechnica.com/information-technology/2019/08/rash-of-ransomware-continues-with-13-new-victims-most-of-them-schools/
-2019,7,Brooklyn Hospital Center,New York City,NY,Medical,Unknown,,,,,https://www.fiercehealthcare.com/tech/ransomware-attack-at-brooklyn-hospital-center-results-permanent-loss-some-patient-data
-2019,7,Monroe College,New York City,NY,Education,Unknown,,N/A,,,https://www.bleepingcomputer.com/news/security/monroe-college-hit-with-ransomware-2-million-demanded/
-2019,7,Syracuse School District,Syracuse,NY,Education,Unknown,,Yes,,,https://www.syracuse.com/news/2019/07/syracuse-schools-cyber-attack-is-ransomware.html
-2019,7,Onondaga County Library,Syracuse,NY,Municipality,Unknown,,,,,https://www.post-gazette.com/local/region/2019/07/19/Butler-County-libraries-ransomware-attack/stories/201907190115
-2019,7,Rockville Centre School District,Long Island,NY,Education,Yes,100000,,,,https://www.msspalert.com/cybersecurity-breaches-and-attacks/ransomware/ryuk-hits-rockville-centre/
-2019,6,Olean Medical Group,Olean,NY,Medical,Yes,,N/A,,,https://healthitsecurity.com/news/5-more-healthcare-providers-fall-victim-to-ransomware-attacks
-2019,6,Seneca Nation Health Systems,Irving,NY,Medical,Unknown,,N/A,,,https://www.beckershospitalreview.com/cybersecurity/2-new-york-healthcare-providers-lose-ehr-access-following-ransomware-attacks.html
-2019,3,Hamilton College in New York,Clinton,NY,Education,Unknown,,N/A,,,https://www.scmagazine.com/home/security-news/threat-actors-launched-ransomware-attacks-against-three-u-s-colleges-seizing-the-data-on-students-applying-for-admission/
-2019,3,City of Albany,Albany,NY,Municipality,Unknown,,Yes,,,https://www.news10.com/news/local-news/city-of-albany-hit-with-ransomware-attack/1890275494
-2018,3,Finger Lakes Health,Geneva,NY,Medical,Unknown,,N/A,,,https://www.beckershospitalreview.com/cybersecurity/finger-lakes-health-reports-ransomware-attack-unable-to-access-computers.html
-2017,4,Erie County Medical Center,Buffalo,NY,Medical,No,,N/A,,,http://www.beckershospitalreview.com/healthcare-information-technology/erie-county-medical-center-facing-8th-straight-day-without-full-use-of-computer-system.html
-2016,5,Rhinebeck Central School District ,Rhinebeck,NY,Education,No,,Yes,,,http://www.dailyfreeman.com/general-news/20160615/rhinebeck-school-district-computer-system-attacked-by-ransomware
-NaN,NaN,Personal Touch Holding Corp.,Lake Success,NY,Medical,Unknown,,,,,https://www.beckershospitalreview.com/cybersecurity/ransomware-attack-affects-750-000-personal-touch-patients-employees-across-u-s.html
-2020,3,Woodlawn Dental Center,Cambridge,OH,Medical,No,,,,,https://www.healthcareinfosecurity.com/ransomware-attacks-hit-2-more-healthcare-organizations-a-14379
-2020,1,Lakeland Community College,Kirtland,OH,Education,Unknown,,,,,https://www.news-herald.com/news/lakeland-community-college-hit-by-ransomware-attack/article_493d2b36-4217-11ea-8da3-b3bcdecf192a.html
-2019,7,Richmond Heights City Hall,Richmond Heights,OH,Municipality,No,,,,,https://www.cleveland.com/community/2019/07/ransomware-infects-richmond-heights-city-hall-computer-for-one-day-police-fbi-are-investigating.html
-2019,7,Eye Care Associates,Youngstown,OH,Medical,Unknown,,,,,https://www.beckershospitalreview.com/cybersecurity/ohio-ophthalmology-practice-hit-by-ransomware-attack.html
-2019,6,NEO Urology ,Boardman,OH,Medical,Yes,75000,N/A,,,https://healthitsecurity.com/news/ohio-provider-pays-75k-ransom-after-serious-hack-on-it-system
-2019,6,Fayette County,Washington,OH,Municipality,Unknown,,Yes,,,https://www.recordherald.com/news/41046/malware-renders-county-email-unusable
-2019,3,Oberlin College,Oberlin,OH,Education,Unknown,,N/A,,,https://www.scmagazine.com/home/security-news/threat-actors-launched-ransomware-attacks-against-three-u-s-colleges-seizing-the-data-on-students-applying-for-admission/
-2019,1,City of Akron,Akron,OH,Municipality,Unknown,,Yes,,,https://www.whio.com/news/local/akron-says-cyberattack-forced-shutdown-city-help-line/v4BrtJeIPrYZSzbslexK1I/
-2018,11,Ohio Valley Medical Center and East Ohio Regional Hospital,Wheeling,OH,Medical,Unknown,,N/A,,,http://www.theintelligencer.net/news/top-headlines/2018/11/ovmc-eorh-computers-are-attacked-by-hackers/
-2018,5,Riverside Fire & Police Department,Riverside,OH,Municipality,No,,Yes,Kaspersky, ESET,https://www.daytondailynews.com/news/local/update-secret-service-investigating-riverside-computer-attack/37qN8APv3KV3u8WM5cxShM/
-2018,1,Pulmonary Physicians,Canton,OH,Medical,Unknown,,N/A,,,https://www.news5cleveland.com/news/local-news/cleveland-metro/ne-ohio-doctors-having-to-turn-patients-away-after-company-that-stores-patient-records-was-hacked
-2017,8,Mad River Twp. Fire and EMS,Enon,OH,Municipality,No,,Yes,,,http://www.springfieldnewssun.com/news/local/mad-river-twp-fire-and-ems-data-hacked-encrypted-with-ransomware/opxU7apA05cKTWwKzcxZMK/
-2017,5,"PVHS-ICM Employee Health and Wellness, LLC",Dublin,OH,Medical,Unknown,,N/A,,,https://dojmt.gov/wp-content/uploads/PVHS-ICM-Employee-Health-and-Wellness.pdf
-2017,2,Licking County ,Newark,OH,Municipality,Unknown,,Yes,Webroot,Webroot,https://techcrunch.com/2017/02/02/ransomware-completely-shuts-down-ohio-town-government/
-2020,8,Ponca City Public Schools ,Ponca City,OK,Education,Unknown,,,,,https://kfor.com/news/local/ponca-city-public-schools-delays-start-of-school-due-to-ransomware-attack/
-2019,7,Broken Arrow Public Schools,Broken Arrow,OK,Education,Unknown,,,,,https://www.newson6.com/story/40867182/broken-arrow-schools-victim-of-ransomware-attack
-2019,5,Oklahoma City Public Schools,Oklahoma City,OK,Education,Unknown,,Yes,Symantec,,https://kfor.com/2019/05/14/okcps-confirms-ransomware-cyber-attack/
-NaN,NaN,City of Tulsa,Tulsa,OK,Government,Unknown,,,,,https://www.fox23.com/news/local/tulsa-city-officials-ransomware-attack-causing-technical-difficulties/R4BXXHIRVJCYDHUG6VAUFJB4BQ/
-2020,11,Jackson County,Medford,OR,Municipality,Unknown,,,,,https://mailtribune.com/news/top-stories/ransomware-attack-shuts-jackson-county-website
-2020,10,Sky Lakes Medical Center,Klamath Falls,OR,Medical,Unknown,,,,,https://www.healthcareitnews.com/news/hospitals-new-york-and-oregon-hit-ransomware-new-attacks-mount
-2020,6,City of Keizer,Keizer,OR,Municipality,Yes,48000,,,,https://www.govtech.com/security/Keizer-Ore-Pays-48000-to-Hackers-After-Ransomware-Attack.html
-2018,11,City of North Bend,North Bend,OR,Municipality,No,,Yes,Faronics,Sophos,https://theworldlink.com/news/local/north-bend-computer-systems-fall-victim-to-ransomware/article_78ba3e86-8a56-516f-b64a-2ac35a8f2fd9.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share
-2018,5,Roseburg Public Schools,Roseburg,OR,Education,Unknown,,Yes,,SentinelOne,http://kval.com/news/local/ransomware-attack-freezes-roseburg-public-schools-computers
-2016,5,Grant County Education Service District ,John Day,OR,Education,Unknown,,Yes,Symantec,"Sophos,EdgeWave",http://www.bluemountaineagle.com/Local_News/20160525/esd-hit-by-ransomware-attack
-2016,2,Community of Christ Church ,Hillsboro,OR,Other,Yes,570,N/A,,,http://katu.com/news/local/pay-to-unlock-computer-files-church-targeted-in-ransomware-attack
-2020,11,Delaware County,Media,PA,Municipality,Yes,500000,,,,https://www.bleepingcomputer.com/news/security/pennsylvania-county-pays-500k-ransom-to-doppelpaymer-ransomware/
-2020,4,Borough of Ducannon,Ducannon,PA,Municipality,Yes,43000,,,,https://www.fox43.com/article/news/crime/borough-of-duncannon-says-it-was-the-victim-of-ransomware-attack-last-month/521-6fe873fd-1e29-4e7c-b227-44a8bcad6609
-2020,2,Allegheny Intermediate Unit,Homestead,PA,Education,Unknown,,,,,https://pittsburgh.cbslocal.com/2020/02/06/aiu-ransomware-attack/
-2019,9,Souderton Area School District,Sounderton,PA,Education,Unknown,,,,,https://philadelphia.cbslocal.com/2019/09/10/ransomware-attack-disrupting-souderton-area-school-district-network-technology-systems/
-2019,7,Butler County Library ,Butler,PA,Municipality,Unknown,,,,,https://www.wesa.fm/post/hit-ransomware-butler-county-libraries-go-back-paper-only-loans#stream/0
-2019,5,City of Washington,Washington,PA,Municipality,Unknown,,Yes,,,https://www.wpxi.com/news/top-stories/ransomware-attack-shutdown-computer-systems-washington/948228193
-2019,5,Philadelphia Online Courts,Philadelphia,PA,Municipality,Unknown,,Yes,,,https://futurism.com/the-byte/malware-shutdown-philadelphia-court-system
-2019,5,Luzerne County Courthouse,Wilkes-Barre,PA,Municipality,Unknown,,Yes,AVG,Carbon Black,https://www.govtech.com/security/Experts-Give-Early-Assessment-of-Luzerne-County-Cyberattack.html
-2018,7,May Eye Care Center and Associates,Hanover,PA,Medical,Unknown,,N/A,,,https://healthitsecurity.com/news/ransomware-attack-on-may-eye-care-breaches-30k-patient-records
-2017,6,Heritage Valley Health Systems,Beaver,PA,Medical,Unknown,,N/A,,,https://www.recode.net/2017/6/27/15881666/global-eu-cyber-attack-us-hackers-nsa-hospitals
-2017,5,Women's Healthcare Group,York,PA,Medical,No,,N/A,,,http://www.healthcareitnews.com/news/300000-records-breached-ransomware-attack-pennsylvania-health-system
-2017,3,Pennsylvania State Senate,West Chester,PA,Municipality,Unknown,,Yes,Microsoft,Microsoft,https://www.10tv.com/article/pa-state-senate-democrats-say-they-are-being-held-cyber-hostage
-2016,8,Susan M. Hughes Center,Glen Mills,PA,Medical,No,,N/A,,,https://www.databreaches.net/cosmetic-surgery-center-discloses-ransomware-attack/
-2016,6,Ambulatory Surgery Center ,Langhorne,PA,Medical,No,,N/A,,,http://www.buckscountycouriertimes.com/news/local/ransomware-attacks-info-of-k-patients-at-ambulatory-surgery-center/article_17c97124-479b-11e6-87da-e76488b7128f.html
-2020,5,Rhode Island College Foundation,Providence,RI,Education,Unknown,,,,,https://www.govtech.com/security/Rhode-Island-Entities-Breached-Through-Software-Service-Provider.html
-2020,5,Providence Children's Museum,Providence,RI,Municipality,Unknown,,,,,https://www.govtech.com/security/Rhode-Island-Entities-Breached-Through-Software-Service-Provider.html
-2020,5,Providence Children's Museum,Providence,RI,Municipality,Unknown,,,,,https://www.govtech.com/security/Rhode-Island-Entities-Breached-Through-Software-Service-Provider.html
-2019,12,Town of East Greenwich,East Greenwich,RI,Municipality,No,,,VMWare,,https://turnto10.com/news/local/east-greenwich-computer-system-hit-with-ransomware
-2018,11,Thundermist Health Center,West Warwick,RI,Medical,Unknown,,N/A,,,https://healthitsecurity.com/news/ransomware-attack-impacts-ehr-of-rhode-island-provider
-2017,1,Providence Law Firm,Providence,RI,Other,Yes,,N/A,,,http://www.providencejournal.com/news/20170501/ransomware-locks-down-prominent-providence-law-firm
-2016,7,University Gastroenterology,Providence,RI,Medical,Unknown,,N/A,,,http://universitygi.com/securityincident.pdf
-2021,1,Georgetown County,Georgetown,SC,Government,No,,,,,https://www.counton2.com/news/local-news/ransomware-gang-releases-compromising-data-on-dark-web-following-georgetown-county-cyber-attack/
-2020,3,Bluffton Fire and Rescue,Bluffton,SC,Municipality,Unknown,,,,,https://www.fitsnews.com/2020/03/26/cyber-attack-reported-in-bluffton-south-carolina-authorities-confirm/
-2020,3,Spartanburg District One Schools,Campobello,SC,Education,Unknown,,,,,https://www.foxcarolina.com/news/spartanburg-school-district-one-s-computer-network-hit-by-ransomware/article_956ac850-5ca8-11ea-8c50-a3d1edf33905.html
-2019,9,Jasper County ,Ridgeland,SC,Municipality,Unknown,,,,,wtoc.com/2019/10/15/county-computers-attacked-by-ransomware-jasper-county/
-2018,1,Spartanburg County Library,Spartenburg,SC,Municipality,Unknown,,Yes,Webroot,Webroot,http://wspa.com/2018/01/30/spartanburg-co-libraries-hit-by-ransomware-attack/
-2018,1,Chester County School District,Chester,SC,Education,Unknown,,Yes,Microsoft,Microsoft,http://www.wcnc.com/article/news/crime/crimestoppers/sc-school-district-latest-victim-to-ransomware/275-512723105
-2017,6,Dorchester School District Two,Summerville,SC,Education,Yes,2900,Yes,Sophos,Sophos,http://www.datacenterknowledge.com/manage/school-district-data-center-hit-ransomware
-2016,12,Mount Pleasant Police Department,Mount Pleasant,SC,Law Enforcement,No,,Yes,SonicWall,Sophos,http://www.postandcourier.com/news/after-mount-pleasant-police-hit-by-ransomware-attack-experts-say/article_33c2387e-c249-11e6-b8a0-37e84ee1fd3d.html
-2016,2,Horry County Schools ,Mrytle Beach,SC,Education,Yes,8500,Yes,Dell,Trend Micro,http://www.wmbfnews.com/story/31191533/horry-county-schools-struck-by-ransomware-virus
-2019,5,Hutchinson County,Yankton,SD,Municipality,No,,Yes,Trend Micro,SentinelOne,https://www.yankton.net/community/article_0d5e4634-7dd4-11e9-adfc-37f64cb4fb89.html
-2018,1,Belle Fourche City Hall,Bell Fourche,SD,Municipality,No,,Yes,,,https://www.scmagazine.com/belle-fourche-sd-city-hall-hit-with-ransomware/article/736278/
-2017,2,Plastic Surgery Associates,Sioux Falls,SD,Medical,Unknown,,N/A,,,http://www.healthcareitnews.com/news/ransomware-attack-south-dakota-provider-breaches-data-10000-patients
-2021,4,SmileDirect,Nashville,TN,Business,No,,,,,https://www.nashvillepost.com/business/area_stocks/smiledirect-victim-of-ransomware-attack/article_c211a710-acd0-11eb-8a1d-970aa6e47a9f.html
-2020,6,City of Knoxville,Knoxville,TN,Municipality,Unknown,,,McAfee,,https://www.govtech.com/security/Ransomware-Attack-Disrupts-Network-in-Knoxville-Tenn.html
-2020,4,Lawrence County 911 Center,Lawrenceburg,TN,Municipality,Unknown,,,,,https://www.wkrn.com/news/local-news/lawrence-county-911-center-attacked-by-ransomware/
-2020,4,Coffee County Jail,Manchester,TN,Municipality,Unknown,,,Avast,,https://www.newschannel5.com/news/coffee-co-jail-target-of-ransomware-attack
-2019,10,City of Johnson City,Johnson City,TN,Municipality,Unknown,,,,,https://www.wjhl.com/news/local/johnson-city-spent-350k-on-new-computers-after-ransomware-attack/
-2017,11,City of Spring Hill,Spring Hill,TN,Municipality,No,,Yes,Malwarebytes,Malwarebytes,http://www.govtech.com/security/Spring-Hill-Tenn-Hit-with-Ransomware-Attack.html
-2017,9,Rutherford County Sheriff's Office,Murfreesboro,TN,Municipality,Unknown,,Yes,Sophos,Sophos,http://www.dnj.com/story/news/crime/2017/09/06/sheriffs-office-halts-video-visitation-vendor-deals-ransomware-attack/639190001/?cookies=&from=global
-2017,5,Murfreesboro Police Department,Murfreesboro,TN,Municipality,Unknown,,Yes,,,https://www.usnews.com/news/best-states/tennessee/articles/2017-07-06/ransomware-hits-tennessee-citys-emergency-services
-2017,5,Murfreesboro Fire Department,Murfreesboro,TN,Municipality,Unknown,,Yes,,,https://www.usnews.com/news/best-states/tennessee/articles/2017-07-06/ransomware-hits-tennessee-citys-emergency-services
-2017,4,Cleveland Medical Associates,Cleveland,TN,Medical,Unknown,,N/A,,,http://www.dailypostathenian.com/news/business_news/article_7dfea398-5757-11e7-8086-10604b9f1f4a.html
-2016,9,Springfield City Hall,Springfield,TN,Municipality,No,,Yes,,,http://www.tennessean.com/story/news/local/robertson/2016/09/20/springfield-city-hall-recovers-ransomware-attack/90746176/
-2021,5,Betenbough Companies,Lubbock,TX,Business,Unknown,,,,,https://www.lubbockonline.com/story/news/2021/05/19/lubbocks-betenbough-reveals-cybercriminals-targeted-company-month/5171898001/
-2020,12,Weslaco Independent School District,Weslaco,TX,Education,Unknown,,,,,https://www.themonitor.com/2020/12/14/fbi-investigating-ransomware-attack-weslaco-school-district/
-2020,7,Athens ISD,Athens,TX,Education,Yes,50000,,FortiClient,,https://www.kltv.com/2020/07/29/athens-isd-school-start-delayed-after-data-taken-hostage/
-2020,7,Cooke County,Gainesville,TX,Municipality,Unknown,,,Sophos,,https://www.itwire.com/security/cooke-county-in-texas-apparently-hit-by-gang-using-revil-ransomware.html
-2020,5,Department of Transportation,Austin,TX,Municipality,Unknown,,,,,https://dfw.cbslocal.com/2020/05/17/texas-government-agencies-hacked-2nd-time-in-week/
-2020,5,Texas Supreme Court,Austin,TX,Municipality,No,,,,,https://www.law.com/texaslawyer/2020/05/11/ransomware-hack-disables-texas-supreme-courts-website/?slreturn=20200413095153#
-2020,2,Grayson County,Sherman,TX,Municipality,Unknown,,,,,https://www.kxii.com/content/news/Grayson-Co-systems-offline-due-to-cyber-security-threat-investigation-568142731.html
-2020,2,La Salle County,Cotulla,TX,Municipality,No,,,,,https://www.mywebtimes.com/2020/02/26/ransomware-attack-responsible-for-la-salle-county-technology-issues/a3utsw7/
-2020,1,City of Ingleside,Ingleside,TX,Municipality,Unknown,,,,,https://www.kiiitv.com/article/news/local/ransomware-attack-hits-city-of-ingleside/503-46c2ad28-b617-4cab-8991-711c64ffdebc
-2019,10,Children's Choice Pediatrics,McKinney,TX,Medical,No,,,,,https://www.hipaajournal.com/ransomware-attacks-reported-by-florida-and-texas-healthcare-providers/
-2019,9,City of Robstown,Robstown,TX,Municipality,No,,,,,https://www.kiiitv.com/article/news/local/city-of-robstown-still-working-to-recover-evidence-lost-in-ransomware-attack/503-ecfc58e4-28dd-48c3-b508-d76419977504
-2019,9,Travis County Appraisal District,Austin,TX,Municipality,No,,,,,https://www.kut.org/post/travis-county-appraisal-districts-computer-system-back-after-ransomware-attack
-2019,9,Rockwall ISD,Rockwall,TX,Education,Unknown,,,Bitdefender,"Carbon Black, Cisco",https://www.facebook.com/122171511192239/posts/we-are-grateful-for-your-patience-these-last-few-days-we-know-that-during-this-p/2456081284467905/
-2019,8,City of Wilber,Wilber,TX,Municipality,Unknown,,,,,https://www.thedailybeast.com/texas-officials-22-cities-affected-by-ransomware
-2019,8,City of Borger,Borger,TX,Municipality,Unknown,,,Malwarebytes,,https://www.thedailybeast.com/texas-officials-22-cities-affected-by-ransomware
-2019,8,City of Keene,Kenne,TX,Municipality,Unknown,,,,,https://www.thedailybeast.com/texas-officials-22-cities-affected-by-ransomware
-2019,8,North Lamar Schools,Paris,TX,Education,Unknown,,,McAfee,,https://eparisextra.com/local-news/ransomware-attack-hits-north-lamar-schools/
-2019,7,City of Collierville,Collierville,TX,Municipality,Unknown,,,,,https://www.wmcactionnews5.com/2019/07/18/city-collierville-files-attacked-by-ransomware/
-2019,7,Berry Family Services,Rowlett,TX,Medical,Yes,,,,,https://www.beckershospitalreview.com/cybersecurity/texas-healthcare-provider-pays-hackers-in-ransomware-attack.html
-2019,5,City of Edcouch,Edcouch,TX,Municipality,Unknown,,Yes,,,https://www.themonitor.com/2019/06/08/edcouch-server-hit-ransomware/
-2019,5,City of Laredo,Laredo,TX,Municipality,Unknown,,Yes,Symantec,Symantec,http://www.spamfighter.com/News-22239-Laredo-Citys-Office-become-victim-of-a-ransomware-attack.htm
-2019,4,Potter County,Amarillo,TX,Municipality,No,,Yes,Symantec,Symantec,https://abc7amarillo.com/news/local/potter-county-judge-sends-email-stating-computer-issues-caused-by-ransomware
-2019,2,Rainbow Dental Care,Beaumont,TX,Medical,Unknown,,,,,https://www.beaumontenterprise.com/news/article/Beaumont-dental-clinic-breached-by-ransomware-15185166.php
-2019,1,City of Del Rio,Del Rio,TX,Municipality,Unknown,,Yes,SonicWall,SonicWall,https://www.cityofdelrio.com/CivicAlerts.aspx?AID=523
-2018,9,Altus Baytown Hospital,Baytown,TX,Medical,Unknown,,N/A,,,https://patch.com/texas/pasadena-tx/altus-baytown-hospital-reports-ransomware-incident
-2017,10,Texas Department of Agriculture,Austin,TX,Municipality,Unknown,,Yes,McAfee,McAfee,https://www.news-journal.com/news/2017/nov/30/state-ag-dept-east-texas-school-districts-among-th/
-2017,6,Calallen Independent School District,Corpus Christi,TX,Education,Unknown,,Yes,Microsoft,Vipre,http://www.kristv.com/story/35783260/calallen-isd-networks-hit-by-ransomware-attack
-2017,2,ABCD Pediatrics ,San Antonio,TX,Medical,No,,N/A,,,http://www.abcdpediatrics.com/HIPAANotificaiton/
-2017,1,Urology Austin,Austin,TX,Medical,Unknown,,N/A,,,http://kxan.com/2017/03/24/ransomware-attack-on-urology-austin-gets-patient-information/
-2016,12,Cockrell Hill Police Department,Cockrell Hill,TX,Law Enforcement,No,,Yes,,,https://www.bleepingcomputer.com/news/security/police-department-loses-years-worth-of-evidence-in-ransomware-incident/
-2016,11,Seguin Dermatology,Seguin,TX,Medical,No,,N/A,,,http://www.expressnews.com/business/local/article/
-2016,9,Palmhurst Police Department,Palmhurst,TX,Law Enforcement,No,,Yes,,,http://www.krgv.com/story/33153212/palmhurst-police-department-avoids-data-loss
-2016,8,Rainbow Children's Clinic,Arlington,TX,Medical,No,,N/A,,,http://www.information-management.com/news/security/patient-records-deleted-in-ransomware-attack-10030033-1.html
-2016,8,Tarrant County ,Fort Worth,TX,Municipality,No,,Yes,VMWare,VMWare,http://www.star-telegram.com/news/politics-government/article94000442.html
-2016,5,Abilene Independent School District ,Abilene,TX,Education,No,,Yes,Microsoft,Microsoft,http://techtalk.pcpitstop.com/2016/05/12/texas-abilene-isd-new-ransomware-attack/
-2016,4,North East Independent School District,San Antonio,TX,Education,No,,Yes,Kaspersky,Microsoft,http://news.softpedia.com/news/ransomware-hits-20-schools-in-texas-district-502761.shtml
-2016,1,Titus Regional Medical Center,Mt Pleasant,TX,Medical,No,,N/A,,,http://www.bankinfosecurity.com/ransomware-hits-hospitals-a-8872/op-1
-NaN,NaN,Jones Day Law Firm,Dallas,TX,Business,Unknonw,,,,,https://news.bloomberglaw.com/business-and-practice/jones-day-hit-by-data-breach-as-vendor-accellion-hacks-widen
-NaN,NaN,Houston Rockets,Houston,TX,Business,Unknown,,,,,https://www.bloomberg.com/news/articles/2021-04-14/nba-s-houston-rockets-face-cyber-attack-by-ransomware-group
-2020,8,University of Utah,Salt Lake City,UT,Education,Yes,457059,,,,https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/
-2019,7,Premier Family Medical,Lindon,UT,Medical,Unknown,,,,,https://www.govinfosecurity.com/ransomware-attack-on-utah-clinic-affects-320000-a-13078
-2019,3,Garfield County,Panguitch,UT,Municipality,Yes,,Yes,,,https://fox13now.com/2019/04/11/ransomware-attack-hits-garfield-county-shutting-off-its-computer-access-for-weeks/
-2020,9,Fairfax County Schools,Fairfax,VA,Education,Unknown,,,,,https://wtop.com/fairfax-county/2020/09/hackers-attack-fairfax-county-school-system-with-ranswomware/
-2019,9,Smyth County Schools,Marion,VA,Education,No,,,,,https://www.roanoke.com/news/crime/smyth-county-schools-recover-from-ransomware-attack/article_fd4db2fe-f5c5-51cd-8ca8-36dfd2a6e2a4.html
-2019,8,New Kent County Public Schools,New Kent,VA,Education,Unknown,,,,Crowdstrike,https://arstechnica.com/information-technology/2019/08/rash-of-ransomware-continues-with-13-new-victims-most-of-them-schools/
-2017,6,Thomas Jefferson Monticello,Charlottesville,VA,Other,Unknown,,N/A,,,https://federalnewsradio.com/technology-news/2017/06/ransomware-attack-hits-thomas-jeffersons-monticello/
-2016,8,Appalachian Regional Hospitals,West Virginia,VA,Medical,Unknown,,N/A,,,http://www.register-herald.com/news/arh-computers-breached/article_5159665b-7786-523b-b233-c3524259b538.html
-2016,6,Professional Dermatology Care,Reston,VA,Medical,Unknown,,N/A,,,http://www.healthdatamanagement.com/news/hackers-mount-ransomware-attack-on-virginia-dermatology-practice
-2020,10,University of Vermont Health Networks,Burlington,VT,Medical,Unknown,,,,,https://healthitsecurity.com/news/army-national-guard-deployed-to-uvm-to-assist-ransomware-recovery
-2020,9,Wenatchee Valley College,Wenatchee,WA,Education,Unknown,,,,,https://www.zdnet.com/article/nevada-school-district-refuses-to-submit-to-ransomware-blackmail-hacker-responds-by-publishing-student-data/
-2019,7,Moses Lake School District,Moses Lake,WA,Education,No,,,,,http://www.ifiberone.com/columbia_basin/moses-lake-school-district-hit-with-ransomware-attack-in-july/article_3dac2db2-c5cb-11e9-aa8f-0f0e9c8131ca.html
-2019,6,Gray's Harbor Community Hospital,Aberdeen,WA,Medical,Unknown,,N/A,,,https://www.thedailyworld.com/news/hospital-computer-issues-stem-from-ransomware/
-2019,6,Grays Harbor Community Hospital,Aberdeen,WA,Medical,Unknown,,,,,https://healthitsecurity.com/news/hackers-demand-1m-in-grays-harbor-ransomware-attack
-2019,6,Harbor Medical Group,Aberdeen,WA,Medical,Unknown,,,,,https://healthitsecurity.com/news/hackers-demand-1m-in-grays-harbor-ransomware-attack
-2019,1,City of Sammamish,Sammamish,WA,Municipality,Unknown,,Yes,"Kaspersky, Sophos",Malwarebytes,https://komonews.com/news/local/city-of-sammamish-declares-emergency-over-ransomware-attack
-2019,1,Columbia Surgical Specialists,Spokane,WA,Medical,Yes,15000,N/A,,,http://www.spokesman.com/stories/2019/mar/07/spokanes-columbia-surgical-specialists-paid-nearly/
-NaN,NaN,"Automatic Funds Transfer Services, Inc.",Seattle,WA,Business,Unknown,,,,,https://abc7news.com/personal-information-of-california-drivers-potentially-compromised-in-ransomware-attack-of-dmv-contractor/10348979/
-NaN,NaN,Clover Park School District,Tacoma,WA,Education,Unknown,,,,,https://www.kiro7.com/news/local/clover-park-school-district-investigating-possible-ransomware-attack/J7ZJQSJGBRARJE5IEM3CMJVV2M/
-2020,1,City of Oshkosh,Oshkosh,WI,Municipality,Unknown,,,,,https://www.wbay.com/content/news/Oshkosh-city-services-returning-after-ransomware-attack-567597171.html
-2020,1,City of Racine,Racine,WI,Municipality,Unknown,,,,,https://journaltimes.com/news/local/ransomware-infects-city-of-racine-computer-systems/article_507e90f0-0ac5-5951-9891-81a277e0e2d1.html
-2019,10,Union Grove High School,Union Grove,WI,Education,Unknown,,,Symantec,Symantec,https://journaltimes.com/news/local/union-grove-high-learns-lessons-from-ransomware-scare/article_cbf744f9-2cdd-586c-b713-fb738cd470fc.html
-2017,12,Village of Nashotah,Nashotah,WI,Municipality,Yes,2000,Yes,McAfee,McAfee,https://www.jsonline.com/story/communities/lake-country/news/nashotah/2017/12/08/after-computer-hack-nashotah-pays-2-k-ransom-residents-personal-information/931996001/
-2016,11,Metropolitan Urology Group,Waukesha,WI,Medical,No,,N/A,,,http://www.gourology.com/posts/news/metropolitan-urology-group-notifies-patients-of-breach-of-unsecured-personal-information/
-2016,6,City of Janesville,Janesville,WI,Municipality,No,,Yes,McAfee,FireEye,http://www.channel3000.com/news/Janesville-computer-systems-hit-by-virus-likely-ransomware/40142246
-NaN,NaN,Tigerton Schools,Tigerton,WI,Education,Unknown,,,,,https://fox11online.com/news/education/ransomware-attack-responsible-for-internet-issues-at-tigerton-schools
-2019,11,Wood County Schools,Parkersburg,WV,Education,Unknown,,,,,http://wvmetronews.com/2019/11/14/wood-county-schools-rebuild-continues-after-ransomware-attack/
-2017,1,Kanawha County Schools,Charleston,WV,Education,No,,Yes,Cisco,Bitdefender,http://www.wsaz.com/content/news/Kanawha-County-Schools-repairing-system-after-ransomware-hack-410548615.html
-2019,9,Campbell County Health,Sheridan,WY,Medical,Unknown,,,,,https://www.sheridanmedia.com/news/campbell-county-health-victim-ransomware-attack108185
+attackYear,attackMonth,Month,entity,city,state,entitType,ransomPaid,amountPaid,foiaReq,avBefore,avAfter,articleLink
+2020,3,3/01/2020,Mat-Su Surgical Associates,Palmer,AK,Medical,Unknown,,,,,https://www.healthcareinfosecurity.com/ransomware-attacks-hit-2-more-healthcare-organizations-a-14379
+2018,7,7/01/2018,Borough of Matanuska-Susitna,Fairbanks,AK,Municipality,Unknown,,Yes,"Barracuda, McAfee",Sophos,https://www.telegraph.co.uk/news/2018/08/01/alaska-town-returns-typewriters-ransomware-attack-shuts-computer/
+2018,7,7/01/2018,City of Valdez,Valdez,AK,Municipality,Unknown,,Yes,McAfee,McAfee,https://www.valdezstar.net/story/2018/11/14/main-news/cyberattack-that-held-citys-info-for-ransom-in-final-recovery-phase/2109.html
+2018,4,4/01/2018,Golden Heart Administrative Professionals,Fairbanks,AK,Medical,Unknown,,N/A,,,https://www.scmagazine.com/ransomware-based-breach-of-alaskan-medical-billing-vendor-impacts-fairbanks-municipality/article/782886/
+2020,11,11/01/2020,Huntsville Public Schools,Huntsville,AL,Education,Unknown,,,,,https://www.waaytv.com/content/news/Huntsville-City-Schools-cancels-classes-Tuesday-due-to-ransomware-threat--573241121.html
+2020,7,7/01/2020,Chilton County,Clanton,AL,Municipality,Unknown,,,,,https://www.cbs42.com/news/local/chilton-county-records-system-affected-by-ransomware-attack/
+2020,6,6/01/2020,Tallapoosa County,Dadeville,AL,Municipality,Unknown,,,,,https://www.alexcityoutlook.com/news/tallapoosa-county-recovers-from-ransomware-attack/article_11c1983e-b23a-11ea-a31f-c353b4adbb67.html
+2020,6,6/01/2020,City of Florence,Florence,AL,Municipality,Yes,300000,,,,https://securityboulevard.com/2020/06/florence-ala-hit-by-ransomware-12-days-after-being-alerted-by-krebsonsecurity/
+2019,9,9/01/2019,DCH Regional Medical Center,Tuscaloosa,AL,Medical,Yes,,,,,https://arstechnica.com/information-technology/2019/10/hamstrung-by-ransomware-10-hospitals-are-turning-away-some-patients/
+2019,9,9/01/2019,Northport Medical Center,Northport,AL,Medical,Yes,,,,,https://arstechnica.com/information-technology/2019/10/hamstrung-by-ransomware-10-hospitals-are-turning-away-some-patients/
+2019,9,9/01/2019,Fayette Medical Center,Fayette,AL,Medical,Yes,,,,,https://arstechnica.com/information-technology/2019/10/hamstrung-by-ransomware-10-hospitals-are-turning-away-some-patients/
+2019,7,7/01/2019,Springville Medical Center,Mobile,AL,Medical,Unknown,,,,,https://mynbc15.com/news/local/mobile-police-springhill-medical-center-was-victim-of-cyber-attack
+2019,7,7/01/2019,Houston County Schools,Mobile,AL,Education,No,,,,,https://www.wtvy.com/content/news/Houston-County-Schools-Announces-Additional-Delay-513399671.html
+2018,2,2/01/2018,City of Leeds,Leeds,AL,Municipality,Yes,8000,Yes,McAfee,,http://www.wbrc.com/story/37635768/city-of-leeds-falls-victim-to-ransomware-attack
+2017,9,9/01/2017,Montgomery County,Montgomery,AL,Municipality,Unknown,,Yes,,,http://statescoop.com/they-said-they-wanted-bitcoins-ransomware-hits-montgomery-county-alabama
+2017,4,4/01/2017,Cove Family and Sports Medicine,Huntsville,AL,Medical,No,,N/A,,,http://covemedicine.com/files/Krichev_-_Press_Release_Website_Announcement.pdf
+2020,8,8/01/2020,Gosnell Schools,Gosnell,AR,Education,Unknown,,,,,https://www.kait8.com/2020/08/25/gosnell-schools-hit-with-ransomeware-attack/
+2019,10,10/01/2019,Ozarks Orthopedics ,Fayetteville,AR,Medical,Unknown,,,,,https://www.beckershospitalreview.com/cybersecurity/arkansas-provider-alerts-15-000-patients-of-ransomware-attack.html
+2017,7,7/01/2017,Arkansas Oral Facial Surgery Center,Fayetteville,AR,Medical,Unknown,,N/A,,,https://www.hipaajournal.com/ransomware-attack-128000-arkansas-patients/
+2021,1,1/01/2021,Cochise Eye and Laser,Sierra Vista,AZ,Medical,Unknown,,,,,https://invisionmag.com/arizona-eyecare-practice-hit-by-ransomware-attack/
+2020,4,4/01/2020,Magellan Health,Phoenix,AZ,Medical,Unknown,,,,,https://healthitsecurity.com/news/ransomware-attack-on-magellan-health-results-in-data-exfiltration
+2019,9,9/01/2019,Flagstaff School District,Flagstaff,AZ,Education,Unknown,,,,,https://www.bleepingcomputer.com/news/security/students-rejoice-school-district-closed-by-ransomware-attack/
+2019,8,8/01/2019,Camp Verde Unified School District,Campe Verde,AZ,Education,Unknown,,,"WatchGuard, VMWare",WatchGuard ,http://www.journalaz.com/news/education/49717-hackers-hit-cvusd-hit-with-ransomware-attack-as-school-year-starts.html
+2018,9,9/01/2018,Maffi Clinics,Paradise Valley,AZ,Medical,No,,N/A,,,https://securityboulevard.com/2019/03/clinic-hit-by-ransomware-recovers-in-hours-thanks-to-solid-incident-response-plan/
+2016,5,5/01/2016,Pinal County Attorney’s Office,Florence,AZ,Municipality,No,,Yes,Microsoft,Microsoft,http://www.12news.com/news/local/arizona/ransomware-virus-infects-pcao-case-files/225540620
+2016,2,2/01/2016,"Arizona Superior Court, Pima County ",Tucson,AZ,Municipality,Unknown,,Yes,,,http://www.tucsonlocalmedia.com/local_business_news/article_e7c774b4-db73-11e5-8ea9-1f51be31323b.html
+NaN,NaN,NaN,Arizona Complete Health,Tempe,AZ,Medical,Unknown,,,,,https://www.beckershospitalreview.com/cybersecurity/ransomware-attack-exposes-27-000-arizona-health-plan-members-data-for-2-5-weeks.html
+2021,5,5/01/2021,Scripps Health Care,San Diego,CA,Medical,Unknown,,,,,https://www.infosecurity-magazine.com/news/scripps-health-knocked-offline-by/
+2021,1,1/01/2021,Granite Wellness Centers,Grass Valley,CA,Medical,Unknown,,,,,
+2020,10,10/01/2020,City of Shafter,Shafter,CA,Municipality,Unknown,,,,,https://www.turnto23.com/news/local-news/city-of-shafter-hit-with-ransomware-attack
+2020,9,9/01/2020,Newhall School District,Santa Clarita,CA,Education,Unknown,,,,,https://www.latimes.com/california/story/2020-09-15/newhall-elementary-schools-ransomware-attack
+2020,8,8/01/2020,Selma School District,Selma,CA,Education,Unknown,,,,,https://abc30.com/selma-hack-classes-canceled-ransomware-school-district/6394182/
+2020,8,8/01/2020,Imperial Valley College,Imperial Valley,CA,Education,Unknown,,,,,https://www.thedesertreview.com/news/ransomware-attack-on-ivc-leads-to-possible-delays-for-fall-semester/article_870f8082-de64-11ea-ab9d-c3949cde329b.html
+2020,6,6/01/2020,"University of California, San Francisco ",San Francisco,CA,Education,Unknown,,,,,"https://www.bloomberg.com/news/articles/2020-06-04/hackers-target-california-university-leading-covid-19-research#:~:text=A%20group%20of%20hackers%20with,network%20may%20have%20been%20compromised."
+2020,5,5/01/2020,Francis Parker Schools,San Diego,CA,Education,Unknown,,,,,https://www.10news.com/news/local-news/francis-parker-school-warns-parents-of-ransomware-attack
+2020,3,3/01/2020,City of Torrance,Torrance,CA,Municipality,Unknown,,,Symantec,,https://www.bleepingcomputer.com/news/security/doppelpaymer-ransomware-hits-los-angeles-county-city-leaks-files/
+2020,1,1/01/2020,Mountain View Los Altos Union High School,Mountain View,CA,Education,Unknown,,,,,https://www.losaltosonline.com/news/sections/schools/209-school-news/61785-mvla-suffers-ransomware-attack
+2020,1,1/01/2020,Contra Costa County Library,Clayton,CA,Municipality,Unknown,,,SentinelOne,SentinelOne,https://www.eastbaytimes.com/2020/01/03/ransomware-attack-hits-contra-costa-library-system/
+2019,12,12/01/2019,Enloe Medical Center,Chico,CA,Medical,Unknown,,,,,https://krcrtv.com/news/butte-county/enloe-targeted-by-ransomware-attack-and-elective-procedures-delayed
+2019,12,12/01/2019,Pittsburg High School,Pittsburg,CA,Education,Unknown,,,,,https://www.sfchronicle.com/crime/article/Hackers-hit-Pittsburg-schools-with-ransomware-14956852.php
+2019,12,12/01/2019,City of Seal Beach,Seal Beach,CA,Municipality,Unknown,,,,,https://www.sunnews.org/city-of-seal-beach-victim-of-ransomware-attack/
+2019,12,12/01/2019,Town of Galt,Galt,CA,Municipality,Unknown,,,,,https://wdef.com/2019/12/17/ransomware-attacks-hit-4-u-s-cities-month/
+2019,10,10/01/2019,San Bernardino City Unified School District,San Bernardino,CA,Education,,,,Sophos,Sophos,https://ktla.com/2019/10/20/ransomware-attack-locks-san-bernardino-city-unified-school-district-computer-system/
+2019,9,9/01/2019,Wood Ranch Medical,Simi Valley,CA,Medical,No,,,,,https://healthitsecurity.com/news/california-provider-to-close-after-ransomware-attack-damages-system
+2019,6,6/01/2019,Marin Community Clinics,Novato,CA,Medical,Yes,,N/A,,,https://www.marinij.com/2019/06/21/marin-community-clinics-hit-by-ransomware-attack/
+2019,4,4/01/2019,City of Lodi City,Lodi City,CA,Municipality,No,,,"Kaspersky, Symantec",,https://www.newsbtc.com/2019/08/01/california-city-confirms-it-was-hit-by-bitcoin-ransomware-attack/
+2019,4,4/01/2019,Imperial County,El Centro,CA,Municipality,Unknown,,Yes,Sophos,Sophos,https://www.ivpressonline.com/quicknews/county-targeted-by-ransomware/article_517bf2b0-62ba-11e9-8278-f724b9cee5c7.html
+2019,4,4/01/2019,Shingle Springs Health and Wellness Center,Placerville,CA,Medical,Unknown,,N/A,,,https://healthitsecurity.com/news/5-more-healthcare-providers-fall-victim-to-ransomware-attacks
+2018,12,12/01/2018,Podiatric Offices of Bobby Yee,Salinas,CA,Medical,Unknown,,N/A,,,https://healthitsecurity.com/news/ransomware-corrupts-24000-patient-records-of-california-specialist
+2018,9,9/01/2018,Port of San Diego,San Diego,CA,Municipality,Unknown,,Yes,Comodo ,Palo Alto,https://www.theregister.co.uk/2018/09/27/san_diego_shipping_port_ransomware/
+2018,9,9/01/2018,Redwood Eye Care,Vallejo,CA,Medical,Unknown,,N/A,,,https://www.scmagazine.com/home/security-news/redwood-eye-care-hit-with-ransomware-16000-records-encrypted/
+2018,7,7/01/2018,Port of Long Beach,Long Beach,CA,Other,Unknown,,N/A,Palo Alto,Palo Alto,https://www.presstelegram.com/2018/07/24/long-beach-port-terminal-hit-by-ransomware-attack/
+2018,2,2/01/2018,Center for Orthopedic Specialists,West Hills,CA,Medical,Unknown,,N/A,,,http://www.healthcareitnews.com/news/ransomware-attack-against-california-provider-breaches-data-85000-patients
+2018,1,1/01/2018,Sacramento Bee,Sacramento,CA,Other,No,,N/A,,,https://www.scmagazine.com/ransomware-attack-on-sacramento-bee-database-exposes-voter-records-of-195m-californians/article/743302/
+2017,12,12/01/2017,Stanislaus County,Modesto,CA,Municipality,Unknown,,Yes,,,http://www.kcra.com/article/fbi-investigates-cyberterrorist-attack-on-stanislaus-county-network/14446599
+2017,11,11/01/2017,Sacramento Regional Transit,Sacramento,CA,Municipality,No,,Yes,Symantec,Carbon Black,http://www.foxnews.com/tech/2017/11/21/hacker-targets-sacramento-regional-transit-deletes-30-million-files-in-ransomware-attack.html
+2017,11,11/01/2017,Golden Optometrics ,West Covina,CA,Medical,No,,N/A,,,https://oag.ca.gov/system/files/Golden%20Optometric%20-%20Individual%20Notice%20%28Privileged%20%26%20Confidential%29_1.pdf
+2017,9,9/01/2017,San Ysidro School District,San Ysidro,CA,Education,No,,Yes,,,http://inewsource.org/2017/09/28/malware-san-ysidro-ransom/
+2017,6,6/01/2017,Pacific Alliance Medical Center,Los Angeles,CA,Medical,Unknown,,N/A,,,http://www.healthcareitnews.com/news/los-angeles-provider-potentially-breached-ransomware-attack
+2017,6,6/01/2017,KQED San Francisco,San Francisco,CA,Other,Unknown,,N/A,,,https://www.allaccess.com/net-news/archive/story/166840/kqed-san-francisco-hit-by-ransomware-attack
+2017,1,1/01/2017,Los Angeles Community College District,Los Angeles,CA,Education,Yes,28000,N/A,McAfee,,http://www.washingtontimes.com/news/2017/jan/7/hackers-extort-28k-ransom-los-angeles-college/
+2016,11,11/01/2016,Gurnick Academy,San Mateo,CA,Education,No,,N/A,,,http://www.csoonline.com/article/3161469/security/ransomware-makes-california-nursing-school-feel-ill.html
+2016,11,11/01/2016,San Francisco Transportation Municipality Agency,San Francisco,CA,Municipality,No,,Yes,ESET,ESET,http://www.bankinfosecurity.com/ransomware-result-free-ticket-to-ride-in-san-francisco-a-9562
+2016,10,10/01/2016,East Valley Community Health Center,West Covina,CA,Medical,No,,N/A,,,http://www.healthdatamanagement.com/news/california-health-center-ransomware-attack-affects-65-000
+2016,9,9/01/2016,City of Yuba City,Yuba City,CA,Municipality,No,,Yes,Symantec,Symantec,http://www.appeal-democrat.com/news/yuba-city-battles-ransomware-attack/article_2ce285aa-876f-11e6-84cb-5f7e76beb13a.html
+2016,8,8/01/2016,Marin Medical Practice Concepts,Novato,CA,Medical,Yes,,N/A,,,http://www.marinij.com/article/NO/20160813/NEWS/160819914
+2016,8,8/01/2016,Yuba-Sutter Medical Clinic,Yuba City,CA,Medical,No,,N/A,,,http://www.appeal-democrat.com/news/ransomware-attack-hits-yuba-city-clinic/article_23755354-7954-11e6-8506-5f7d1b5d1d53.html
+2016,8,8/01/2016,Keck Medical Center,Los Angeles,CA,Medical,No,,N/A,,,http://www.keckmedicine.org/wp-content/uploads/2016/09/doc11167320160920094345.pdf
+2016,7,7/01/2016,Marin Healthcare District,Greenbrae,CA,Medical,Yes,,N/A,,,http://www.healthcareitnews.com/news/two-more-ransomware-attacks-both-organizations-pay
+2016,3,3/01/2016,Chino Valley Medical Center ,Chino,CA,Medical,No,,N/A,,,http://techtalk.pcpitstop.com/2016/03/23/52934-methodist-hospital-hit-with-ransomware/
+2016,3,3/01/2016,Desert Valley Hospital ,Victorville,CA,Medical,No,,N/A,,,http://techtalk.pcpitstop.com/2016/03/23/52934-methodist-hospital-hit-with-ransomware/
+2016,3,3/01/2016,Alvarado Hospital Medical Center ,San Diego,CA,Medical,No,,N/A,,,http://www.sandiegouniontribune.com/news/2016/mar/31/alvarado-malware-attack/
+2016,2,2/01/2016,Hollywood Presbyterian Medical Center,Los Angeles,CA,Medical,Yes,17000,N/A,,,http://www.digitaltrends.com/computing/hollywood-hospital-ransomware-attack/
+NaN,NaN,NaN,Yuba County,Yuba City,CA,Government,No,,,,,https://www.techwire.net/news/county-recovers-after-ransomware-attack.html
+NaN,NaN,NaN,KHS Bicycles,Rancho Dominguez,CA,Business,Unknown,,,,,https://www.bicycleretailer.com/industry-news/2020/02/25/khs-bicycles-systems-hacked-distributor-halts-shipments#.YGYsPi1h2fQ
+NaN,NaN,NaN,University of California Berkeley,Berkeley,CA,Education,Unknown,,,,,https://portswigger.net/daily-swig/uc-berkeley-confirms-data-breach-becomes-latest-victim-of-accellion-cyber-attack
+NaN,NaN,NaN,Kia Motors America,Irvine,CA,Business,Unknown,,,,,https://www.bleepingcomputer.com/news/security/kia-motors-america-suffers-ransomware-attack-20-million-ransom/
+NaN,NaN,NaN,Hyundai Motor America,El Monte,CA,Business,Unknown,,,,,https://www.freightwaves.com/news/hackers-expose-hyundai-logistics-data-after-apparent-ransomware-attack
+NaN,NaN,NaN,Stanford University,Stanford,CA,Education,Unknown,,,,,https://www.mercurynews.com/2021/04/01/investigation-underway-into-stanford-personal-data-breach/
+NaN,NaN,NaN,University of California Online,Berkeley,CA,Education,Unknown,,,,,https://www.zdnet.com/article/ransomware-group-targets-universities-of-maryland-california-in-new-data-leaks/
+NaN,NaN,NaN,Accellion,Palo Alto,CA,Business,Unknown,,,,,https://www.wired.com/story/accellion-breach-victims-extortion/
+NaN,NaN,NaN,Codecov,San Francisco,CA,Business,Unknown,,,,,https://therecord.media/codecov-discloses-2-5-month-long-supply-chain-attack/
+2020,7,7/01/2020,City of Lafayette,Lafayette,CO,Municipality,Yes,45000,,,,https://www.bleepingcomputer.com/news/security/colorado-city-forced-to-pay-45-000-ransom-to-decrypt-files/
+2020,4,4/01/2020,Parkview Medical Center,Pueblo,CO,Medical,Unknown,,,,,https://www.databreachtoday.com/colorado-hospital-latest-cyberattack-victim-amid-covid-19-a-14189
+2020,4,4/01/2020,Rangely District Hospital,Rangely,CO,Medical,Unknown,,,,,https://www.theheraldtimes.com/rdh-suffers-ransomware-attack/rangely/
+2019,11,11/01/2019,Archuleta County,Pagosa Springs,CO,Municipality,Unknown,,,Webroot,Webroot,http://www.pagosasun.com/county-ransomware-virus-eradicated-hackers-ask-for-300000/
+2019,11,11/01/2019,Denver Public Library,Denver,CO,Municipality,Unknown,,,,,https://denverite.com/2019/11/14/denver-public-library-shuts-down-its-computer-network-after-detecting-ransomware/
+2019,8,8/01/2019,Regis University,Denver,CO,Education,Unknown,,,,,https://www.thedenverchannel.com/news/local-news/college-in-denver-shuts-down-its-network-after-cyberattack
+2019,6,6/01/2019,Estes Park Health,Estes Park,CO,Medical,Yes,,N/A,,,https://healthitsecurity.com/news/5-more-healthcare-providers-fall-victim-to-ransomware-attacks
+2018,2,2/01/2018,Colorado Department of Transportation,Denver,CO,Municipality,No,,Yes,,,https://www.denverpost.com/2018/02/21/samsam-virus-ransomware-cdot/
+2017,11,11/01/2017,Longs Peak Family Practice,Longmont,CO,Medical,No,,N/A,,,https://longspeakfamilypractice.com/wp-content/uploads/Notice12272017.pdf
+2017,9,9/01/2017,City of Englewood,Englewood,CO,Municipality,Unknown,,Yes,Avast,Trend Micro,http://kdvr.com/2017/10/05/city-of-englewood-hit-by-ransomware-attack/
+2016,5,5/01/2016,"Allergy, Asthma & Immunology of the Rockies ",Fort Collins,CO,Medical,No,,N/A,,,http://healthitsecurity.com/news/co-clinic-healthcare-ransomware-case-affects-6800-patients
+NaN,NaN,NaN,University of Colorado,Denver,CO,Education,Uknown,,,,,https://www.msspalert.com/cybersecurity-breaches-and-attacks/ransomware/university-ransomware-attacks-hackers-hit-colorado-miami-schools/
+NaN,NaN,NaN,JBS,Greeley,CO,Business,Yes,11000000,,,,https://www.cpr.org/2021/06/02/jbs-ransomware-attack-greeley-plant/
+2020,9,9/01/2020,Hartford Public Schools,Hartford,CT,Education,Unknown,,,,,https://www.foxnews.com/us/hartford-connecticut-public-schools-delays-first-day-ransomware-virus
+2019,11,11/01/2019,Manchester Ophthalmology ,Manchester,CT,Medical,Unknown,,,,,https://www.beckershospitalreview.com/cybersecurity/hacker-attempts-to-encrypt-connecticut-provider-with-ransomware.html
+2019,8,8/01/2019,Middleton School District,Middleton,CT,Education,Unknown,,,,,https://arstechnica.com/information-technology/2019/08/rash-of-ransomware-continues-with-13-new-victims-most-of-them-schools/
+2019,8,8/01/2019,Wolcott Public Schools,Wolcott,CT,Education,Unknown,,,,,https://arstechnica.com/information-technology/2019/08/rash-of-ransomware-continues-with-13-new-victims-most-of-them-schools/
+2019,8,8/01/2019,Wallingford School District,Wallingford,CT,Education,Unknown,,,,,https://arstechnica.com/information-technology/2019/08/rash-of-ransomware-continues-with-13-new-victims-most-of-them-schools/
+2019,7,7/01/2019,New Haven Public Schools,New Haven,CT,Education,Unknown,,,,,https://www.nhregister.com/news/article/New-Haven-Public-Schools-hit-by-ransomware-attack-14119810.php
+2019,2,2/01/2019,Town of Colchester,Colchester,CT,Municipality,Unknown,,Yes,Microsoft,Microsoft,https://www.nbcconnecticut.com/news/local/Colchester-Town-Computers-Infected-with-Ransomware-506517691.html
+2019,1,1/01/2019,Bridgeport Public Schools,Bridgeport,CT,Education,Unknown,,Yes,,,https://www.scmagazine.com/home/security-news/bridgeport-conn-schools-hit-with-ransomware/
+2018,11,11/01/2018,"Dr. Thomas DeLuca, Dr. Anthony Marciano & Associates",Prospect,CT,Medical,No,,N/A,,,https://healthitsecurity.com/news/ransomware-attack-on-connecticut-provider-impacts-24000-patients
+2018,10,10/01/2018,City of West Haven,West Haven,CT,Municipality,Yes,2000,Yes,,,https://www.nhregister.com/news/article/West-Haven-falls-victim-to-ransomware-13318508.php
+2018,7,7/01/2018,Derby Police Department,Derby,CT,Municipality,Unknown,,Yes,Trend Micro,Trend Micro,http://www.wfsb.com/story/38614562/derby-police-dept-hit-by-hackers
+2018,6,6/01/2018,Middleton School District,Middleton,CT,Education,No,,Yes,,,http://www.courant.com/community/middletown/hc-news-middletown-school-ransomware-20180629-story.html
+2018,3,3/01/2018,Connecticut Court Systems,Hartford,CT,Municipality,No,,Yes,,,http://wtnh.com/2018/03/10/malicious-software-hits-connecticut-court-systems-computers/
+2017,10,10/01/2017,National Capital Poison Center,Washington D.C.,DC,Municipality,Unknown,,Yes,,,https://oag.ca.gov/system/files/NCPC%20Exhibit%201%20to%20CA%20Regulator%20Notice_0.pdf
+2017,1,1/01/2017,Metropolitan Police Department,District of Columbia,DC,Law Enforcement,No,,Yes,,,http://www.washingtontimes.com/news/2017/jan/28/police-surveillance-system-hacked-dc-days-prior-tr/
+2016,4,4/01/2016,House Information Security Office ,Washington D.C.,DC,Federal Government,Unknown,,,,,https://theintercept.com/2016/05/10/hackers-attempt-to-hold-capitol-hill-data-for-ransom/
+2016,3,3/01/2016,MedStar Health ,Washington D.C.,DC,Medical,No,,N/A,,,http://www.esecurityplanet.com/network-security/medstar-health-infected-with-ransomware.html
+NaN,NaN,NaN,Washington DC Metro Police,Washington,DC,Government,Unknown,,,,,https://www.cnn.com/2021/04/27/politics/dc-police-department-ransomware-attack/index.html
+NaN,NaN,NaN,iConstituent,Washington,DC,Business,Unknown,,,,,https://www.nbcnews.com/politics/congress/house-communications-vendor-compromised-ransomware-attack-n1269934
+2020,1,1/01/2020,Brandywine Urology,Wilmington,DE,Medical,Unknown,,,,,https://healthitsecurity.com/news/ransomware-attack-on-brandywine-urology-impacts-131k-patients
+2018,12,12/01/2018,Delaware Guidance Services for Children and Youth,Dover,DE,Medical,Yes,,N/A,,,https://healthitsecurity.com/news/delaware-guidance-services-ransomware-attack-impacts-50000
+2017,6,6/01/2017,Medical Oncology Hematology Consultants,Newark,DE,Medical,No,,N/A,,,https://www.healthdatamanagement.com/news/ransomware-attack-in-delaware-affects-more-than-19-000
+2021,4,4/01/2021,J&B Importers,Miami,FL,Business,Unknown,,,,,https://www.bicycleretailer.com/industry-news/2021/04/01/j-b-importers-victimized-ransomware-attack
+2021,3,3/01/2021,Broward County Public Schools,Fort Lauderdale,FL,Education,Unknown,,,,,https://wsvn.com/news/local/broward/hackers-hit-broward-county-public-schools-with-40-million-ransom-for-student-teacher-information/
+2020,4,4/01/2020,Florida Orthopaedic Institute ,Tampa Bay,FL,Medical,Unknown,,,,,https://ryortho.com/breaking/florida-orthopaedic-institute-victim-of-ransomware-attack/
+2020,3,3/01/2020,Town of Jupiter,Jupiter,FL,Municipality,Unknown,,,,,https://www.msspalert.com/cybersecurity-breaches-and-attacks/ransomware/sodinokibi-attacks-florida-towns-digital-services/
+2020,2,2/01/2020,Miami Beach Police Department,Miami,FL,Municipality,Unknown,,,,,https://www.cisomag.com/miami-beach-police-department-suffers-ransomware-attack/
+2020,1,1/01/2020,Tampa Bay Times,Tampa Bay,FL,Other,No,,,,,https://www.tampabay.com/news/business/2020/01/23/tampa-bay-times-hit-by-ransomware-attack/
+2019,12,12/01/2019,St. Lucie Sheriff's Department,St. Lucie,FL,Municipality,Unknown,,,Barracuda ,Barracuda ,https://wdef.com/2019/12/17/ransomware-attacks-hit-4-u-s-cities-month/
+2019,12,12/01/2019,City of Pensacola,Pensacola,FL,Municipality,Unknown,,,FireEye,,https://www.infosecurity-magazine.com/news/pensacola-attack-suspected/
+2019,11,11/01/2019,Center for Facial Restoration,Miramar,FL,Medical,Unknown,,,,,https://www.hipaajournal.com/ransomware-attacks-reported-by-florida-and-texas-healthcare-providers/
+2019,9,9/01/2019,Wakulla County School District,Wakulla,FL,Education,Yes,,,Bitdefender,,https://www.wtxl.com/news/local-news/wakulla-county-school-board-votes-to-negotiate-with-hackers-after-ransomware-attack
+2019,8,8/01/2019,Ohev Shalom Synagogue,Maitland,FL,Other,No,,,,,http://www.fox35orlando.com/home/synagogue-in-maitland-hacked-by-ransomware
+2019,7,7/01/2019,Bilancione Dentistry,Maitland,FL,Medical,No,,,,,https://www.clickorlando.com/news/maitland-dentist-office-threatened-with-20000-ransomware
+2019,6,6/01/2019,City of Lake City,Lake City,FL,Municipality,Yes,460000,Yes,Sophos,,https://securityboulevard.com/2019/06/ransomware-attack-paralyses-lake-city-email-landlines-and-credit-card-services/
+2019,6,6/01/2019,City of Rivieria Beach,Rivieria Beach,FL,Municipality,Yes ,600000,Yes,Sophos,,https://www.cbsnews.com/news/riviera-beach-florida-ransomware-attack-city-council-pays-600000-to-hackers-who-seized-its-computer-system/
+2019,6,6/01/2019,Village of Key Biscayne,Key Biscayne,FL,Municipality,Unknown,,Yes,McAfee,,https://arstechnica.com/information-technology/2019/06/is-there-something-in-the-water-third-florida-city-hit-by-ransomware/
+2019,6,6/01/2019,WMNF Radio ,Tampa,FL,Municipality,No,,N/A,,,https://www.tampabay.com/breaking-news/radio-station-wmnf-victim-of-ransomware-cyberattack-20190717/
+2019,4,4/01/2019,City of Stuart,Stuart,FL,Municipality,No,,Yes,McAfee,,https://www.tcpalm.com/story/news/local/martin-county/2019/04/17/stuart-officials-confirm-city-victim-computer-ransomware-attack/3502211002/
+2018,12,12/01/2018,Town of Jupiter,Jupiter,FL,Municipality,No,,Yes,Beyond Trust,Trend Micro,https://cbs12.com/news/local/town-of-jupiter-hit-by-malware-attack
+2018,11,11/01/2018,FABEN Obstetrics and Gynecology,Jacksonville,FL,Medical,No,,N/A,,,https://healthitsecurity.com/news/ransomware-attack-on-floridas-faben-ob-gyn-results-in-data-loss
+2018,9,9/01/2018,Monroe County School District,Key West,FL,Education,Unknown,,N/A,Symantec,Symantec,https://www.miamiherald.com/latest-news/article218289740.html
+2017,4,4/01/2017,St. Mark's Surgical Center,Fort Myers,FL,Medical,Unknown,,N/A,,,https://www.healthdatamanagement.com/news/ransomware-hits-a-florida-surgery-center
+2016,8,8/01/2016,City of Sarasota,Sarasota,FL,Municipality,No,,Yes,Sophos,Sophos,http://www.mysuncoast.com/news/local/city-of-sarasota-s-system-hacked-by-ransomware-data-held/article_706019e2-6635-11e6-94cc-af3af2bb01f1.html
+2016,6,6/01/2016,Palm Beach 911 Systems ,Palm Beach,FL,Law Enforcement,No,,Yes,Symantec,Symantec,http://cbs12.com/news/local/town-of-palm-beach-fights-ransomware-attack-on-911-system
+NaN,NaN,NaN,University of Miami,Miami,FL,Education,Unknown,,,,,https://www.msspalert.com/cybersecurity-breaches-and-attacks/ransomware/university-ransomware-attacks-hackers-hit-colorado-miami-schools/
+2021,5,5/01/2021,Colonial Pipeline,Alpharetta,GA,Business,Yes,4400000,,,,https://www.cnbc.com/2021/05/08/colonial-pipeline-shuts-pipeline-operations-after-cyberattack.html
+2020,10,10/01/2020,Hall County,Gainesville,GA,Municipality,Unknown,,,,,https://www.nbcnews.com/tech/security/ransomware-hit-georgia-county-didn-t-stop-its-ballot-counting-n1244601
+2020,9,9/01/2020,Jekyll Island Authority,Jekyll Island,GA,Municipality,Unknown,,,,,https://www.govtech.com/security/Jekyll-Island-Authority-Targeted-by-Ransomware-Attack.html
+2020,5,5/01/2020,City of Columbus,Columbus,GA,Municipality,Unknown,,,,,https://www.wrbl.com/news/local-news/columbus-mayor-confirms-ransomware-attack-on-city-government-yesterday/
+2020,5,5/01/2020,City of Columbus,Columbus,GA,Municipality,Unknown,,,,,https://www.wrbl.com/news/local-news/columbus-mayor-confirms-ransomware-attack-on-city-government-yesterday/
+2020,2,2/01/2020,Rockdale County,Conyers,GA,Municipality,Unknown,,,AVG,,https://www.11alive.com/article/news/local/rockdale-county-ransomware-attack/85-d4d56adf-ea16-4ca9-aba0-e668f37548ac
+2019,12,12/01/2019,City of Dunwoody,Dunwoody,GA,Municipality,Unknown,,,,,https://www.reporternewspapers.net/2020/01/26/cyber-attack-is-estimated-cost-to-dunwoody-at-least-80k/
+2019,10,10/01/2019,City of Cornelia ,Cornelia,GA,Municipality,No,,,,,https://securityintelligence.com/news/georgia-city-avoids-data-loss-after-third-ransomware-attack-of-2019/
+2019,9,9/01/2019,Houston County Schools,Perry,GA,Education,Unknown,,,,,https://www.13wmaz.com/article/news/local/houston-county-board-of-education-website-hit-with-ransomware-attack/93-dece14ea-9fef-4c3b-a913-ea972c5b46fc
+2019,7,7/01/2019,Georgia Court Agency,Atlanta,GA,Municipality,Unknown,,,,,https://www.ajc.com/news/state--regional-govt--politics/georgia-court-agency-hacked-ransom-attack/P3UaTuigNhT6JfREQaiKZK/
+2019,7,7/01/2019,Lawrenceville Police Department,Lawrenceville,GA,Municipality,Unknown,,Yes,Check Point,Check Point,https://www.11alive.com/article/news/local/mynews/lawrenceville/ransomeware-hits-lawrenceville-pd-computer-systems/85-5b4cd2dc-4b30-482c-85f7-44d84bebf7a2
+2019,7,7/01/2019,Henry County,McDonough,GA,Municipality,Unknown,,,,,https://www.ajc.com/news/local/henry-county-networks-still-offline-five-days-after-malware-attack/jRM5Qpf9EcXeNlKzoYRRPP/
+2019,7,7/01/2019,Department of Public Safety,Atlanta,GA,Municipality,No,,,"Malwarebytes, Webroot","Malwarebytes, Webroot, Endgame",https://www.wbay.com/content/news/Georgia-State-Patrol-hit-by-ransomware-attack-513307421.html
+2019,6,6/01/2019,Floyd County Courts,Rome,GA,Municipality,No,,,SonicWall,,http://www.northwestgeorgianews.com/rome/news/local/floyd-county-courts-are-recovering-after-malware-attack/article_e0b139a4-fbf3-11e9-9609-bf8a038a9f3e.html
+2019,5,5/01/2019,City of Cartersville,Cartersville,GA,Municipality,Yes,380000,,,,"http://www.daily-tribune.com/stories/records-reveal-city-of-cartersville-paid-ransomware-attackers-380k,24425"
+2019,4,4/01/2019,Stone Mountain Park Association,Stone Mountain,GA,Municipality,Unknown,,Yes,Symantec,Cisco,https://www.11alive.com/article/news/local/stone-mountain/stone-mountain-memorial-association-hit-by-ransomware-attack/85-f5431fe8-5ec4-45ab-9f86-c164af52b053
+2019,3,3/01/2019,Jackson County,Jefferson,GA,Municipality,Unknown,,Yes,,Crowdstrike,https://www.11alive.com/article/tech/ransomware-attack-targets-rural-georgia-county/85-2d6459e7-bd16-4cf9-b9fb-b03108a25144
+2018,9,9/01/2018,Mind and Motion Developmental Centers,Suwanee,GA,Medical,Unknown,,N/A,,,https://healthitsecurity.com/news/ransomware-attack-impacts-16000-patients-in-georgia
+2018,8,8/01/2018,Coweta County,Newnan,GA,Municipality,Unknown,,Yes,,,http://times-herald.com/news/2018/08/county-computers-hit-by-ransomware
+2018,4,4/01/2018,Dawson County,Dawsonville,GA,Municipality,Unknown,,Yes,SonicWall, Continuum,https://www.dawsonnews.com/local/county-computers-downed-by-ransomware/
+2018,3,3/01/2018,City of Atlanta,Atlanta,GA,Municipality,Unknown,,Yes,McAfee,McAfee,https://www.scmagazine.com/atlanta-computer-systems-under-siege-in-possible-ransomware-attack/article/753123/
+2018,2,2/01/2018,City of Hinesville,Hinesville,GA,Municipality,Unknown,,Yes,Microsoft,"Microsoft, Palo Alto",http://coastalcourier.com/section/2/article/91246/
+2017,12,12/01/2017,Georgia Department of Agriculture,Atlanta,GA,Municipality,No,,Yes,Trend Micro,Trend Micro,http://www.myajc.com/news/state--regional-govt--politics/georgia-agriculture-website-finally-restored-after-malware-attack/PqV5X1QMaIFoPFx6zM5O2K/
+2017,7,7/01/2017,Peachtree Neurological Clinic,Atlanta,GA,Medical,No,,N/A,,,http://www.beckershospitalreview.com/healthcare-information-technology/atlanta-clinic-discovers-15-month-breach-while-investigating-separate-ransomware-attack.html
+2017,4,4/01/2017,Greenway Health,Carrollton,GA,Medical,Unknown,,N/A,,,https://www.healthdatamanagement.com/news/greenway-health-still-struggling-with-ransomware-attack
+NaN,NaN,NaN,ParkMobile,Atlanta,GA,Business,Unknown,,,,,https://heimdalsecurity.com/blog/parkmobile-breach-data-exposed/
+NaN,NaN,NaN,Applus Technologies,Tucker,GA,Business,Unknown,,,,,https://1stcybersecurity.com/index.php/2021/04/05/malware-attack-on-applus-impacts-vehicle-inspections-in-multiple-us-states/
+2018,6,6/01/2018,Fetal Diagnostic Institute of the Pacific,Honolulu,HI,Medical,Unknown,,N/A,,,https://www.beckershospitalreview.com/cybersecurity/40k-notified-of-ransomware-attack-at-hawaii-fetal-diagnostic-center.html
+2016,9,9/01/2016,Honolulu Fire Department ,Honolulu,HI,Municipality,No,,Yes,,,http://khon2.com/2016/09/26/malicious-software-may-have-infected-hfd-computer-system/
+2019,3,3/01/2019,Grinnell College in Iowa,Grinnell,IA,Education,Unknown,,N/A,,,https://www.scmagazine.com/home/security-news/threat-actors-launched-ransomware-attacks-against-three-u-s-colleges-seizing-the-data-on-students-applying-for-admission/
+2019,1,1/01/2019,Southern Hills Eye Care,Sioux City,IA,Medical,Unknown,,N/A,,,http://www.spamfighter.com/News-22150-Southern-Hills-Eye-Care-impacted-by-a-Ransomware-Attack.htm
+2018,10,10/01/2018,City of Muscatine,Muscatine,IA,Municipality,Unknown,,Yes,Malwarebytes,Malwarebytes,https://www.kwqc.com/content/news/City-of-Muscatine-reports-ransomware-attack-497981371.html
+2018,8,8/01/2018,Jones Eye Clinic,Sioux City,IA,Medical,Unknown,,N/A,,,https://siouxcityjournal.com/news/local/cyber-attack-exposed-information-for-patients-of-sioux-city-vision/article_04bac729-e3ba-585f-8e9d-373d54601186.html
+2017,6,6/01/2017,Waverly Medical Center,Waverly,IA,Medical,No,,N/A,,,http://www.radioiowa.com/2017/06/16/waverly-hospitals-computers-hacked-by-ransomware/
+2016,8,8/01/2016,Spencer Chamber of Commerce,Spencer,IA,Municipality,No,,Yes,Webroot,Webroot,http://www.spencerdailyreporter.com/story/2330132.html
+2016,7,7/01/2016,Woodbury County ,Sioux City,IA,Municipality,No,,,Sophos,Sophos, http://siouxcityjournal.com/news/supervisors-approve-investigation-into-cyber-attack-that-compromised-county-files/article_6273cb18-7704-5803-bd66-c88a9931a4d0.html
+2016,2,2/01/2016,St. Paul’s Lutheran Church ,Sioux City,IA,Other,No,,N/A,,,http://wqad.com/2016/02/26/churchs-computer-files-held-for-ransom-in-sioux-city-iowa/
+2019,8,8/01/2019,Nampa Idaho School District,Nampa,ID,Education,Unknown,,,,,https://arstechnica.com/information-technology/2019/08/rash-of-ransomware-continues-with-13-new-victims-most-of-them-schools/
+2019,4,4/01/2019,Sugar-Salem School District,Sugar City,ID,Education,Unknown,,Yes,,,https://www.eastidahonews.com/2019/04/ransomware-takes-down-servers-at-local-school-district/
+2018,10,10/01/2018,Madison County ,Rexburg,ID,Municipality,No,,Yes,ESET,ESET,https://www.ktvb.com/article/news/local/idaho/ransomware-attack-knocks-out-e-idaho-countys-system/277-603300893
+2017,12,12/01/2017,Jerome School District,Jerome,ID,Education,No,,Yes,Lightspeed,Sophos,http://www.kmvt.com/mycapture/submit/
+2017,2,2/01/2017,Bingham County,Blackfoot,ID,Municipality,Yes,3500,Yes,,Vipre,http://www.ksl.com/?nid=157&sid=43220149
+2021,4,4/01/2021,Illinois Attorney General,Springfield,IL,Government,Unknown,,,,,https://www.wcia.com/illinois-capitol-news/attorney-generals-office-still-locked-out-of-computer-systems-nearly-month-after-ransomware-hack/
+2020,6,6/01/2020,Columbia College,Chicago,IL,Education,Unknown,,,,,https://www.infosecurity-magazine.com/news/ransomware-strikes-third-us/
+2020,3,3/01/2020,Champaign-Urbana Public Health District,Champaign,IL,Medical,,,,,,https://www.news-gazette.com/news/local/health-care/c-u-public-health-district-s-website-held-hostage-by/article_2dadedcd-aadb-5cb1-8740-8bd9e8800e27.html
+2019,12,12/01/2019,Sycamore School District 427,Sycamore,IL,Education,Unknown,,,VMWare,VMWare,https://www.daily-chronicle.com/2019/12/03/ransomware-attack-hits-sycamore-school-district-427/apeslaw/
+2019,11,11/01/2019,Bartlett Public Library,Bartlett,IL,Municipality,Unknown,,,Sophos,Sophos,https://patch.com/illinois/elgin/bartlett-library-recovers-ransomware-virus
+2018,10,10/01/2018,Crawford County,Robinson,IL,Municipality,Unknown,,Yes,,"Trend Micro, SonicWall",https://www.wthitv.com/content/news/Clerks-office-suffers-cyber-attack-498057601.html
+2018,10,10/01/2018,Moultrie County,Sullivan,IL,Municipality,Unknown,,Yes,Symantec,,http://www.wandtv.com/story/39367288/ransomware-may-have-hit-moultrie-computer-system
+2017,11,11/01/2017,J. Sterling Morton High School,Cicero,IL,Education,No,,Yes,Trend Micro,Microsoft,https://www.bleepingcomputer.com/news/security/ransomware-targets-j-sterling-morton-high-school-students-with-fake-survey/
+2017,3,3/01/2017,Wood River Police Department,Wood River,IL,Law Enforcement,No,,Yes,McAfee,McAfee,http://thetelegraph.com/news/97981/wood-river-police-department-thwarts-attempt-at-ransomware-attack
+2017,2,2/01/2017,Roxana Police Department,Roxana,IL,Law Enforcement,Unknown,,Yes,ESET,Webroot,https://thetelegraph.com/news/96543/roxana-police-department-computer-systems-infected-by-ransomware
+NaN,NaN,NaN,LogicGate,Chicago,IL,Business,Unknown,,,,,https://techcrunch.com/2021/04/13/logicgate-risk-cloud-data-breach/
+2019,8,8/01/2019,Lake County ,Lake County,IN,Municipality,Unknown,,,Symantec,Symantec,https://arstechnica.com/information-technology/2019/08/rash-of-ransomware-continues-with-13-new-victims-most-of-them-schools/
+2019,7,7/01/2019,City of La Porte,La Porte,IN,Municipality,Yes,130000,,,,https://www.heraldargus.com/news/malware-attack-on-county-computers/article_cc551381-59d1-5478-a73d-5158a5b67648.html
+2019,7,7/01/2019,Vigo County,Terre Haute,IN,Municipality,Unknown,,,,,https://www.wibc.com/news/local-news/vigo-co-computers-hit-ransomware-attack
+2019,6,6/01/2019,Pike Township,Pike Township,IN,Municipality,Unknown,,,,,https://www.wibc.com/news/local-news/pike-township-hit-computer-hackers
+2019,4,4/01/2019,Howard County ,Kokomo,IN,Municipality,Unknown,,Yes,Sophos,Sophos,https://www.wthr.com/article/malware-attack-impacts-howard-county-government-offices
+2018,10,10/01/2018,Indiana National Guard,Indianapolis,IN,Municipality,Unknown,,Yes,,,https://www.theindychannel.com/news/state-news/indiana-national-guard-server-attacked-by-ransomware
+2018,1,1/01/2018,Hancock Regional Hospital,Greenfield,IN,Medical,Yes,55000,N/A,,,https://bitcoinist.com/pay-up-or-else-indiana-hospital-latest-victim-of-ransomware-attack/
+2018,1,1/01/2018,Adam's Memorial Hospital,Decatur,IN,Medical,Unknown,,N/A,,,http://wane.com/2018/01/18/ransomware-attack-targets-adams-memorial-hospital/
+2017,7,7/01/2017,Marion County Fairgrounds,Indianapolis,IN,Other,No,,N/A,,,http://cbs4indy.com/2017/07/07/brownsburg-public-library-and-marion-county-fairgrounds-hit-by-ransomware-attacks/
+2017,7,7/01/2017,Brownsburg Public Library,Indianapolis,IN,Other,Yes,,N/A,,,http://cbs4indy.com/2017/07/07/brownsburg-public-library-and-marion-county-fairgrounds-hit-by-ransomware-attacks/
+2017,2,2/01/2017,Richmond Housing Agency,Richmond,IN,Municipality,No,,Yes,,,http://www.miamiherald.com/news/business/technology/article138861748.html
+2017,1,1/01/2017,Indiana Cancer Services ,Muncie,IN,Medical,No,,N/A,,,http://www.networkworld.com/article/3158832/security/cyber-scum-suckers-hit-cancer-agency-with-ransomware-threaten-to-contact-families.html
+2016,11,11/01/2016,Madison County,Anderson,IN,Municipality,Yes,21000,Yes,Trend Micro,,http://www.wthr.com/article/madison-county-computer-servers-compromised-by-ransomware
+2016,11,11/01/2016,Howard County ,Kokomo,IN,Municipality,No,,Yes, Sophos, Sophos,http://kokomoperspective.com/kp/news/ransomware-targets-howard-county-government/article_9a6d8640-b5bb-11e6-854b-ff832671083f.html
+2016,5,5/01/2016,DeKalb Health ,Auburn,IN,Medical,Unknown,,N/A,,,http://www.21alive.com/nbc33/DeKalb-Health-computer-systems-down-due-to-ransomware--379711851.html
+2016,4,4/01/2016,Talley Medical Surgical Eyecare Associates,Evansville,IN,Medical,Unknown,,N/A,,,https://www.beckershospitalreview.com/cybersecurity/indiana-medical-center-alerts-106k-patients-of-ransomware-attack.html
+2016,3,3/01/2016,King’s Daughters’ Health ,Madison,IN,Medical,No,,N/A,,,http://www.cmio.net/topics/privacy-security/two-more-hospitals-halted-malware
+2017,9,9/01/2017,East Central Kansas Area Agency on Aging,Ottawa,KS,Medical,No,,N/A,,,http://www.ottawaherald.com/news/20171102/agencys-data-remains-uncompromised-after-computer-breach
+2017,9,9/01/2017,Butler County Government,El Dorado,KS,Municipality,Unknown,,Yes,Trend Micro,,http://www.kfdi.com/news/ransomware-hits-butler-co-government-computers
+2017,6,6/01/2017,Salina Family Healthcare Center,Salina,KS,Medical,No,,N/A,,,http://www.salina.com/news/20170825/ransomware-attack-launched-on-salina-family-healthcare-center
+2016,9,9/01/2016,Hutchinson Community Foundation,Hutchinson,KS,Other,No,,N/A,,,http://www.hutchnews.com/news/local_state_news/hutchinson-community-foundation-suffers-data-breach/article_db6fd8c7-c7c0-5422-aa19-f60b9c25f6c0.html
+2016,5,5/01/2016,Kansas Heart Hospital,Wichita,KS,Medical,Yes,,N/A,,,http://www.kfdi.com/news/kansas-heart-hospital-hit-with-ransomware
+2019,7,7/01/2019,Park DuValle Community Health Center,Louisville,KY,Medical,Yes,70000,,,,https://wfpl.org/park-duvalle-clinic-faces-blowback-after-ransomware-attack/
+2019,5,5/01/2019,Louisville Airport,Louisville,KY,Municipality,Unknown,,N/A,,,https://www.wave3.com/2019/05/20/louisville-airport-authority-hit-by-ransomware-attack/
+2019,4,4/01/2019,Daviess County Library,Owensboro,KY,Municipality,No,,,,,https://www.owensborotimes.com/features/community/2019/07/ransomware-attack-hinders-library-for-second-time/
+2019,4,4/01/2019,Daviess County Library,Owensboro,KY,Municipality,No,,Yes,,,http://www.14news.com/2019/04/29/malware-attack-daviess-co-library/
+2016,3,3/01/2016,Kentucky Methodist Hospital ,Henderson,KY,Medical,No,,N/A,,,http://www.bbc.com/news/technology-35880610
+2020,4,4/01/2020,Orleans Parish Assessor's Office,New Orleans,LA,Municipality,Unknown,,,,,https://www.wwltv.com/article/news/local/orleans/assessors-office-ransomware/289-2681faa3-5d40-4b86-9c74-4f8a4e7a76bc
+2020,1,1/01/2020,ITI Technical College,Baton Rouge,LA,Education,No,,,,,https://www.wafb.com/2020/02/03/iti-technical-college-latest-victim-ransomware-attacks/
+2020,1,1/01/2020,Ernest N. Morial Convention Center,New Orleans,LA,Municipality,Unknown,,,,,https://www.nola.com/news/business/article_e48dfd8a-3a57-11ea-aa33-1396ee83e1e3.html
+2019,12,12/01/2019,City of New Orleans,New Orleans,LA,Municipality,Unknown,,,,,https://techcrunch.com/2019/12/14/new-orleans-declares-state-of-emergency-following-ransomware-attack/
+2019,11,11/01/2019,State of Louisiana,Baton Rouge,LA,Municipality,No,,,,,https://www.reuters.com/article/us-usa-louisiana-cyberattack/louisiana-government-computers-knocked-out-after-ransomware-attack-idUSKBN1XS2LA
+2019,7,7/01/2019,Sabine Parish School District,Sabine,LA,Education,Unknown,,,Symantec,Symantec,http://gov.louisiana.gov/index.cfm/page/76
+2019,7,7/01/2019,Morehouse Parish School District,Bastrop,LA,Education,Unknown,,,,,http://gov.louisiana.gov/index.cfm/page/76
+2019,7,7/01/2019,Ouachita Parish School District,Monroe,LA,Education,Unknown,,,,,http://gov.louisiana.gov/index.cfm/page/76
+2019,5,5/01/2019,Imperial Health,Lake Charles,LA,Medical,,,,,,https://www.beckershospitalreview.com/cybersecurity/louisiana-physician-network-alerts-116-000-patients-of-ransomware-attack.html
+2020,7,7/01/2020,Somerset Berkley Regional High Schools,Somerset,MA,Education,Unknown,,,,,https://www.heraldnews.com/news/20200902/somerset-berkley-regional-high-school-victim-of-ransomware-attack
+2019,11,11/01/2019,Chicopee School District,Chicopee,MA,Education,Unknown,,,"Malwarebytes, Symantec","Malwarebytes, Symantec",https://www.masslive.com/news/2019/11/chicopee-school-computers-being-restored-after-ransomware-attack-leaves-many-files-useless.html
+2019,10,10/01/2019,Foxborough Regional Charter School,Foxborough,MA,Education,Unknown,,,McAfee,,https://www.bostonglobe.com/metro/2019/11/04/ransomware-attackers-demand-almost-from-foxborough-school-amid-weekslong-network-shutdown/RekQZXXFn6L1sRx5lvMmLL/story.html
+2019,9,9/01/2019,City of New Bedford,New Bedford,MA,Municipality,No,,,,,https://www.southcoasttoday.com/news/20190904/update-ransomware-attacker-demanded-53-million-from-city-of-new-bedford
+2019,4,4/01/2019,ResiDex Software,Boston,MA,Medical,Unknown,,N/A,,,https://healthitsecurity.com/news/5-more-healthcare-providers-fall-victim-to-ransomware-attacks
+2018,4,4/01/2018,Rockport Town Office,Rockport,MA,Municipality,No,,Yes,,,https://www.pressherald.com/2018/04/19/rockport-town-office-computers-hit-with-ransomware-virus/
+2018,4,4/01/2018,Leominster Schools,Leominster,MA,Education,Yes,10000,Yes,,,http://www.sentinelandenterprise.com/breakingnews/ci_31834250/leominster-pays-10k-unlock-school-districts-computer-systems
+2017,6,6/01/2017,Nuance Communications ,Burlington,MA,Other,Unknown,,N/A,,,http://www.marketwatch.com/story/nuance-communications-was-affected-by-petya-global-malware-incident-2017-06-28
+2017,3,3/01/2017,Boylston Public Television,Boylston,MA,Municipality,No,,Yes,,,http://www.telegram.com/news/20170902/boylston-station-reboots-after-ransomware-attack
+2016,4,4/01/2016,Massachusetts Police Department,Tewksbury,MA,Law Enforcement,Yes,500,Yes,,,http://www.wctechblog.com/security/police-among-victims-of-recent-ransomware-attacks/
+NaN,NaN,NaN,Rockland Public School District,Rockland,MA,Education,Unknown,,,,,https://www.msn.com/en-us/news/us/feds-investigate-ransomware-attack-against-rockland-schools/ar-AAKcLEb
+NaN,NaN,NaN,Haverhill Public Schools,Haverhill,MA,Education,Unknown,,,,,https://www.wcvb.com/article/ransomware-attack-cancels-classes-at-haverhill-public-schools/36058457#
+NaN,NaN,NaN,Steamship Authority,Cape Cod,MA,Business,Unknown,,,,,https://www.kmjnow.com/news/marthas-vineyard-ferry-disrupted-by-ransomware-attack/
+NaN,NaN,NaN,Exagrid,Marlborough,MA,Business,Yes,25000000,,,,https://www.computerweekly.com/news/252501665/Exagrid-pays-26m-to-Conti-ransomware-attackers
+NaN,NaN,NaN,City of Lawrence,Lawrence,MA,Government,Yes,,,,,https://www.boston25news.com/news/25-investigates/25-investigates-city-lawrence-hit-with-significant-ransomware-attack/GLIH7WZ4Q5GY5IFH4RANDP564M/
+NaN,NaN,NaN,Bose,Framingham,MA,Business,Unknown,,,,,https://www.securitymagazine.com/articles/95291-bose-victim-of-ransomware-attack
+2019,5,5/01/2019,City of Baltimore,Baltimore,MD,Municipality,No,,Yes,ESET,ESET,https://arstechnica.com/information-technology/2019/05/eternally-blue-baltimore-city-leaders-blame-nsa-for-ransomware-attack/
+2019,1,1/01/2019,Salisbury Police Department,Salisbury,MD,Municipality,Unknown,,Yes,,,https://www.delmarvanow.com/story/news/local/maryland/2019/01/23/salisbury-police-hit-ransomware-cyber-attack/2550120002/
+2018,3,3/01/2018,Baltimore Emergency Services,Baltimore,MD,Municipality,No,,Yes,ESET,ESET,http://www.wboy.com/news/baltimore-ransomware-attack-hobbled-citys-dispatch-system/1086195865
+NaN,NaN,NaN,University of Maryland,College Park,MD,Education,Unknown,,,,,https://www.zdnet.com/article/ransomware-group-targets-universities-of-maryland-california-in-new-data-leaks/
+2016,4,4/01/2016,Maine Police Department ,Wiscasset,ME,Law Enforcement,Yes,318,Yes,,,http://www.wctechblog.com/security/police-among-victims-of-recent-ransomware-attacks/
+2020,10,10/01/2020,City of Mount Pleasant,Mount Pleasant,MI,Municipality,Unknown,,,,,https://nbc25news.com/news/local/city-of-mt-pleasant-falls-victim-to-remote-ransomware-attack
+2020,5,5/01/2020,Michigan State University,Lansing,MI,Education,Unknown,,,Barracuda ,,https://www.zdnet.com/article/michigan-state-university-hit-by-ransomware-gang/
+2019,12,12/01/2019,Richmond Community Schools,Richmond,MI,Education,Unknown,,,,,https://www.clickondetroit.com/news/local/2020/01/02/ransomware-attack-forces-richmond-schools-to-extend-holiday-break/
+2019,4,4/01/2019,Genesee County,Flint,MI,Municipality,No,,Yes,SonicWall,SonicWall,https://wwmt.com/news/state/countys-computer-networks-attacked-by-ransomware-type-virus
+2019,3,3/01/2019,Brookside Medical Center,Battle Creek,MI,Medical,No,,N/A,,,https://securityboulevard.com/2019/04/ransomware-forces-michigan-medical-practice-to-close-shop/
+2018,5,5/01/2018,Allied Physicians,Michiana,MI,Medical,Unknown,,N/A,,,https://www.scmagazine.com/allied-physicians-hit-with-samsam-ransomware/article/767654/
+2017,7,7/01/2017,Caro Community Hospital,Caro,MI,Medical,Unknown,,N/A,,,http://www.wnem.com/story/35903543/caro-hospital-falls-victim-to-ransomware-attack
+2017,4,4/01/2017,"Airway Oxygen, Inc.",Grand Rapids,MI,Medical,Unknown,,N/A,,,http://fox17online.com/2017/06/14/local-medical-supply-company-releases-ransomware-warning/
+2016,4,4/01/2016,Board of Water and Light,Lansing,MI,Municipality,Yes,25000,Yes,,,http://www.scmagazine.com/cyberattack-knocks-lansing-utility-offline/article/492887/
+NaN,NaN,NaN,Flagstar Bank,Jackson,MI,Business,Unknown,,,,,https://www.clickondetroit.com/consumer/help-me-hank/2021/03/23/flagstar-bank-customers-personal-information-stolen-in-ransomware-attack-officials-say/
+2020,12,12/01/2020,Lake Region Healthcare,Fergus Falls,MN,,,,,,,https://healthitsecurity.com/news/minnesotas-lake-region-healthcare-recovering-from-ransomware-attack
+2019,9,9/01/2019,Southeastern Minnesota Oral & Maxillofacial Surgery,Rochester,MN,Medical,Unknown,,,,,https://www.infosecurity-magazine.com/news/ransomware-attack-on-minnesota/
+2019,2,2/01/2019,Park Rapids Public Schools,Park Rapids,MN,Education,No,,Yes,,,https://www.parkrapidsenterprise.com/news/education/4579363-park-rapids-schools-hit-ransomware-attack
+2018,3,3/01/2018,Associates in Psychiatry and Psychology,Rochester,MN,Medical,Yes,3674,N/A,,,http://www.healthcareitnews.com/news/minnesota-ransomware-attack-shows-right-way-handle-breach-response
+2017,12,12/01/2017,Proctor School District ,Duluth,MN,Education,No,,Yes,,,http://www.duluthnewstribune.com/news/4374457-proctor-schools-hit-ransomware-attack
+2017,10,10/01/2017,Colorado Center For Reproductive Medicine,Minneapolis,MN,Medical,No,,N/A,,,http://www.startribune.com/ransomware-attack-exposes-thousands-of-patients-data-at-edina-fertility-clinic/462070673/
+2016,9,9/01/2016,Crow Wing County,Brainerd,MN,Municipality,No,,Yes,,,http://www.brainerddispatch.com/news/4125343-crow-wing-county-board-back-or-pay-county-fights-against-ransomware
+2016,6,6/01/2016,Wadena City Hall ,Wadena,MN,Municipality,Unknown,,Yes,,,http://www.wadenapj.com/news/local/4082194-city-computers-infected-virus
+2019,9,9/01/2019,Betty Jean People's Health Centers,St. Louis,MO,Medical,No,,N/A,,,https://healthitsecurity.com/news/152k-patients-impacted-in-betty-jean-peoples-health-ransomware-attack
+2019,9,9/01/2019,Ava School District,Ava,MO,Education,No,,,,,https://www.spamfighter.com/News-22438-Ava-R-I-School-District-struck-by-a-ransomware-attack.htm
+2019,8,8/01/2019,Truman Medical Centers,Kansas City,MO,Medical,Yes,,,,,https://www.kshb.com/news/local-news/truman-medical-centers-hit-with-ransomware-patient-information-not-impacted
+2018,7,7/01/2018,Cass Regional Medical Center,Kansas City,MO,Medical,Unknown,,N/A,,,https://www.kshb.com/news/local-news/cass-regional-medical-center-hit-by-ransomware-attack
+2018,5,5/01/2018,Blue Springs Family Healthcare,Blue Springs,MO,Medical,Unknown,,N/A,,,https://www.healthcareitnews.com/news/ransomware-malware-attack-breaches-45000-patient-records
+2017,1,1/01/2017,St. Louis City Public Library,St. Louis,MO,Municipality,No,,Yes,Microsoft,Microsoft,http://www.kmov.com/story/34298858/st-louis-city-public-library-victim-of-ransomware-attack
+2016,7,7/01/2016,Local 655,Ballwin,MO,Other,No,,N/A,,,http://www.bna.com/ransomware-attack-hits-n57982082675/
+NaN,NaN,NaN,Park Hill School District,Kansas City,MO,Education,No,,,,,https://www.kmbc.com/article/park-hill-school-district-says-it-was-target-of-ransomware-attack/35985231
+2019,11,11/01/2019,Lincoln School District,Brookhaven,MS,Education,Unknown,,,,,clarionledger.com/story/news/local/2019/11/05/cyber-attack-ransomware-lincoln-county-school-district-mississippi-internet-safety/4164970002/
+2016,2,2/01/2016,Oxford School District ,Oxford,MS,Education,No,,Yes,,Cisco,http://www.localmemphis.com/news/local-news/oxford-school-computers-hacked-with-ransomware
+NaN,NaN,NaN,Toyota,Guntown,MS,Business,Unknown,,,,,https://www.theregister.com/2021/05/21/toyota_cyber_attacks/?&web_view=true
+2020,9,9/01/2020,Great Falls Public Schools ,Great Falls,MT,Education,Unknown,,,Malwarebytes,,https://www.greatfallstribune.com/story/news/education/2020/09/15/great-falls-public-schools-work-recover-network-ransomware-attack/5805453002/
+2020,2,2/01/2020,Havre Public Schools,Havre,MT,Education,Unknown,,,,,https://www.missoulacurrent.com/business/2020/02/ransomware-havre-schools/
+2017,4,4/01/2017,Forsyth Public Schools,Forsyth,MT,Education,No,,Yes,,,http://lastbestnews.com/site/2017/03/hackers-hit-forsyth-schools-server-cause-disruptions/
+2016,11,11/01/2016,Bigfork School District,Bigfork,MT,Education,No,,Yes,SonicWall,SonicWall,http://billingsgazette.com/news/state-and-regional/montana/ransomware-attack-on-bigfork-schools-fix-in-works/article_7ff38855-e5a1-59d8-84de-18869e1c0df6.html
+2021,2,2/01/2021,Allergy Partners of North Carolina,Ashville,NC,Medical,Unknown,,,,,https://duckduckgo.com/?q=Allergy+Partners+north+carolina&atb=v229-1&ia=web
+2020,11,11/01/2020,Columbus County ,Whiteville,NC,Municipality,Unknown,,,,,https://www.wect.com/2020/11/18/ransomware-attack-brings-columbus-countys-website-down/
+2020,8,8/01/2020,Haywood County Schools,Waynesville,NC,Education,Unknown,,,Barracuda ,,https://wlos.com/news/local/haywood-county-schools-closed-after-ransomware-attack
+2020,3,3/01/2020,County of Durham,Durham,NC,Municipality,Unknown,,,Cisco,,https://www.wral.com/durham-city-county-governments-hit-by-malware-attack/19000191/
+2020,3,3/01/2020,City of Durham,Durham,NC,Municipality,Unknown,,,"Palo Alto, Barracuda",,https://www.wral.com/durham-city-county-governments-hit-by-malware-attack/19000191/
+2019,10,10/01/2019,North Carolina State Bar,Raleigh,NC,Municipality,Unknown,,,,,https://www.wsoctv.com/news/local/nc-state-bar-hit-by-ransomware-attack/993403714
+2019,8,8/01/2019,Lincoln County Communications Center,Lincolnton,NC,Municipality,Unknown,,,,,https://www.lincolntimesnews.com/news/another-county-agency-hit-by-ransomware/article_ebfc27ac-bc64-11e9-84d4-8b355f1b7d08.html
+2019,7,7/01/2019,Lincoln County Sheriff,Lincolnton,NC,Municipality,Unknown,,,,,https://www.charlotteobserver.com/news/local/crime/article233175816.html
+2019,4,4/01/2019,City of Greenville,Greenville,NC,Municipality,Unknown,,Yes,Check Point,,https://wcti12.com/news/local/city-of-greenville-says-it-was-hit-by-ransomware-virus
+2019,3,3/01/2019,Orange County ,Hillsborough,NC,Municipality,No,,Yes,ProofPoint,,https://securityboulevard.com/2019/03/north-carolinas-orange-county-hit-by-third-ransomware-attack-in-six-years/
+2018,10,10/01/2018,Onslow Water and Sewer Authority,Jacksonville,NC,Municipality,No,,Yes,Malwarebytes,Trend Micro,https://www.wnct.com/news/local-news/hackers-hit-onslow-county-utility-with-ransomware-attack/1525255352
+2018,7,7/01/2018,LabCorp,Burlington,NC,Medical,Unknown,,N/A,,,https://www.bankinfosecurity.com/labcorp-cyberattack-impacts-testing-processes-a-11215
+2018,2,2/01/2018,Davidson County ,Lexington,NC,Municipality,Unknown,,Yes,,,http://www.wral.com/north-carolina-county-government-computers-hit-by-ransomware/17347255/
+2017,12,12/01/2017,Mecklenburg County Government,Charloette,NC,Municipality,No,,Yes,,,http://www.charlotteobserver.com/news/local/article188302469.html
+2016,7,7/01/2016,Potters Hill Missionary Baptist Church ,Pink Hill,NC,Other,No,,N/A,,,http://www.wcti12.com/news/pink-hill-pastor-says-computer-hacked-churchgoer-information-almost-compromised/40408454
+2016,9,9/01/2016,Department of Mineral Resources,Bismarck,ND,Municipality,No,,Yes,Symantec,Symantec,http://www.grandforksherald.com/news/4113494-nd-department-attacked-ransomware
+2020,2,2/01/2020,City of Wayne,Wayne,NE,Municipality,Unknown,,,McAfee,,https://www.wowt.com/content/news/City-of-Wayne-falls-victim-to-ransomware-cyber-attack-568086991.html
+2019,8,8/01/2019,CHI Health,Omaha,NE,Medical,Unknown,,,,,https://www.omaha.com/livewellnebraska/health/chi-health-says-ransomware-incident-may-have-exposed-info-of/article_f59a56f7-f789-55bb-a6ae-9003e54d4533.html
+2017,10,10/01/2017,"Eye Physicians, P.C.",Columbus,NE,Medical,No,,N/A,,,https://healthitsecurity.com/news/ransomware-attack-raises-health-data-security-worry-for-2.6k
+2018,7,7/01/2018,Health Management Concepts,Concord,NH,Medical,Yes,,N/A,,,https://healthitsecurity.com/news/hmc-says-ransomware-attack-turned-into-healthcare-data-breach
+2017,12,12/01/2017,Dartmouth College,Hanover,NH,Education,No,,N/A,,,http://www.mychamplainvalley.com/news/ransomware-detected-at-dartmouth-college/903776261
+2020,5,5/01/2020,Bernards Township,Bernards,NJ,Municipality,Unknown,,,Cisco,,https://www.newjerseyhills.com/bernardsville_news/news/bernards-township-still-recovering-from-ransomware-attack/article_60e5a769-9b84-57f8-8b4a-07ca651dead4.html
+2020,1,1/01/2020,Temple Har Shalom,Warren,NJ,Other,No,,,,,https://www.bleepingcomputer.com/news/security/new-jersey-synagogue-suffers-sodinokibi-ransomware-attack/
+2019,12,12/01/2019,Hackensack Meridian Health,Edison,NJ,Medical,Yes,,,,,https://www.wsj.com/articles/new-jersey-hospital-system-hit-by-cyberattack-11576267625
+2019,11,11/01/2019,Livingston Public Schools,Livingston,NJ,Education,Unknown,,,,,https://www.nbcnewyork.com/news/local/NJ-School-District-Hit-By-Ransomware-Attack-Officials-565407192.html
+2019,10,10/01/2019,Cherry Hill School District,Cherry Hill,NJ,Education,Unknown,,,,,https://www.phillyvoice.com/ransomware-cherry-hill-school-district-computer-attack-ryuk-russia-based/
+2019,1,1/01/2019,ActivYouth Orthopedics,Paramus,NJ,Medical,No,,N/A,,,http://www.spamfighter.com/News-22201-Ransomware-Attack-on-NJ-based-Orthopedic-Surgeon.htm
+2017,9,9/01/2017,Hackensack Sleep and Pulmonary Center,Hackensack,NJ,Medical,No,,N/A,,,http://www.healthcareitnews.com/news/ransomware-attack-nj-provider-locks-16000-patient-records
+2017,6,6/01/2017,Merck ,Kelinworth,NJ,Other,Unknown,,N/A,,,https://www.washingtonpost.com/news/the-switch/wp/2017/06/27/pharmaceutical-giant-rocked-by-ransomware-attack/?utm_term=.6bae20a1870b
+2017,4,4/01/2017,Newark City Hall,Newark,NJ,Municipality,Unknown,,Yes,,,https://blog.knowbe4.com/newark-city-hall-computers-infected-with-ransomware
+2016,8,8/01/2016,Susan M. Hughes Center,Cherry Hill,NJ,Medical,No,,N/A,,,https://www.databreaches.net/cosmetic-surgery-center-discloses-ransomware-attack/
+2016,7,7/01/2016,New Jersey Spine Center,Chatham,NJ,Medical,Yes,,N/A,,,http://www.healthcareitnews.com/news/two-more-ransomware-attacks-both-organizations-pay
+2021,2,2/01/2021,Rehoboth McKinley Christian Health Care Services,Gallup,NM,Medical,Unknown,,,,,https://healthitsecurity.com/news/hospital-recovers-from-ransomware-vendor-incidents-hit-kroeger-provider
+2020,8,8/01/2020,University of New Mexico School of Law,Albuquerque,NM,Education,Unknown,,,,,https://www.abqjournal.com/1481268/suspected-ransomware-attack-hits-unm-law-school.html
+2020,5,5/01/2020,Rio Arriba County,Tierra Amarilla,NM,Municipality,Unknown,,,Kaspersky,,https://www.govtech.com/security/New-Mexico-County-Government-Falls-Victim-to-Ransomware.html
+2020,2,2/01/2020,Gadsden School District,Santa Teresa,NM,Education,No,,,"ESET, Malwarebytes",,https://www.lcsun-news.com/story/news/local/2020/02/25/gadsden-independent-school-district-hit-ransomware-second-time-year-ryuk-virus/4870455002/
+2020,1,1/01/2020,Public Relations Commission,Santa Fe,NM,Municipality,Unknown,,,,,https://www.krwg.org/post/new-mexico-prc-website-hit-ransomware-attack
+2019,10,10/01/2019,Las Cruces Public Schools,Las Cruces,NM,Education,Unknown,,,,,https://www.lcsun-news.com/story/news/education/lcps/2019/10/29/ransomware-hits-las-cruces-school-servers-prompts-shutdown/2498837001/
+2019,7,7/01/2019,Gadsden School District,Santa Teresa,NM,Education,No,,,"ESET, Malwarebytes","ESET, Malwarebytes",https://www.lcsun-news.com/story/news/education/2019/07/31/ransomware-takes-down-new-mexico-school-district-email-system/1879318001/
+2019,2,2/01/2019,Taos Municipal Schools District,Taos,NM,Education,No,,Yes,Vipre,Vipre,"https://taosnews.com/stories/taos-schools-resolving-ransomware-attack,55866"
+2018,1,1/01/2018,City of Farmington,Farmington,NM,Municipality,No,,Yes,"McAfee, Symantec ,Malwarebytes",Cylance,http://www.daily-times.com/story/news/local/farmington/2018/01/18/farmington-recovering-after-ransomware-attack/1044845001/
+2020,9,9/01/2020,Clark County School District,Las Vegas,NV,Education,Unknown,,,,,https://www.zdnet.com/article/nevada-school-district-refuses-to-submit-to-ransomware-blackmail-hacker-responds-by-publishing-student-data/
+2019,7,7/01/2019,Lyon County School District,Yerington,NV,Education,Yes,,,Bitdefender,,https://www.ktvn.com/story/40868291/lyon-county-school-districts-network-crippled-by-ransomware
+2020,10,10/01/2020,St Lawrence Medical,Potsdam,NY,Medical,Unknown,,,,,https://www.healthcareitnews.com/news/hospitals-new-york-and-oregon-hit-ransomware-new-attacks-mount
+2020,7,7/01/2020,Samaritan Medical Center,Watertown,NY,Medical,Unknown,,,,,https://www.wwnytv.com/2020/07/28/western-ny-hospital-recounts-ransomware-experience-smc-deals-with-malware-attack/
+2020,7,7/01/2020,Erie Community College,Buffalo,NY,Education,Unknown,,,,,https://www.wgrz.com/article/news/local/erie-community-college-target-of-ransomeware-cyber-attack/71-e752a600-5192-46c1-8709-9668917dfe57
+2020,5,5/01/2020,North Babylon School District,North Babylon,NY,Education,No,,,Barracuda ,,https://patch.com/new-york/deerpark-northbabylon/north-babylon-sd-investigating-ransomware-type-computer-virus
+2020,2,2/01/2020,Jordan Health,Rochester,NY,Medical,Unknown,,,,,https://www.democratandchronicle.com/story/news/2020/02/27/jordan-health-hit-ransomware-attack-shuts-down-computer-network-rochester-canandaigua-ny/4891715002/
+2020,2,2/01/2020,Niagara University,Lewiston,NY,Education,Unknown,,,,,https://www.wkbw.com/news/local-news/niagara-university-email-servers-attacked-by-ransomware
+2020,1,1/01/2020,Town of Colonie,Colonie,NY,Municipality,Unknown,,,,,https://www.news10.com/news/local-news/cyber-attack-takes-down-town-of-colonie-computer-system/
+2019,12,12/01/2019,Albany International Airport,Albany,NY,Municipality,Yes,,,Vipre,,https://www.nbcnewyork.com/news/local/christmas-ransomware-attack-hit-new-york-airport-servers/2257843/
+2019,8,8/01/2019,Mineola Public Schools,Mineola,NY,Education,Unknown,,,,,https://arstechnica.com/information-technology/2019/08/rash-of-ransomware-continues-with-13-new-victims-most-of-them-schools/
+2019,7,7/01/2019,Brooklyn Hospital Center,New York City,NY,Medical,Unknown,,,,,https://www.fiercehealthcare.com/tech/ransomware-attack-at-brooklyn-hospital-center-results-permanent-loss-some-patient-data
+2019,7,7/01/2019,Monroe College,New York City,NY,Education,Unknown,,N/A,,,https://www.bleepingcomputer.com/news/security/monroe-college-hit-with-ransomware-2-million-demanded/
+2019,7,7/01/2019,Syracuse School District,Syracuse,NY,Education,Unknown,,Yes,,,https://www.syracuse.com/news/2019/07/syracuse-schools-cyber-attack-is-ransomware.html
+2019,7,7/01/2019,Onondaga County Library,Syracuse,NY,Municipality,Unknown,,,,,https://www.post-gazette.com/local/region/2019/07/19/Butler-County-libraries-ransomware-attack/stories/201907190115
+2019,7,7/01/2019,Rockville Centre School District,Long Island,NY,Education,Yes,100000,,,,https://www.msspalert.com/cybersecurity-breaches-and-attacks/ransomware/ryuk-hits-rockville-centre/
+2019,6,6/01/2019,Olean Medical Group,Olean,NY,Medical,Yes,,N/A,,,https://healthitsecurity.com/news/5-more-healthcare-providers-fall-victim-to-ransomware-attacks
+2019,6,6/01/2019,Seneca Nation Health Systems,Irving,NY,Medical,Unknown,,N/A,,,https://www.beckershospitalreview.com/cybersecurity/2-new-york-healthcare-providers-lose-ehr-access-following-ransomware-attacks.html
+2019,3,3/01/2019,Hamilton College in New York,Clinton,NY,Education,Unknown,,N/A,,,https://www.scmagazine.com/home/security-news/threat-actors-launched-ransomware-attacks-against-three-u-s-colleges-seizing-the-data-on-students-applying-for-admission/
+2019,3,3/01/2019,City of Albany,Albany,NY,Municipality,Unknown,,Yes,,,https://www.news10.com/news/local-news/city-of-albany-hit-with-ransomware-attack/1890275494
+2018,3,3/01/2018,Finger Lakes Health,Geneva,NY,Medical,Unknown,,N/A,,,https://www.beckershospitalreview.com/cybersecurity/finger-lakes-health-reports-ransomware-attack-unable-to-access-computers.html
+2017,4,4/01/2017,Erie County Medical Center,Buffalo,NY,Medical,No,,N/A,,,http://www.beckershospitalreview.com/healthcare-information-technology/erie-county-medical-center-facing-8th-straight-day-without-full-use-of-computer-system.html
+2016,5,5/01/2016,Rhinebeck Central School District ,Rhinebeck,NY,Education,No,,Yes,,,http://www.dailyfreeman.com/general-news/20160615/rhinebeck-school-district-computer-system-attacked-by-ransomware
+NaN,NaN,NaN,Personal Touch Holding Corp.,Lake Success,NY,Medical,Unknown,,,,,https://www.beckershospitalreview.com/cybersecurity/ransomware-attack-affects-750-000-personal-touch-patients-employees-across-u-s.html
+2020,3,3/01/2020,Woodlawn Dental Center,Cambridge,OH,Medical,No,,,,,https://www.healthcareinfosecurity.com/ransomware-attacks-hit-2-more-healthcare-organizations-a-14379
+2020,1,1/01/2020,Lakeland Community College,Kirtland,OH,Education,Unknown,,,,,https://www.news-herald.com/news/lakeland-community-college-hit-by-ransomware-attack/article_493d2b36-4217-11ea-8da3-b3bcdecf192a.html
+2019,7,7/01/2019,Richmond Heights City Hall,Richmond Heights,OH,Municipality,No,,,,,https://www.cleveland.com/community/2019/07/ransomware-infects-richmond-heights-city-hall-computer-for-one-day-police-fbi-are-investigating.html
+2019,7,7/01/2019,Eye Care Associates,Youngstown,OH,Medical,Unknown,,,,,https://www.beckershospitalreview.com/cybersecurity/ohio-ophthalmology-practice-hit-by-ransomware-attack.html
+2019,6,6/01/2019,NEO Urology ,Boardman,OH,Medical,Yes,75000,N/A,,,https://healthitsecurity.com/news/ohio-provider-pays-75k-ransom-after-serious-hack-on-it-system
+2019,6,6/01/2019,Fayette County,Washington,OH,Municipality,Unknown,,Yes,,,https://www.recordherald.com/news/41046/malware-renders-county-email-unusable
+2019,3,3/01/2019,Oberlin College,Oberlin,OH,Education,Unknown,,N/A,,,https://www.scmagazine.com/home/security-news/threat-actors-launched-ransomware-attacks-against-three-u-s-colleges-seizing-the-data-on-students-applying-for-admission/
+2019,1,1/01/2019,City of Akron,Akron,OH,Municipality,Unknown,,Yes,,,https://www.whio.com/news/local/akron-says-cyberattack-forced-shutdown-city-help-line/v4BrtJeIPrYZSzbslexK1I/
+2018,11,11/01/2018,Ohio Valley Medical Center and East Ohio Regional Hospital,Wheeling,OH,Medical,Unknown,,N/A,,,http://www.theintelligencer.net/news/top-headlines/2018/11/ovmc-eorh-computers-are-attacked-by-hackers/
+2018,5,5/01/2018,Riverside Fire & Police Department,Riverside,OH,Municipality,No,,Yes,Kaspersky, ESET,https://www.daytondailynews.com/news/local/update-secret-service-investigating-riverside-computer-attack/37qN8APv3KV3u8WM5cxShM/
+2018,1,1/01/2018,Pulmonary Physicians,Canton,OH,Medical,Unknown,,N/A,,,https://www.news5cleveland.com/news/local-news/cleveland-metro/ne-ohio-doctors-having-to-turn-patients-away-after-company-that-stores-patient-records-was-hacked
+2017,8,8/01/2017,Mad River Twp. Fire and EMS,Enon,OH,Municipality,No,,Yes,,,http://www.springfieldnewssun.com/news/local/mad-river-twp-fire-and-ems-data-hacked-encrypted-with-ransomware/opxU7apA05cKTWwKzcxZMK/
+2017,5,5/01/2017,"PVHS-ICM Employee Health and Wellness, LLC",Dublin,OH,Medical,Unknown,,N/A,,,https://dojmt.gov/wp-content/uploads/PVHS-ICM-Employee-Health-and-Wellness.pdf
+2017,2,2/01/2017,Licking County ,Newark,OH,Municipality,Unknown,,Yes,Webroot,Webroot,https://techcrunch.com/2017/02/02/ransomware-completely-shuts-down-ohio-town-government/
+2020,8,8/01/2020,Ponca City Public Schools ,Ponca City,OK,Education,Unknown,,,,,https://kfor.com/news/local/ponca-city-public-schools-delays-start-of-school-due-to-ransomware-attack/
+2019,7,7/01/2019,Broken Arrow Public Schools,Broken Arrow,OK,Education,Unknown,,,,,https://www.newson6.com/story/40867182/broken-arrow-schools-victim-of-ransomware-attack
+2019,5,5/01/2019,Oklahoma City Public Schools,Oklahoma City,OK,Education,Unknown,,Yes,Symantec,,https://kfor.com/2019/05/14/okcps-confirms-ransomware-cyber-attack/
+NaN,NaN,NaN,City of Tulsa,Tulsa,OK,Government,Unknown,,,,,https://www.fox23.com/news/local/tulsa-city-officials-ransomware-attack-causing-technical-difficulties/R4BXXHIRVJCYDHUG6VAUFJB4BQ/
+2020,11,11/01/2020,Jackson County,Medford,OR,Municipality,Unknown,,,,,https://mailtribune.com/news/top-stories/ransomware-attack-shuts-jackson-county-website
+2020,10,10/01/2020,Sky Lakes Medical Center,Klamath Falls,OR,Medical,Unknown,,,,,https://www.healthcareitnews.com/news/hospitals-new-york-and-oregon-hit-ransomware-new-attacks-mount
+2020,6,6/01/2020,City of Keizer,Keizer,OR,Municipality,Yes,48000,,,,https://www.govtech.com/security/Keizer-Ore-Pays-48000-to-Hackers-After-Ransomware-Attack.html
+2018,11,11/01/2018,City of North Bend,North Bend,OR,Municipality,No,,Yes,Faronics,Sophos,https://theworldlink.com/news/local/north-bend-computer-systems-fall-victim-to-ransomware/article_78ba3e86-8a56-516f-b64a-2ac35a8f2fd9.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share
+2018,5,5/01/2018,Roseburg Public Schools,Roseburg,OR,Education,Unknown,,Yes,,SentinelOne,http://kval.com/news/local/ransomware-attack-freezes-roseburg-public-schools-computers
+2016,5,5/01/2016,Grant County Education Service District ,John Day,OR,Education,Unknown,,Yes,Symantec,"Sophos,EdgeWave",http://www.bluemountaineagle.com/Local_News/20160525/esd-hit-by-ransomware-attack
+2016,2,2/01/2016,Community of Christ Church ,Hillsboro,OR,Other,Yes,570,N/A,,,http://katu.com/news/local/pay-to-unlock-computer-files-church-targeted-in-ransomware-attack
+2020,11,11/01/2020,Delaware County,Media,PA,Municipality,Yes,500000,,,,https://www.bleepingcomputer.com/news/security/pennsylvania-county-pays-500k-ransom-to-doppelpaymer-ransomware/
+2020,4,4/01/2020,Borough of Ducannon,Ducannon,PA,Municipality,Yes,43000,,,,https://www.fox43.com/article/news/crime/borough-of-duncannon-says-it-was-the-victim-of-ransomware-attack-last-month/521-6fe873fd-1e29-4e7c-b227-44a8bcad6609
+2020,2,2/01/2020,Allegheny Intermediate Unit,Homestead,PA,Education,Unknown,,,,,https://pittsburgh.cbslocal.com/2020/02/06/aiu-ransomware-attack/
+2019,9,9/01/2019,Souderton Area School District,Sounderton,PA,Education,Unknown,,,,,https://philadelphia.cbslocal.com/2019/09/10/ransomware-attack-disrupting-souderton-area-school-district-network-technology-systems/
+2019,7,7/01/2019,Butler County Library ,Butler,PA,Municipality,Unknown,,,,,https://www.wesa.fm/post/hit-ransomware-butler-county-libraries-go-back-paper-only-loans#stream/0
+2019,5,5/01/2019,City of Washington,Washington,PA,Municipality,Unknown,,Yes,,,https://www.wpxi.com/news/top-stories/ransomware-attack-shutdown-computer-systems-washington/948228193
+2019,5,5/01/2019,Philadelphia Online Courts,Philadelphia,PA,Municipality,Unknown,,Yes,,,https://futurism.com/the-byte/malware-shutdown-philadelphia-court-system
+2019,5,5/01/2019,Luzerne County Courthouse,Wilkes-Barre,PA,Municipality,Unknown,,Yes,AVG,Carbon Black,https://www.govtech.com/security/Experts-Give-Early-Assessment-of-Luzerne-County-Cyberattack.html
+2018,7,7/01/2018,May Eye Care Center and Associates,Hanover,PA,Medical,Unknown,,N/A,,,https://healthitsecurity.com/news/ransomware-attack-on-may-eye-care-breaches-30k-patient-records
+2017,6,6/01/2017,Heritage Valley Health Systems,Beaver,PA,Medical,Unknown,,N/A,,,https://www.recode.net/2017/6/27/15881666/global-eu-cyber-attack-us-hackers-nsa-hospitals
+2017,5,5/01/2017,Women's Healthcare Group,York,PA,Medical,No,,N/A,,,http://www.healthcareitnews.com/news/300000-records-breached-ransomware-attack-pennsylvania-health-system
+2017,3,3/01/2017,Pennsylvania State Senate,West Chester,PA,Municipality,Unknown,,Yes,Microsoft,Microsoft,https://www.10tv.com/article/pa-state-senate-democrats-say-they-are-being-held-cyber-hostage
+2016,8,8/01/2016,Susan M. Hughes Center,Glen Mills,PA,Medical,No,,N/A,,,https://www.databreaches.net/cosmetic-surgery-center-discloses-ransomware-attack/
+2016,6,6/01/2016,Ambulatory Surgery Center ,Langhorne,PA,Medical,No,,N/A,,,http://www.buckscountycouriertimes.com/news/local/ransomware-attacks-info-of-k-patients-at-ambulatory-surgery-center/article_17c97124-479b-11e6-87da-e76488b7128f.html
+2020,5,5/01/2020,Rhode Island College Foundation,Providence,RI,Education,Unknown,,,,,https://www.govtech.com/security/Rhode-Island-Entities-Breached-Through-Software-Service-Provider.html
+2020,5,5/01/2020,Providence Children's Museum,Providence,RI,Municipality,Unknown,,,,,https://www.govtech.com/security/Rhode-Island-Entities-Breached-Through-Software-Service-Provider.html
+2020,5,5/01/2020,Providence Children's Museum,Providence,RI,Municipality,Unknown,,,,,https://www.govtech.com/security/Rhode-Island-Entities-Breached-Through-Software-Service-Provider.html
+2019,12,12/01/2019,Town of East Greenwich,East Greenwich,RI,Municipality,No,,,VMWare,,https://turnto10.com/news/local/east-greenwich-computer-system-hit-with-ransomware
+2018,11,11/01/2018,Thundermist Health Center,West Warwick,RI,Medical,Unknown,,N/A,,,https://healthitsecurity.com/news/ransomware-attack-impacts-ehr-of-rhode-island-provider
+2017,1,1/01/2017,Providence Law Firm,Providence,RI,Other,Yes,,N/A,,,http://www.providencejournal.com/news/20170501/ransomware-locks-down-prominent-providence-law-firm
+2016,7,7/01/2016,University Gastroenterology,Providence,RI,Medical,Unknown,,N/A,,,http://universitygi.com/securityincident.pdf
+2021,1,1/01/2021,Georgetown County,Georgetown,SC,Government,No,,,,,https://www.counton2.com/news/local-news/ransomware-gang-releases-compromising-data-on-dark-web-following-georgetown-county-cyber-attack/
+2020,3,3/01/2020,Bluffton Fire and Rescue,Bluffton,SC,Municipality,Unknown,,,,,https://www.fitsnews.com/2020/03/26/cyber-attack-reported-in-bluffton-south-carolina-authorities-confirm/
+2020,3,3/01/2020,Spartanburg District One Schools,Campobello,SC,Education,Unknown,,,,,https://www.foxcarolina.com/news/spartanburg-school-district-one-s-computer-network-hit-by-ransomware/article_956ac850-5ca8-11ea-8c50-a3d1edf33905.html
+2019,9,9/01/2019,Jasper County ,Ridgeland,SC,Municipality,Unknown,,,,,wtoc.com/2019/10/15/county-computers-attacked-by-ransomware-jasper-county/
+2018,1,1/01/2018,Spartanburg County Library,Spartenburg,SC,Municipality,Unknown,,Yes,Webroot,Webroot,http://wspa.com/2018/01/30/spartanburg-co-libraries-hit-by-ransomware-attack/
+2018,1,1/01/2018,Chester County School District,Chester,SC,Education,Unknown,,Yes,Microsoft,Microsoft,http://www.wcnc.com/article/news/crime/crimestoppers/sc-school-district-latest-victim-to-ransomware/275-512723105
+2017,6,6/01/2017,Dorchester School District Two,Summerville,SC,Education,Yes,2900,Yes,Sophos,Sophos,http://www.datacenterknowledge.com/manage/school-district-data-center-hit-ransomware
+2016,12,12/01/2016,Mount Pleasant Police Department,Mount Pleasant,SC,Law Enforcement,No,,Yes,SonicWall,Sophos,http://www.postandcourier.com/news/after-mount-pleasant-police-hit-by-ransomware-attack-experts-say/article_33c2387e-c249-11e6-b8a0-37e84ee1fd3d.html
+2016,2,2/01/2016,Horry County Schools ,Mrytle Beach,SC,Education,Yes,8500,Yes,Dell,Trend Micro,http://www.wmbfnews.com/story/31191533/horry-county-schools-struck-by-ransomware-virus
+2019,5,5/01/2019,Hutchinson County,Yankton,SD,Municipality,No,,Yes,Trend Micro,SentinelOne,https://www.yankton.net/community/article_0d5e4634-7dd4-11e9-adfc-37f64cb4fb89.html
+2018,1,1/01/2018,Belle Fourche City Hall,Bell Fourche,SD,Municipality,No,,Yes,,,https://www.scmagazine.com/belle-fourche-sd-city-hall-hit-with-ransomware/article/736278/
+2017,2,2/01/2017,Plastic Surgery Associates,Sioux Falls,SD,Medical,Unknown,,N/A,,,http://www.healthcareitnews.com/news/ransomware-attack-south-dakota-provider-breaches-data-10000-patients
+2021,4,4/01/2021,SmileDirect,Nashville,TN,Business,No,,,,,https://www.nashvillepost.com/business/area_stocks/smiledirect-victim-of-ransomware-attack/article_c211a710-acd0-11eb-8a1d-970aa6e47a9f.html
+2020,6,6/01/2020,City of Knoxville,Knoxville,TN,Municipality,Unknown,,,McAfee,,https://www.govtech.com/security/Ransomware-Attack-Disrupts-Network-in-Knoxville-Tenn.html
+2020,4,4/01/2020,Lawrence County 911 Center,Lawrenceburg,TN,Municipality,Unknown,,,,,https://www.wkrn.com/news/local-news/lawrence-county-911-center-attacked-by-ransomware/
+2020,4,4/01/2020,Coffee County Jail,Manchester,TN,Municipality,Unknown,,,Avast,,https://www.newschannel5.com/news/coffee-co-jail-target-of-ransomware-attack
+2019,10,10/01/2019,City of Johnson City,Johnson City,TN,Municipality,Unknown,,,,,https://www.wjhl.com/news/local/johnson-city-spent-350k-on-new-computers-after-ransomware-attack/
+2017,11,11/01/2017,City of Spring Hill,Spring Hill,TN,Municipality,No,,Yes,Malwarebytes,Malwarebytes,http://www.govtech.com/security/Spring-Hill-Tenn-Hit-with-Ransomware-Attack.html
+2017,9,9/01/2017,Rutherford County Sheriff's Office,Murfreesboro,TN,Municipality,Unknown,,Yes,Sophos,Sophos,http://www.dnj.com/story/news/crime/2017/09/06/sheriffs-office-halts-video-visitation-vendor-deals-ransomware-attack/639190001/?cookies=&from=global
+2017,5,5/01/2017,Murfreesboro Police Department,Murfreesboro,TN,Municipality,Unknown,,Yes,,,https://www.usnews.com/news/best-states/tennessee/articles/2017-07-06/ransomware-hits-tennessee-citys-emergency-services
+2017,5,5/01/2017,Murfreesboro Fire Department,Murfreesboro,TN,Municipality,Unknown,,Yes,,,https://www.usnews.com/news/best-states/tennessee/articles/2017-07-06/ransomware-hits-tennessee-citys-emergency-services
+2017,4,4/01/2017,Cleveland Medical Associates,Cleveland,TN,Medical,Unknown,,N/A,,,http://www.dailypostathenian.com/news/business_news/article_7dfea398-5757-11e7-8086-10604b9f1f4a.html
+2016,9,9/01/2016,Springfield City Hall,Springfield,TN,Municipality,No,,Yes,,,http://www.tennessean.com/story/news/local/robertson/2016/09/20/springfield-city-hall-recovers-ransomware-attack/90746176/
+2021,5,5/01/2021,Betenbough Companies,Lubbock,TX,Business,Unknown,,,,,https://www.lubbockonline.com/story/news/2021/05/19/lubbocks-betenbough-reveals-cybercriminals-targeted-company-month/5171898001/
+2020,12,12/01/2020,Weslaco Independent School District,Weslaco,TX,Education,Unknown,,,,,https://www.themonitor.com/2020/12/14/fbi-investigating-ransomware-attack-weslaco-school-district/
+2020,7,7/01/2020,Athens ISD,Athens,TX,Education,Yes,50000,,FortiClient,,https://www.kltv.com/2020/07/29/athens-isd-school-start-delayed-after-data-taken-hostage/
+2020,7,7/01/2020,Cooke County,Gainesville,TX,Municipality,Unknown,,,Sophos,,https://www.itwire.com/security/cooke-county-in-texas-apparently-hit-by-gang-using-revil-ransomware.html
+2020,5,5/01/2020,Department of Transportation,Austin,TX,Municipality,Unknown,,,,,https://dfw.cbslocal.com/2020/05/17/texas-government-agencies-hacked-2nd-time-in-week/
+2020,5,5/01/2020,Texas Supreme Court,Austin,TX,Municipality,No,,,,,https://www.law.com/texaslawyer/2020/05/11/ransomware-hack-disables-texas-supreme-courts-website/?slreturn=20200413095153#
+2020,2,2/01/2020,Grayson County,Sherman,TX,Municipality,Unknown,,,,,https://www.kxii.com/content/news/Grayson-Co-systems-offline-due-to-cyber-security-threat-investigation-568142731.html
+2020,2,2/01/2020,La Salle County,Cotulla,TX,Municipality,No,,,,,https://www.mywebtimes.com/2020/02/26/ransomware-attack-responsible-for-la-salle-county-technology-issues/a3utsw7/
+2020,1,1/01/2020,City of Ingleside,Ingleside,TX,Municipality,Unknown,,,,,https://www.kiiitv.com/article/news/local/ransomware-attack-hits-city-of-ingleside/503-46c2ad28-b617-4cab-8991-711c64ffdebc
+2019,10,10/01/2019,Children's Choice Pediatrics,McKinney,TX,Medical,No,,,,,https://www.hipaajournal.com/ransomware-attacks-reported-by-florida-and-texas-healthcare-providers/
+2019,9,9/01/2019,City of Robstown,Robstown,TX,Municipality,No,,,,,https://www.kiiitv.com/article/news/local/city-of-robstown-still-working-to-recover-evidence-lost-in-ransomware-attack/503-ecfc58e4-28dd-48c3-b508-d76419977504
+2019,9,9/01/2019,Travis County Appraisal District,Austin,TX,Municipality,No,,,,,https://www.kut.org/post/travis-county-appraisal-districts-computer-system-back-after-ransomware-attack
+2019,9,9/01/2019,Rockwall ISD,Rockwall,TX,Education,Unknown,,,Bitdefender,"Carbon Black, Cisco",https://www.facebook.com/122171511192239/posts/we-are-grateful-for-your-patience-these-last-few-days-we-know-that-during-this-p/2456081284467905/
+2019,8,8/01/2019,City of Wilber,Wilber,TX,Municipality,Unknown,,,,,https://www.thedailybeast.com/texas-officials-22-cities-affected-by-ransomware
+2019,8,8/01/2019,City of Borger,Borger,TX,Municipality,Unknown,,,Malwarebytes,,https://www.thedailybeast.com/texas-officials-22-cities-affected-by-ransomware
+2019,8,8/01/2019,City of Keene,Kenne,TX,Municipality,Unknown,,,,,https://www.thedailybeast.com/texas-officials-22-cities-affected-by-ransomware
+2019,8,8/01/2019,North Lamar Schools,Paris,TX,Education,Unknown,,,McAfee,,https://eparisextra.com/local-news/ransomware-attack-hits-north-lamar-schools/
+2019,7,7/01/2019,City of Collierville,Collierville,TX,Municipality,Unknown,,,,,https://www.wmcactionnews5.com/2019/07/18/city-collierville-files-attacked-by-ransomware/
+2019,7,7/01/2019,Berry Family Services,Rowlett,TX,Medical,Yes,,,,,https://www.beckershospitalreview.com/cybersecurity/texas-healthcare-provider-pays-hackers-in-ransomware-attack.html
+2019,5,5/01/2019,City of Edcouch,Edcouch,TX,Municipality,Unknown,,Yes,,,https://www.themonitor.com/2019/06/08/edcouch-server-hit-ransomware/
+2019,5,5/01/2019,City of Laredo,Laredo,TX,Municipality,Unknown,,Yes,Symantec,Symantec,http://www.spamfighter.com/News-22239-Laredo-Citys-Office-become-victim-of-a-ransomware-attack.htm
+2019,4,4/01/2019,Potter County,Amarillo,TX,Municipality,No,,Yes,Symantec,Symantec,https://abc7amarillo.com/news/local/potter-county-judge-sends-email-stating-computer-issues-caused-by-ransomware
+2019,2,2/01/2019,Rainbow Dental Care,Beaumont,TX,Medical,Unknown,,,,,https://www.beaumontenterprise.com/news/article/Beaumont-dental-clinic-breached-by-ransomware-15185166.php
+2019,1,1/01/2019,City of Del Rio,Del Rio,TX,Municipality,Unknown,,Yes,SonicWall,SonicWall,https://www.cityofdelrio.com/CivicAlerts.aspx?AID=523
+2018,9,9/01/2018,Altus Baytown Hospital,Baytown,TX,Medical,Unknown,,N/A,,,https://patch.com/texas/pasadena-tx/altus-baytown-hospital-reports-ransomware-incident
+2017,10,10/01/2017,Texas Department of Agriculture,Austin,TX,Municipality,Unknown,,Yes,McAfee,McAfee,https://www.news-journal.com/news/2017/nov/30/state-ag-dept-east-texas-school-districts-among-th/
+2017,6,6/01/2017,Calallen Independent School District,Corpus Christi,TX,Education,Unknown,,Yes,Microsoft,Vipre,http://www.kristv.com/story/35783260/calallen-isd-networks-hit-by-ransomware-attack
+2017,2,2/01/2017,ABCD Pediatrics ,San Antonio,TX,Medical,No,,N/A,,,http://www.abcdpediatrics.com/HIPAANotificaiton/
+2017,1,1/01/2017,Urology Austin,Austin,TX,Medical,Unknown,,N/A,,,http://kxan.com/2017/03/24/ransomware-attack-on-urology-austin-gets-patient-information/
+2016,12,12/01/2016,Cockrell Hill Police Department,Cockrell Hill,TX,Law Enforcement,No,,Yes,,,https://www.bleepingcomputer.com/news/security/police-department-loses-years-worth-of-evidence-in-ransomware-incident/
+2016,11,11/01/2016,Seguin Dermatology,Seguin,TX,Medical,No,,N/A,,,http://www.expressnews.com/business/local/article/
+2016,9,9/01/2016,Palmhurst Police Department,Palmhurst,TX,Law Enforcement,No,,Yes,,,http://www.krgv.com/story/33153212/palmhurst-police-department-avoids-data-loss
+2016,8,8/01/2016,Rainbow Children's Clinic,Arlington,TX,Medical,No,,N/A,,,http://www.information-management.com/news/security/patient-records-deleted-in-ransomware-attack-10030033-1.html
+2016,8,8/01/2016,Tarrant County ,Fort Worth,TX,Municipality,No,,Yes,VMWare,VMWare,http://www.star-telegram.com/news/politics-government/article94000442.html
+2016,5,5/01/2016,Abilene Independent School District ,Abilene,TX,Education,No,,Yes,Microsoft,Microsoft,http://techtalk.pcpitstop.com/2016/05/12/texas-abilene-isd-new-ransomware-attack/
+2016,4,4/01/2016,North East Independent School District,San Antonio,TX,Education,No,,Yes,Kaspersky,Microsoft,http://news.softpedia.com/news/ransomware-hits-20-schools-in-texas-district-502761.shtml
+2016,1,1/01/2016,Titus Regional Medical Center,Mt Pleasant,TX,Medical,No,,N/A,,,http://www.bankinfosecurity.com/ransomware-hits-hospitals-a-8872/op-1
+NaN,NaN,NaN,Jones Day Law Firm,Dallas,TX,Business,Unknonw,,,,,https://news.bloomberglaw.com/business-and-practice/jones-day-hit-by-data-breach-as-vendor-accellion-hacks-widen
+NaN,NaN,NaN,Houston Rockets,Houston,TX,Business,Unknown,,,,,https://www.bloomberg.com/news/articles/2021-04-14/nba-s-houston-rockets-face-cyber-attack-by-ransomware-group
+2020,8,8/01/2020,University of Utah,Salt Lake City,UT,Education,Yes,457059,,,,https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/
+2019,7,7/01/2019,Premier Family Medical,Lindon,UT,Medical,Unknown,,,,,https://www.govinfosecurity.com/ransomware-attack-on-utah-clinic-affects-320000-a-13078
+2019,3,3/01/2019,Garfield County,Panguitch,UT,Municipality,Yes,,Yes,,,https://fox13now.com/2019/04/11/ransomware-attack-hits-garfield-county-shutting-off-its-computer-access-for-weeks/
+2020,9,9/01/2020,Fairfax County Schools,Fairfax,VA,Education,Unknown,,,,,https://wtop.com/fairfax-county/2020/09/hackers-attack-fairfax-county-school-system-with-ranswomware/
+2019,9,9/01/2019,Smyth County Schools,Marion,VA,Education,No,,,,,https://www.roanoke.com/news/crime/smyth-county-schools-recover-from-ransomware-attack/article_fd4db2fe-f5c5-51cd-8ca8-36dfd2a6e2a4.html
+2019,8,8/01/2019,New Kent County Public Schools,New Kent,VA,Education,Unknown,,,,Crowdstrike,https://arstechnica.com/information-technology/2019/08/rash-of-ransomware-continues-with-13-new-victims-most-of-them-schools/
+2017,6,6/01/2017,Thomas Jefferson Monticello,Charlottesville,VA,Other,Unknown,,N/A,,,https://federalnewsradio.com/technology-news/2017/06/ransomware-attack-hits-thomas-jeffersons-monticello/
+2016,8,8/01/2016,Appalachian Regional Hospitals,West Virginia,VA,Medical,Unknown,,N/A,,,http://www.register-herald.com/news/arh-computers-breached/article_5159665b-7786-523b-b233-c3524259b538.html
+2016,6,6/01/2016,Professional Dermatology Care,Reston,VA,Medical,Unknown,,N/A,,,http://www.healthdatamanagement.com/news/hackers-mount-ransomware-attack-on-virginia-dermatology-practice
+2020,10,10/01/2020,University of Vermont Health Networks,Burlington,VT,Medical,Unknown,,,,,https://healthitsecurity.com/news/army-national-guard-deployed-to-uvm-to-assist-ransomware-recovery
+2020,9,9/01/2020,Wenatchee Valley College,Wenatchee,WA,Education,Unknown,,,,,https://www.zdnet.com/article/nevada-school-district-refuses-to-submit-to-ransomware-blackmail-hacker-responds-by-publishing-student-data/
+2019,7,7/01/2019,Moses Lake School District,Moses Lake,WA,Education,No,,,,,http://www.ifiberone.com/columbia_basin/moses-lake-school-district-hit-with-ransomware-attack-in-july/article_3dac2db2-c5cb-11e9-aa8f-0f0e9c8131ca.html
+2019,6,6/01/2019,Gray's Harbor Community Hospital,Aberdeen,WA,Medical,Unknown,,N/A,,,https://www.thedailyworld.com/news/hospital-computer-issues-stem-from-ransomware/
+2019,6,6/01/2019,Grays Harbor Community Hospital,Aberdeen,WA,Medical,Unknown,,,,,https://healthitsecurity.com/news/hackers-demand-1m-in-grays-harbor-ransomware-attack
+2019,6,6/01/2019,Harbor Medical Group,Aberdeen,WA,Medical,Unknown,,,,,https://healthitsecurity.com/news/hackers-demand-1m-in-grays-harbor-ransomware-attack
+2019,1,1/01/2019,City of Sammamish,Sammamish,WA,Municipality,Unknown,,Yes,"Kaspersky, Sophos",Malwarebytes,https://komonews.com/news/local/city-of-sammamish-declares-emergency-over-ransomware-attack
+2019,1,1/01/2019,Columbia Surgical Specialists,Spokane,WA,Medical,Yes,15000,N/A,,,http://www.spokesman.com/stories/2019/mar/07/spokanes-columbia-surgical-specialists-paid-nearly/
+NaN,NaN,NaN,"Automatic Funds Transfer Services, Inc.",Seattle,WA,Business,Unknown,,,,,https://abc7news.com/personal-information-of-california-drivers-potentially-compromised-in-ransomware-attack-of-dmv-contractor/10348979/
+NaN,NaN,NaN,Clover Park School District,Tacoma,WA,Education,Unknown,,,,,https://www.kiro7.com/news/local/clover-park-school-district-investigating-possible-ransomware-attack/J7ZJQSJGBRARJE5IEM3CMJVV2M/
+2020,1,1/01/2020,City of Oshkosh,Oshkosh,WI,Municipality,Unknown,,,,,https://www.wbay.com/content/news/Oshkosh-city-services-returning-after-ransomware-attack-567597171.html
+2020,1,1/01/2020,City of Racine,Racine,WI,Municipality,Unknown,,,,,https://journaltimes.com/news/local/ransomware-infects-city-of-racine-computer-systems/article_507e90f0-0ac5-5951-9891-81a277e0e2d1.html
+2019,10,10/01/2019,Union Grove High School,Union Grove,WI,Education,Unknown,,,Symantec,Symantec,https://journaltimes.com/news/local/union-grove-high-learns-lessons-from-ransomware-scare/article_cbf744f9-2cdd-586c-b713-fb738cd470fc.html
+2017,12,12/01/2017,Village of Nashotah,Nashotah,WI,Municipality,Yes,2000,Yes,McAfee,McAfee,https://www.jsonline.com/story/communities/lake-country/news/nashotah/2017/12/08/after-computer-hack-nashotah-pays-2-k-ransom-residents-personal-information/931996001/
+2016,11,11/01/2016,Metropolitan Urology Group,Waukesha,WI,Medical,No,,N/A,,,http://www.gourology.com/posts/news/metropolitan-urology-group-notifies-patients-of-breach-of-unsecured-personal-information/
+2016,6,6/01/2016,City of Janesville,Janesville,WI,Municipality,No,,Yes,McAfee,FireEye,http://www.channel3000.com/news/Janesville-computer-systems-hit-by-virus-likely-ransomware/40142246
+NaN,NaN,NaN,Tigerton Schools,Tigerton,WI,Education,Unknown,,,,,https://fox11online.com/news/education/ransomware-attack-responsible-for-internet-issues-at-tigerton-schools
+2019,11,11/01/2019,Wood County Schools,Parkersburg,WV,Education,Unknown,,,,,http://wvmetronews.com/2019/11/14/wood-county-schools-rebuild-continues-after-ransomware-attack/
+2017,1,1/01/2017,Kanawha County Schools,Charleston,WV,Education,No,,Yes,Cisco,Bitdefender,http://www.wsaz.com/content/news/Kanawha-County-Schools-repairing-system-after-ransomware-hack-410548615.html
+2019,9,9/01/2019,Campbell County Health,Sheridan,WY,Medical,Unknown,,,,,https://www.sheridanmedia.com/news/campbell-county-health-victim-ransomware-attack108185

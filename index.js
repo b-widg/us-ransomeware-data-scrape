@@ -76,7 +76,7 @@ const getData = async () => {
         const attackMonth = parseInt(tableData[0].textContent.split('-')[1]);
         const entity = tableData[1].textContent;
         const city = tableData[2].textContent.split(',')[0]; // Pull city only from City, ST
-        const entitType = tableData[3].textContent;
+        const entityType = tableData[3].textContent;
         const ransomPaid = tableData[4].textContent;
         const amountPaid = parseInt(tableData[5].textContent.slice(1)) || ''; // Remove $ from string and convert to Int
         const foiaReq = tableData[6].textContent;
@@ -92,7 +92,7 @@ const getData = async () => {
           entity,
           city,
           state,
-          entitType,
+          entityType,
           ransomPaid,
           amountPaid,
           foiaReq,
