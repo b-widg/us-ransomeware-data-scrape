@@ -1,7 +1,7 @@
 # Simple Scrape of US Ransomware Attack Data
 
 ## About
-This is a script written to gather some sample data to use in a visualization.  I decided to share in case anyone was interested.  The data lists details of  ransomware attacks in the US in recent years and is take from the [PC Matic](https://www.pcmatic.com/ransomware/) website.
+This is a script written to gather some sample data to use in a visualization.  I decided to share in case anyone was interested.  The data lists details of  ransomware attacks in the US in recent years and is taken from the [PC Matic](https://www.pcmatic.com/ransomware/) website.
 
 ## Dependencies
 - [jsdom](https://www.npmjs.com/package/jsdom)
